@@ -1,8 +1,8 @@
 import { generateDeploymentConfig } from "scripts";
 const config = generateDeploymentConfig("conflict_forecast");
 
-config.google_drive.sheets_folder_ids = ["[17rK56zJj_W-1ceDlSPd2QFSpnwvApHh0]"];
-config.google_drive.assets_folder_ids = ["[1SzZiWN4hvv0snDdpd-BZYPjTC6RzC1uU]"];
+config.google_drive.sheets_folder_ids = ["17rK56zJj_W-1ceDlSPd2QFSpnwvApHh0"];
+config.google_drive.assets_folder_ids = ["1SzZiWN4hvv0snDdpd-BZYPjTC6RzC1uU"];
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/conflict-forecast-content.git",
