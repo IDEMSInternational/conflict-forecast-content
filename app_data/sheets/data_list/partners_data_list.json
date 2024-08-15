@@ -1,0 +1,21 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "partners_data_list",
+  "status": "released",
+  "data_list_name": "partners",
+  "rows": [
+    {
+      "id": "innodems",
+      "splash_page": 1,
+      "name": "INNODEMS",
+      "image_asset": "logos/innodems.png"
+    },
+    {
+      "id": "econai",
+      "splash_page": 1,
+      "name": "EconAI",
+      "image_asset": "logos/econai.png"
+    }
+  ],
+  "_xlsxPath": "datalists/partners_data_lists.xlsx"
+}

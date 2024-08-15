@@ -1,0 +1,26 @@
+{
+  "flow_type": "global",
+  "flow_name": "navigation_globals",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "app_name",
+      "value": "Conflict Forecast App",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "app_id",
+      "value": "international.idems.wash",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true
+    }
+  ],
+  "_xlsxPath": "globals/navigation_globals.xlsx"
+}
