@@ -1,0 +1,464 @@
+{
+  "flow_type": "template",
+  "flow_name": "app_menu_terms",
+  "status": "released",
+  "flow_subtype": "legal_terms",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title_0",
+      "value": "@global.terms_and_conditions",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "title_0",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@global.terms_and_conditions",
+            "matchedExpression": "@global.terms_and_conditions",
+            "type": "global",
+            "fieldName": "terms_and_conditions"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.terms_and_conditions": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "subtitle",
+      "name": "title_1",
+      "value": "1. User Agreement",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_1"
+    },
+    {
+      "type": "text",
+      "name": "text_1_1",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_1_1"
+    },
+    {
+      "type": "text",
+      "name": "text_1_2",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_1_2"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_2",
+      "value": "2. Rules of Usage",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_2"
+    },
+    {
+      "type": "text",
+      "name": "text_2",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_2"
+    },
+    {
+      "type": "text",
+      "name": "text_3",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_3"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_3",
+      "value": "3. Content Changes",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_3"
+    },
+    {
+      "type": "text",
+      "name": "text_3_1",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_3_1"
+    },
+    {
+      "type": "text",
+      "name": "text_3_2",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_3_2"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_4",
+      "value": "4. Intellectual property",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_4"
+    },
+    {
+      "type": "text",
+      "name": "text_4",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_4"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_5",
+      "value": "5. Submissions",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_5"
+    },
+    {
+      "type": "text",
+      "name": "text_5",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_5"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_6",
+      "value": "6. Security",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_6"
+    },
+    {
+      "type": "text",
+      "name": "text_6_1",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_6_1"
+    },
+    {
+      "type": "text",
+      "name": "text_6_2",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_6_2"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_7",
+      "value": "7. External links and resources",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_7"
+    },
+    {
+      "type": "text",
+      "name": "text_7_1",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_7_1"
+    },
+    {
+      "type": "text",
+      "name": "text_7_2",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_7_2"
+    },
+    {
+      "name": "link_7_1_text",
+      "value": "Google Play Services",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "link_7_1_text"
+    },
+    {
+      "type": "tile_component",
+      "name": "link_7_1",
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to_url",
+          "args": [
+            "https",
+            "//policies.google.com/terms"
+          ],
+          "_raw": "click | go_to_url: https://policies.google.com/terms",
+          "_cleaned": "click | go_to_url: https://policies.google.com/terms"
+        }
+      ],
+      "exclude_from_translation": true,
+      "parameter_list": {
+        "first_line_text": "@local.link_7_1_text",
+        "left_icon_src": "globe-outline",
+        "style": "button_tile",
+        "icon_src": "chevron-forward-outline"
+      },
+      "_nested_name": "link_7_1",
+      "_dynamicFields": {
+        "parameter_list": {
+          "first_line_text": [
+            {
+              "fullExpression": "@local.link_7_1_text",
+              "matchedExpression": "@local.link_7_1_text",
+              "type": "local",
+              "fieldName": "link_7_1_text"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.link_7_1_text": [
+          "parameter_list.first_line_text"
+        ]
+      }
+    },
+    {
+      "name": "link_7_2_text",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "link_7_2_text"
+    },
+    {
+      "type": "tile_component",
+      "name": "link_7_2",
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to_url",
+          "args": [
+            "https",
+            "//firebase.google.com/terms/analytics"
+          ],
+          "_raw": "click | go_to_url: https://firebase.google.com/terms/analytics",
+          "_cleaned": "click | go_to_url: https://firebase.google.com/terms/analytics"
+        }
+      ],
+      "exclude_from_translation": true,
+      "parameter_list": {
+        "first_line_text": "@local.link_7_2_text",
+        "left_icon_src": "globe-outline",
+        "style": "button_tile",
+        "icon_src": "chevron-forward-outline"
+      },
+      "_nested_name": "link_7_2",
+      "_dynamicFields": {
+        "parameter_list": {
+          "first_line_text": [
+            {
+              "fullExpression": "@local.link_7_2_text",
+              "matchedExpression": "@local.link_7_2_text",
+              "type": "local",
+              "fieldName": "link_7_2_text"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.link_7_2_text": [
+          "parameter_list.first_line_text"
+        ]
+      }
+    },
+    {
+      "name": "link_7_3_text",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "link_7_3_text"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_8",
+      "value": "8. Disclaimer",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_8"
+    },
+    {
+      "type": "text",
+      "name": "text_8",
+      "value": "[Placeholder text]",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_8"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_9",
+      "value": "9. Changes to the @global.terms_and_conditions",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_9",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "9. Changes to the @global.terms_and_conditions",
+            "matchedExpression": "@global.terms_and_conditions",
+            "type": "global",
+            "fieldName": "terms_and_conditions"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.terms_and_conditions": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text_9",
+      "value": "We may update our @global.terms_and_conditions from time to time. You waive your right to be notified directly of changes and are advised to review this page periodically for any updates. Your continued use of the app suggests you agree to subsequent revisions of the @global.terms_and_conditions.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_9",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "We may update our @global.terms_and_conditions from time to time. You waive your right to be notified directly of changes and are advised to review this page periodically for any updates. Your continued use of the app suggests you agree to subsequent revisions of the @global.terms_and_conditions.",
+            "matchedExpression": "@global.terms_and_conditions",
+            "type": "global",
+            "fieldName": "terms_and_conditions"
+          },
+          {
+            "fullExpression": "We may update our @global.terms_and_conditions from time to time. You waive your right to be notified directly of changes and are advised to review this page periodically for any updates. Your continued use of the app suggests you agree to subsequent revisions of the @global.terms_and_conditions.",
+            "matchedExpression": "@global.terms_and_conditions",
+            "type": "global",
+            "fieldName": "terms_and_conditions"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.terms_and_conditions": [
+          "value",
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "subtitle",
+      "name": "title_10",
+      "value": "10. Contact Us",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_10"
+    },
+    {
+      "type": "text",
+      "name": "text_10_1",
+      "value": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at apps@idems.international.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_10_1",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at apps@idems.international.",
+            "matchedExpression": "@global.terms_and_conditions",
+            "type": "global",
+            "fieldName": "terms_and_conditions"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@global.terms_and_conditions": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "text_10_2",
+      "value": "Last updated: 1 March 2023",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "text_10_2"
+    }
+  ],
+  "_xlsxPath": "templates/global/app_menu.xlsx"
+}
