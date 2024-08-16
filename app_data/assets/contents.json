@@ -8,5 +8,20 @@
     "filePath": "global/logos/innodems.png",
     "md5Checksum": "1f0564a598a4c0e51d46012b26d27959",
     "size_kb": 17.3
+  },
+  "map_data/centroids.json": {
+    "filePath": "global/map_data/centroids.json",
+    "md5Checksum": "f041bee2c57b7f4c92b88546a05116f8",
+    "size_kb": 13.4
+  },
+  "map_data/ke.json": {
+    "filePath": "global/map_data/ke.json",
+    "md5Checksum": "9a887a75373ec2e4bef94070ca0597f1",
+    "size_kb": 10219.4
+  },
+  "map_data/population_and_boundaries.json": {
+    "filePath": "global/map_data/population_and_boundaries.json",
+    "md5Checksum": "e82525f3f8057054ff7879d156ddd322",
+    "size_kb": 4513.3
   }
 }

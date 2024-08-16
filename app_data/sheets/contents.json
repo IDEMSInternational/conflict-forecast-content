@@ -1,6 +1,11 @@
 {
   "asset_pack": {},
   "data_list": {
+    "example_map_data": {
+      "flow_type": "data_list",
+      "flow_name": "example_map_data",
+      "_xlsxPath": "datalists/map_data.xlsx"
+    },
     "launch_actions": {
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
@@ -124,9 +129,14 @@
       "flow_subtype": "legal_terms",
       "_xlsxPath": "templates/global/app_menu.xlsx"
     },
-    "module_card": {
+    "map_page": {
       "flow_type": "template",
-      "flow_name": "module_card",
+      "flow_name": "map_page",
+      "_xlsxPath": "templates/global/map_page.xlsx"
+    },
+    "nav_buttons": {
+      "flow_type": "template",
+      "flow_name": "nav_buttons",
       "_xlsxPath": "templates/global/navigation_templates.xlsx"
     },
     "reference_page": {
