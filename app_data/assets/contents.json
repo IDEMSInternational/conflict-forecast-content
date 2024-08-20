@@ -23,5 +23,10 @@
     "filePath": "global/map_data/population_and_boundaries.json",
     "md5Checksum": "e82525f3f8057054ff7879d156ddd322",
     "size_kb": 4513.3
+  },
+  "plotly_exports/population_2019.html": {
+    "filePath": "global/plotly_exports/population_2019.html",
+    "md5Checksum": "eae792ff0129d79b2439b837efc9fdbc",
+    "size_kb": 7405
   }
 }

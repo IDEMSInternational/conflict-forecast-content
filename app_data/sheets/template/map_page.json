@@ -17,6 +17,10 @@
       "parameter_list": {
         "layers": "@data.example_map_data"
       },
+      "style_list": [
+        "width: 100%",
+        "height: 200px"
+      ],
       "name": "map_3",
       "_nested_name": "map_3",
       "_dynamicFields": {
