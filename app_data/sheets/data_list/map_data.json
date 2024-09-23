@@ -1,6 +1,6 @@
 {
   "flow_type": "data_list",
-  "flow_name": "example_map_data",
+  "flow_name": "map_data",
   "status": "released",
   "rows": [
     {
@@ -39,6 +39,18 @@
       "stroke": "red",
       "opacity": 1,
       "visible_default": false
+    },
+    {
+      "id": "layer_4",
+      "name": "County Centroids",
+      "description": "Centroids for each county",
+      "source_asset": "map_data/centroids.json",
+      "type": "vector",
+      "fill": "red",
+      "stroke": "none",
+      "scale_title": "County Centroids",
+      "opacity": 1,
+      "visible_default": true
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx"

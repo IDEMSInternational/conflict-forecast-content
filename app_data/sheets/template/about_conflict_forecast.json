@@ -30,7 +30,7 @@
     {
       "type": "text",
       "name": "text",
-      "value": "@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI [This is just place holder text].",
+      "value": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at national and sub-national levels with the intensity at a 55x55 km resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
       "_translations": {
         "value": {}
       },
@@ -38,7 +38,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI [This is just place holder text].",
+            "fullExpression": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at national and sub-national levels with the intensity at a 55x55 km resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
+            "matchedExpression": "@global.app_name",
+            "type": "global",
+            "fieldName": "app_name"
+          },
+          {
+            "fullExpression": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at national and sub-national levels with the intensity at a 55x55 km resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
             "matchedExpression": "@global.app_name",
             "type": "global",
             "fieldName": "app_name"
@@ -47,29 +53,10 @@
       },
       "_dynamicDependencies": {
         "@global.app_name": [
+          "value",
           "value"
         ]
       }
-    },
-    {
-      "type": "button",
-      "name": "button_references",
-      "value": "References",
-      "_translations": {
-        "value": {}
-      },
-      "action_list": [
-        {
-          "trigger": "click",
-          "action_id": "go_to",
-          "args": [
-            "reference_page"
-          ],
-          "_raw": "click | go_to:reference_page",
-          "_cleaned": "click | go_to:reference_page"
-        }
-      ],
-      "_nested_name": "button_references"
     }
   ],
   "_xlsxPath": "templates/global/app_menu.xlsx"
