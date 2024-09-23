@@ -15,7 +15,7 @@
     {
       "type": "declare_global_constant",
       "name": "app_id",
-      "value": "international.idems.wash",
+      "value": "international.idems.conflict_forecast",
       "_translations": {
         "value": {}
       },
