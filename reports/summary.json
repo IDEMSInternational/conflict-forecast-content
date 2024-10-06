@@ -1,0 +1,137 @@
+{
+  "template_components": [
+    {
+      "type": "button",
+      "count": 4
+    },
+    {
+      "type": "dashed_box",
+      "count": 1
+    },
+    {
+      "type": "debug_toggle",
+      "count": 1
+    },
+    {
+      "type": "display_group",
+      "count": 4
+    },
+    {
+      "type": "map",
+      "count": 1
+    },
+    {
+      "type": "set_variable",
+      "count": 5
+    },
+    {
+      "type": "simple_checkbox",
+      "count": 2
+    },
+    {
+      "type": "template",
+      "count": 1
+    },
+    {
+      "type": "text",
+      "count": 2
+    },
+    {
+      "type": "text_area",
+      "count": 1
+    },
+    {
+      "type": "text_box",
+      "count": 1
+    },
+    {
+      "type": "title",
+      "count": 3
+    }
+  ],
+  "template_actions": [
+    {
+      "type": "emit: completed",
+      "count": 1
+    },
+    {
+      "type": "emit: server_sync",
+      "count": 1
+    },
+    {
+      "type": "feedback",
+      "count": 1
+    },
+    {
+      "type": "go_to",
+      "count": 3
+    }
+  ],
+  "assets_size": [
+    {
+      "assets": "total",
+      "KB": "14746 KB",
+      "MB": "14.7 MB"
+    },
+    {
+      "assets": "unused",
+      "KB": "7482 KB",
+      "MB": "7.5 MB"
+    }
+  ],
+  "assets_unused": [
+    {
+      "path": "logos/econai.png",
+      "size_kb": 59.7
+    },
+    {
+      "path": "logos/innodems.png",
+      "size_kb": 17.3
+    },
+    {
+      "path": "plotly_exports/population_2019.html",
+      "size_kb": 7405
+    }
+  ],
+  "assets_missing": [
+    {
+      "path": "map_data/forecast_data_geojson.json",
+      "count": 2,
+      "missing": true
+    }
+  ],
+  "asset_summary": [
+    {
+      "path": "map_data/centroids.json",
+      "count": 1,
+      "size_kb": 13.4
+    },
+    {
+      "path": "map_data/ke.json",
+      "count": 1,
+      "size_kb": 10219.4
+    },
+    {
+      "path": "map_data/population_and_boundaries.json",
+      "count": 2,
+      "size_kb": 4513.3
+    }
+  ],
+  "flows_by_type": [
+    {
+      "type": "data_list",
+      "subtype": null,
+      "total": 1
+    },
+    {
+      "type": "global",
+      "subtype": null,
+      "total": 1
+    },
+    {
+      "type": "template",
+      "subtype": null,
+      "total": 5
+    }
+  ]
+}
