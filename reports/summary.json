@@ -70,8 +70,8 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "14746 KB",
-      "MB": "14.7 MB"
+      "KB": "14832 KB",
+      "MB": "14.8 MB"
     },
     {
       "assets": "unused",
@@ -93,18 +93,17 @@
       "size_kb": 7405
     }
   ],
-  "assets_missing": [
-    {
-      "path": "map_data/forecast_data_geojson.json",
-      "count": 2,
-      "missing": true
-    }
-  ],
+  "assets_missing": [],
   "asset_summary": [
     {
       "path": "map_data/centroids.json",
       "count": 1,
       "size_kb": 13.4
+    },
+    {
+      "path": "map_data/forecast_data_geojson.json",
+      "count": 2,
+      "size_kb": 86.1
     },
     {
       "path": "map_data/ke.json",

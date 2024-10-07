@@ -33,7 +33,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 14746 KB | 14.7 MB |
+| total | 14832 KB | 14.8 MB |
 | unused | 7482 KB | 7.5 MB |
 </details>
 
@@ -56,7 +56,6 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
-| map_data/forecast_data_geojson.json | 2 |
 </details>
 
 <details >
@@ -67,6 +66,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | path | size_kb | count |
 | --- | --- | --- |
 | map_data/centroids.json | 13.4 | 1 |
+| map_data/forecast_data_geojson.json | 86.1 | 2 |
 | map_data/ke.json | 10219.4 | 1 |
 | map_data/population_and_boundaries.json | 4513.3 | 2 |
 </details>
