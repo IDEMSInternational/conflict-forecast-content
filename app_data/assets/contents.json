@@ -14,6 +14,11 @@
     "md5Checksum": "f041bee2c57b7f4c92b88546a05116f8",
     "size_kb": 13.4
   },
+  "map_data/forecast_data_geojson.json": {
+    "filePath": "global/map_data/forecast_data_geojson.json",
+    "md5Checksum": "db1f4a3500a6341310895a8933fbb695",
+    "size_kb": 86.1
+  },
   "map_data/ke.json": {
     "filePath": "global/map_data/ke.json",
     "md5Checksum": "9a887a75373ec2e4bef94070ca0597f1",
