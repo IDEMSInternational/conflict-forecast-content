@@ -33,8 +33,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 14832 KB | 14.8 MB |
-| unused | 7482 KB | 7.5 MB |
+| total | 14932 KB | 14.9 MB |
+| unused | 7557 KB | 7.6 MB |
 </details>
 
 <details open>
@@ -46,6 +46,7 @@ Assets that appear in app-data but do not have references within sheets
 | --- | --- |
 | logos/econai.png | 59.7 |
 | logos/innodems.png | 17.3 |
+| map_data/forecast_data.json | 74.7 |
 | plotly_exports/population_2019.html | 7405 |
 </details>
 
@@ -66,7 +67,9 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | path | size_kb | count |
 | --- | --- | --- |
 | map_data/centroids.json | 13.4 | 1 |
-| map_data/forecast_data_geojson.json | 86.1 | 2 |
+| map_data/fatalities_polygons.json | 51 | 1 |
+| map_data/forecast_data_incidence.json | 86.1 | 1 |
+| map_data/forecast_riots.json | 48.6 | 1 |
 | map_data/ke.json | 10219.4 | 1 |
 | map_data/population_and_boundaries.json | 4513.3 | 2 |
 </details>
