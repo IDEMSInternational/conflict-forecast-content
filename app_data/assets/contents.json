@@ -14,10 +14,25 @@
     "md5Checksum": "f041bee2c57b7f4c92b88546a05116f8",
     "size_kb": 13.4
   },
-  "map_data/forecast_data_geojson.json": {
-    "filePath": "global/map_data/forecast_data_geojson.json",
+  "map_data/fatalities_polygons.json": {
+    "filePath": "global/map_data/fatalities_polygons.json",
+    "md5Checksum": "50a81cf4a5745bdc9fb4bf6a7e731d46",
+    "size_kb": 51
+  },
+  "map_data/forecast_data.json": {
+    "filePath": "global/map_data/forecast_data.json",
+    "md5Checksum": "e89d3f77e14fda9514b2c495d97559e8",
+    "size_kb": 74.7
+  },
+  "map_data/forecast_data_incidence.json": {
+    "filePath": "global/map_data/forecast_data_incidence.json",
     "md5Checksum": "db1f4a3500a6341310895a8933fbb695",
     "size_kb": 86.1
+  },
+  "map_data/forecast_riots.json": {
+    "filePath": "global/map_data/forecast_riots.json",
+    "md5Checksum": "4ced38fc0e746d7279859f1e4341b55d",
+    "size_kb": 48.6
   },
   "map_data/ke.json": {
     "filePath": "global/map_data/ke.json",

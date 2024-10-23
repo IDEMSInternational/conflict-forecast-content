@@ -1,0 +1,2885 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.25,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129309.0,
+                "pred_prob_any_riot_4w": 0.47,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129310.0,
+                "pred_prob_any_riot_4w": 0.8,
+                "prob_bin": 7.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129311.0,
+                "pred_prob_any_riot_4w": 0.54,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129312.0,
+                "pred_prob_any_riot_4w": 0.56,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129313.0,
+                "pred_prob_any_riot_4w": 0.62,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129314.0,
+                "pred_prob_any_riot_4w": 0.45,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129315.0,
+                "pred_prob_any_riot_4w": 0.72,
+                "prob_bin": 7.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129317.0,
+                "pred_prob_any_riot_4w": 0.08,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129318.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129319.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129320.0,
+                "pred_prob_any_riot_4w": 0.19,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129321.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129322.0,
+                "pred_prob_any_riot_4w": 0.05,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -0.25
+                ]
+            },
+            "properties": {
+                "gid": 129316.0,
+                "pred_prob_any_riot_4w": 0.6,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128602.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.25,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127883.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127882.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127881.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127880.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127879.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127870.0,
+                "pred_prob_any_riot_4w": 0.45,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127871.0,
+                "pred_prob_any_riot_4w": 0.17,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127872.0,
+                "pred_prob_any_riot_4w": 0.22,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127873.0,
+                "pred_prob_any_riot_4w": 0.12,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127874.0,
+                "pred_prob_any_riot_4w": 0.99,
+                "prob_bin": 8.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127875.0,
+                "pred_prob_any_riot_4w": 0.77,
+                "prob_bin": 7.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127876.0,
+                "pred_prob_any_riot_4w": 0.16,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127877.0,
+                "pred_prob_any_riot_4w": 0.14,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -1.25
+                ]
+            },
+            "properties": {
+                "gid": 127878.0,
+                "pred_prob_any_riot_4w": 0.08,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.25,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128589.0,
+                "pred_prob_any_riot_4w": 0.57,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128590.0,
+                "pred_prob_any_riot_4w": 0.95,
+                "prob_bin": 8.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128591.0,
+                "pred_prob_any_riot_4w": 0.34,
+                "prob_bin": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128592.0,
+                "pred_prob_any_riot_4w": 0.2,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128593.0,
+                "pred_prob_any_riot_4w": 0.64,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128594.0,
+                "pred_prob_any_riot_4w": 0.59,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128595.0,
+                "pred_prob_any_riot_4w": 0.81,
+                "prob_bin": 7.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128596.0,
+                "pred_prob_any_riot_4w": 0.25,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128597.0,
+                "pred_prob_any_riot_4w": 0.26,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128598.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128599.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128600.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    -0.75
+                ]
+            },
+            "properties": {
+                "gid": 128601.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130750.0,
+                "pred_prob_any_riot_4w": 0.6,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130751.0,
+                "pred_prob_any_riot_4w": 0.48,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130752.0,
+                "pred_prob_any_riot_4w": 0.17,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130753.0,
+                "pred_prob_any_riot_4w": 0.09,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130754.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130755.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130756.0,
+                "pred_prob_any_riot_4w": 0.05,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130757.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130759.0,
+                "pred_prob_any_riot_4w": 0.03,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130760.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130761.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130762.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    0.75
+                ]
+            },
+            "properties": {
+                "gid": 130758.0,
+                "pred_prob_any_riot_4w": 0.03,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131470.0,
+                "pred_prob_any_riot_4w": 0.42,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131471.0,
+                "pred_prob_any_riot_4w": 0.67,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131472.0,
+                "pred_prob_any_riot_4w": 0.19,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131473.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131474.0,
+                "pred_prob_any_riot_4w": 0.08,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131475.0,
+                "pred_prob_any_riot_4w": 0.04,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131476.0,
+                "pred_prob_any_riot_4w": 0.05,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131477.0,
+                "pred_prob_any_riot_4w": 0.12,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131478.0,
+                "pred_prob_any_riot_4w": 0.09,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131479.0,
+                "pred_prob_any_riot_4w": 0.08,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131480.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131481.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    1.25
+                ]
+            },
+            "properties": {
+                "gid": 131482.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.25,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130029.0,
+                "pred_prob_any_riot_4w": 0.88,
+                "prob_bin": 8.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130030.0,
+                "pred_prob_any_riot_4w": 0.68,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130031.0,
+                "pred_prob_any_riot_4w": 0.47,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130032.0,
+                "pred_prob_any_riot_4w": 0.54,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130033.0,
+                "pred_prob_any_riot_4w": 0.24,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130034.0,
+                "pred_prob_any_riot_4w": 0.09,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130035.0,
+                "pred_prob_any_riot_4w": 0.35,
+                "prob_bin": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130036.0,
+                "pred_prob_any_riot_4w": 0.5,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130037.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130038.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130039.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130040.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130041.0,
+                "pred_prob_any_riot_4w": 0.16,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    0.25
+                ]
+            },
+            "properties": {
+                "gid": 130042.0,
+                "pred_prob_any_riot_4w": 0.03,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -3.25
+                ]
+            },
+            "properties": {
+                "gid": 124996.0,
+                "pred_prob_any_riot_4w": 0.36,
+                "prob_bin": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -3.25
+                ]
+            },
+            "properties": {
+                "gid": 124997.0,
+                "pred_prob_any_riot_4w": 0.07,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -3.25
+                ]
+            },
+            "properties": {
+                "gid": 124998.0,
+                "pred_prob_any_riot_4w": 0.04,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -3.25
+                ]
+            },
+            "properties": {
+                "gid": 124999.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    -3.25
+                ]
+            },
+            "properties": {
+                "gid": 125001.0,
+                "pred_prob_any_riot_4w": 0.25,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -3.25
+                ]
+            },
+            "properties": {
+                "gid": 125000.0,
+                "pred_prob_any_riot_4w": 0.17,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -4.25
+                ]
+            },
+            "properties": {
+                "gid": 123560.0,
+                "pred_prob_any_riot_4w": 0.79,
+                "prob_bin": 7.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -4.25
+                ]
+            },
+            "properties": {
+                "gid": 123558.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -4.25
+                ]
+            },
+            "properties": {
+                "gid": 123559.0,
+                "pred_prob_any_riot_4w": 0.16,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -3.75
+                ]
+            },
+            "properties": {
+                "gid": 124277.0,
+                "pred_prob_any_riot_4w": 0.03,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -3.75
+                ]
+            },
+            "properties": {
+                "gid": 124278.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -3.75
+                ]
+            },
+            "properties": {
+                "gid": 124279.0,
+                "pred_prob_any_riot_4w": 0.04,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -3.75
+                ]
+            },
+            "properties": {
+                "gid": 124280.0,
+                "pred_prob_any_riot_4w": 0.52,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127152.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127153.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127154.0,
+                "pred_prob_any_riot_4w": 0.34,
+                "prob_bin": 4.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127155.0,
+                "pred_prob_any_riot_4w": 0.44,
+                "prob_bin": 5.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127156.0,
+                "pred_prob_any_riot_4w": 0.14,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127158.0,
+                "pred_prob_any_riot_4w": 0.08,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127159.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127160.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127161.0,
+                "pred_prob_any_riot_4w": 0.08,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127162.0,
+                "pred_prob_any_riot_4w": 0.03,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.25,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127163.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -1.75
+                ]
+            },
+            "properties": {
+                "gid": 127157.0,
+                "pred_prob_any_riot_4w": 0.05,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125715.0,
+                "pred_prob_any_riot_4w": 0.21,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125716.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125718.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125719.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125720.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125721.0,
+                "pred_prob_any_riot_4w": 0.12,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125722.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -2.75
+                ]
+            },
+            "properties": {
+                "gid": 125717.0,
+                "pred_prob_any_riot_4w": 0.07,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126434.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126435.0,
+                "pred_prob_any_riot_4w": 0.16,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126436.0,
+                "pred_prob_any_riot_4w": 0.11,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126437.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126438.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126439.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126440.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126441.0,
+                "pred_prob_any_riot_4w": 0.16,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126442.0,
+                "pred_prob_any_riot_4w": 0.2,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.25,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126443.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    -2.25
+                ]
+            },
+            "properties": {
+                "gid": 126433.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.25,
+                    4.25
+                ]
+            },
+            "properties": {
+                "gid": 135789.0,
+                "pred_prob_any_riot_4w": 0.06,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    4.25
+                ]
+            },
+            "properties": {
+                "gid": 135790.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    4.25
+                ]
+            },
+            "properties": {
+                "gid": 135791.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    4.25
+                ]
+            },
+            "properties": {
+                "gid": 135792.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    4.25
+                ]
+            },
+            "properties": {
+                "gid": 135793.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    4.25
+                ]
+            },
+            "properties": {
+                "gid": 135794.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132911.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132912.0,
+                "pred_prob_any_riot_4w": 0.1,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132913.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132914.0,
+                "pred_prob_any_riot_4w": 0.04,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132915.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132916.0,
+                "pred_prob_any_riot_4w": 0.14,
+                "prob_bin": 3.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132917.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132918.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132919.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132920.0,
+                "pred_prob_any_riot_4w": 0.0400871313672922,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132921.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    2.25
+                ]
+            },
+            "properties": {
+                "gid": 132922.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132191.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132192.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132193.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132194.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132195.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132196.0,
+                "pred_prob_any_riot_4w": 0.05,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132197.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132199.0,
+                "pred_prob_any_riot_4w": 0.06,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132200.0,
+                "pred_prob_any_riot_4w": 0.06,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132201.0,
+                "pred_prob_any_riot_4w": 0.05,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132202.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    1.75
+                ]
+            },
+            "properties": {
+                "gid": 132198.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134360.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134361.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134362.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.25,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134363.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134359.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135073.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135074.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135075.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135076.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135081.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135082.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.25,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135083.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135072.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135071.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    3.75
+                ]
+            },
+            "properties": {
+                "gid": 135070.0,
+                "pred_prob_any_riot_4w": 0.57,
+                "prob_bin": 6.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134358.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134356.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133631.0,
+                "pred_prob_any_riot_4w": 0.0101485148514851,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133632.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133634.0,
+                "pred_prob_any_riot_4w": 0.03,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133635.0,
+                "pred_prob_any_riot_4w": 0.02,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.75,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133636.0,
+                "pred_prob_any_riot_4w": 0.04,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133637.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.75,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133638.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.25,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133639.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.75,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133640.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.25,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133641.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.75,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133642.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    2.75
+                ]
+            },
+            "properties": {
+                "gid": 133633.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.25,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134357.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.75,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134350.0,
+                "pred_prob_any_riot_4w": 0.01,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.25,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134351.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.75,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134352.0,
+                "pred_prob_any_riot_4w": 0.1,
+                "prob_bin": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.25,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134353.0,
+                "pred_prob_any_riot_4w": 0.03,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.75,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134354.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.25,
+                    3.25
+                ]
+            },
+            "properties": {
+                "gid": 134355.0,
+                "pred_prob_any_riot_4w": 0.0,
+                "prob_bin": 1.0
+            }
+        }
+    ]
+}

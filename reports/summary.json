@@ -70,13 +70,13 @@
   "assets_size": [
     {
       "assets": "total",
-      "KB": "14832 KB",
-      "MB": "14.8 MB"
+      "KB": "14932 KB",
+      "MB": "14.9 MB"
     },
     {
       "assets": "unused",
-      "KB": "7482 KB",
-      "MB": "7.5 MB"
+      "KB": "7557 KB",
+      "MB": "7.6 MB"
     }
   ],
   "assets_unused": [
@@ -87,6 +87,10 @@
     {
       "path": "logos/innodems.png",
       "size_kb": 17.3
+    },
+    {
+      "path": "map_data/forecast_data.json",
+      "size_kb": 74.7
     },
     {
       "path": "plotly_exports/population_2019.html",
@@ -101,9 +105,19 @@
       "size_kb": 13.4
     },
     {
-      "path": "map_data/forecast_data_geojson.json",
-      "count": 2,
+      "path": "map_data/fatalities_polygons.json",
+      "count": 1,
+      "size_kb": 51
+    },
+    {
+      "path": "map_data/forecast_data_incidence.json",
+      "count": 1,
       "size_kb": 86.1
+    },
+    {
+      "path": "map_data/forecast_riots.json",
+      "count": 1,
+      "size_kb": 48.6
     },
     {
       "path": "map_data/ke.json",

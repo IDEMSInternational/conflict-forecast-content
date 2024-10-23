@@ -28,7 +28,7 @@
       "scale_min": 0,
       "gradient_palette": "#380645, #298680, yellow",
       "scale_title": "Population Density (units)",
-      "visible_default": true
+      "visible_default": false
     },
     {
       "id": "layer_3",
@@ -53,12 +53,14 @@
       "point_radius_property": "centroid_size_sum",
       "scale_title": "County Centroids",
       "opacity": 1,
-      "visible_default": true
+      "visible_default": true,
+      "tooltip_label": "Total population per county",
+      "tooltip_value": "sum"
     },
     {
       "id": "layer_5",
       "name": "Conflict – Incidence",
-      "source_asset": "map_data/forecast_data_geojson.json",
+      "source_asset": "map_data/forecast_data_incidence.json",
       "type": "vector",
       "fill": "blue",
       "stroke": "none",
@@ -70,19 +72,29 @@
     },
     {
       "id": "layer_6",
-      "name": "Conflict – Forecast",
-      "description": "Probability of conflict occuring in the next 4 weeks",
-      "source_asset": "map_data/forecast_data_geojson.json",
-      "type": "heatmap",
-      "property": "pred_prob_any_riot_4w",
-      "point_radius_max": 14,
-      "blur": 8,
-      "scale_max": 1,
-      "scale_min": 0,
-      "scale_bins": "0, 0.15, 0.3, 0.4, 0.6, 0.7, 0.8, 1",
-      "gradient_palette": "#c4c4c4, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740035",
-      "scale_title": "Conflict probability (next 4 weeks)",
-      "opacity": 1
+      "name": "Riots Forecast",
+      "description": "Riots Forecast",
+      "source_asset": "map_data/forecast_riots.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#c4c4c4, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
+      "scale_title": "Riots probability (next 4 weeks)"
+    },
+    {
+      "id": "layer_7",
+      "name": "Fatalities Forecast",
+      "description": "Fatalities Forecast",
+      "source_asset": "map_data/fatalities_polygons.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#c4c4c4, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740037",
+      "scale_title": "Fatalities probability (next 4 weeks)"
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx"
