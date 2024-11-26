@@ -6,8 +6,11 @@ config.google_drive.assets_folder_ids = ["1SzZiWN4hvv0snDdpd-BZYPjTC6RzC1uU"];
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/conflict-forecast-content.git",
-  content_tag_latest: "0.0.7",
+  content_tag_latest: "0.0.10",
 };
+
+// Filter out 
+config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("archive_data") && !fileEntry.relativePath.includes("uncompressed")  && !fileEntry.relativePath.includes("archive")
 
 config.android = {
   app_id:'international.idems.conflict_forecast',

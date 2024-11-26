@@ -1,0 +1,80 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "riots_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": "layer_1",
+      "name": "Total Population",
+      "description": "Total population by county",
+      "source_asset": "map_data/population_and_boundaries.json",
+      "type": "vector",
+      "property": "sum_Z",
+      "scale_max": 2000000,
+      "scale_min": 0,
+      "gradient_palette": "#e7e1ef, #c994c7, #dd1c77",
+      "scale_title": "Total Population",
+      "scale_slider": true,
+      "opacity": 0.8,
+      "visible_default": false
+    },
+    {
+      "id": "layer_2",
+      "name": "Population Density",
+      "description": "Windsorized population density",
+      "source_asset": "map_data/population_10k.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "average_density_windsorized",
+      "scale_max": 200,
+      "scale_min": 0,
+      "gradient_palette": "#380645, #298680, yellow",
+      "scale_title": "Windsorized population density",
+      "scale_slider": true,
+      "visible_default": false
+    },
+    {
+      "id": "layer_3",
+      "name": "Riots Forecast",
+      "description": "Next 4 weeks",
+      "source_asset": "map_data/forecast_riots.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
+      "scale_title": "Riots risks level",
+      "scale_slider": true,
+      "visible_default": true
+    },
+    {
+      "id": "layer_4",
+      "name": "County Boundaries",
+      "source_asset": "map_data/ke.json",
+      "type": "vector",
+      "fill": "none",
+      "stroke": "red",
+      "opacity": 1,
+      "visible_default": false
+    }
+  ],
+  "_xlsxPath": "datalists/map_data.xlsx",
+  "_metadata": {
+    "scale_max": {
+      "type": "number"
+    },
+    "scale_min": {
+      "type": "number"
+    },
+    "scale_slider": {
+      "type": "boolean"
+    },
+    "opacity": {
+      "type": "number"
+    },
+    "visible_default": {
+      "type": "boolean"
+    }
+  }
+}
