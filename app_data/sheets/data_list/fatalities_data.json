@@ -57,7 +57,7 @@
       "visible_default": false
     }
   ],
-  "_xlsxPath": "datalists/map_data.xlsx",
+  "_xlsxPath": "datalists/map_data_archive.xlsx",
   "_metadata": {
     "scale_max": {
       "type": "number"

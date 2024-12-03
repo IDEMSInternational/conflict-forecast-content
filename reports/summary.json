@@ -83,13 +83,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "30224 KB",
-        "MB": "30.2 MB"
+        "KB": "32066 KB",
+        "MB": "32.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "9110 KB",
-        "MB": "9.1 MB"
+        "KB": "7482 KB",
+        "MB": "7.5 MB"
       }
     ]
   },
@@ -104,22 +104,6 @@
         "size_kb": 17.3
       },
       {
-        "path": "map_data/amenities.json",
-        "size_kb": 1477.8
-      },
-      {
-        "path": "map_data/centroids.json",
-        "size_kb": 13.4
-      },
-      {
-        "path": "map_data/fatalities_polygons.json",
-        "size_kb": 51
-      },
-      {
-        "path": "map_data/forecast_data_incidence.json",
-        "size_kb": 86.1
-      },
-      {
         "path": "plotly_exports/population_2019.html",
         "size_kb": 7405
       }
@@ -131,11 +115,6 @@
         "path": "map_data/forecast_riots.json",
         "count": 1,
         "missing": true
-      },
-      {
-        "path": "map_data/roads.json",
-        "count": 1,
-        "missing": true
       }
     ]
   },
@@ -143,33 +122,38 @@
     "data": [
       {
         "path": "map_data/airports.json",
-        "count": 1,
+        "count": 2,
         "size_kb": 25.2
       },
       {
         "path": "map_data/food_insecurity.json",
-        "count": 1,
+        "count": 2,
         "size_kb": 10995
       },
       {
         "path": "map_data/forecast_riots_september_4m_ahead.json",
-        "count": 1,
+        "count": 2,
         "size_kb": 45.3
       },
       {
         "path": "map_data/ke.json",
-        "count": 3,
+        "count": 4,
         "size_kb": 10219.4
       },
       {
         "path": "map_data/population_10k.json",
-        "count": 4,
+        "count": 5,
         "size_kb": 4426.1
       },
       {
         "path": "map_data/population_and_boundaries.json",
-        "count": 3,
+        "count": 4,
         "size_kb": 4513.3
+      },
+      {
+        "path": "map_data/roads.json",
+        "count": 2,
+        "size_kb": 1841.9
       }
     ]
   },
@@ -178,7 +162,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 3
+        "total": 7
       },
       {
         "type": "global",

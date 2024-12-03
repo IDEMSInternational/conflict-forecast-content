@@ -1,0 +1,40 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "layer_groups",
+  "status": "released",
+  "rows": [
+    {
+      "id": "predictions",
+      "name": "Predictions",
+      "controls_style": "dropdown",
+      "single_selection": false,
+      "display_order": 3,
+      "layers_data": "prediction_layers"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure",
+      "controls_style": "dropdown",
+      "single_selection": false,
+      "display_order": 2,
+      "layers_data": "infrastructure_layers"
+    },
+    {
+      "id": "demographics",
+      "name": "Demographics Layers",
+      "controls_style": "dropdown",
+      "single_selection": false,
+      "display_order": 1,
+      "layers_data": "demographics_layers"
+    }
+  ],
+  "_xlsxPath": "datalists/map_data.xlsx",
+  "_metadata": {
+    "single_selection": {
+      "type": "boolean"
+    },
+    "display_order": {
+      "type": "number"
+    }
+  }
+}

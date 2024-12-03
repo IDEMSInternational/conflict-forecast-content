@@ -14,6 +14,7 @@
       "gradient_palette": "#e7e1ef, #c994c7, #dd1c77",
       "scale_title": "Total Population",
       "scale_slider": true,
+      "scale_slider_excluded_features": "hidden",
       "opacity": 0.8,
       "visible_default": false
     },
@@ -29,6 +30,7 @@
       "gradient_palette": "#380645, #298680, yellow",
       "scale_title": "Windsorized population density",
       "scale_slider": true,
+      "scale_slider_excluded_features": "#298680",
       "visible_default": false
     },
     {
@@ -96,6 +98,7 @@
       "type": "vector",
       "fill": "blue",
       "stroke": "none",
+      "property": "prob_bin",
       "point_radius_max": 3,
       "point_radius_property_max": 1,
       "point_radius_property": "prob_bin",
@@ -108,7 +111,7 @@
       "layer_group": "infrastructure"
     }
   ],
-  "_xlsxPath": "datalists/map_data.xlsx",
+  "_xlsxPath": "datalists/map_data_archive.xlsx",
   "_metadata": {
     "scale_max": {
       "type": "number"

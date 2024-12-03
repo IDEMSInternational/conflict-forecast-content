@@ -1,9 +1,9 @@
 {
   "asset_pack": {},
   "data_list": {
-    "fatalities_data": {
+    "demographics_layers": {
       "flow_type": "data_list",
-      "flow_name": "fatalities_data",
+      "flow_name": "demographics_layers",
       "_xlsxPath": "datalists/map_data.xlsx",
       "_metadata": {
         "scale_max": {
@@ -23,10 +23,70 @@
         }
       }
     },
+    "fatalities_data": {
+      "flow_type": "data_list",
+      "flow_name": "fatalities_data",
+      "_xlsxPath": "datalists/map_data_archive.xlsx",
+      "_metadata": {
+        "scale_max": {
+          "type": "number"
+        },
+        "scale_min": {
+          "type": "number"
+        },
+        "scale_slider": {
+          "type": "boolean"
+        },
+        "opacity": {
+          "type": "number"
+        },
+        "visible_default": {
+          "type": "boolean"
+        }
+      }
+    },
+    "infrastructure_layers": {
+      "flow_type": "data_list",
+      "flow_name": "infrastructure_layers",
+      "_xlsxPath": "datalists/map_data.xlsx",
+      "_metadata": {
+        "scale_max": {
+          "type": "number"
+        },
+        "scale_min": {
+          "type": "number"
+        },
+        "scale_slider": {
+          "type": "boolean"
+        },
+        "visible_default": {
+          "type": "boolean"
+        },
+        "point_radius_max": {
+          "type": "number"
+        },
+        "point_radius_property_max": {
+          "type": "number"
+        }
+      }
+    },
+    "layer_groups": {
+      "flow_type": "data_list",
+      "flow_name": "layer_groups",
+      "_xlsxPath": "datalists/map_data.xlsx",
+      "_metadata": {
+        "single_selection": {
+          "type": "boolean"
+        },
+        "display_order": {
+          "type": "number"
+        }
+      }
+    },
     "map_data": {
       "flow_type": "data_list",
       "flow_name": "map_data",
-      "_xlsxPath": "datalists/map_data.xlsx",
+      "_xlsxPath": "datalists/map_data_archive.xlsx",
       "_metadata": {
         "scale_max": {
           "type": "number"
@@ -51,10 +111,32 @@
         }
       }
     },
+    "prediction_layers": {
+      "flow_type": "data_list",
+      "flow_name": "prediction_layers",
+      "_xlsxPath": "datalists/map_data.xlsx",
+      "_metadata": {
+        "scale_max": {
+          "type": "number"
+        },
+        "scale_min": {
+          "type": "number"
+        },
+        "scale_slider": {
+          "type": "boolean"
+        },
+        "opacity": {
+          "type": "number"
+        },
+        "visible_default": {
+          "type": "boolean"
+        }
+      }
+    },
     "riots_data": {
       "flow_type": "data_list",
       "flow_name": "riots_data",
-      "_xlsxPath": "datalists/map_data.xlsx",
+      "_xlsxPath": "datalists/map_data_archive.xlsx",
       "_metadata": {
         "scale_max": {
           "type": "number"
