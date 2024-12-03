@@ -1,0 +1,56 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "prediction_layers",
+  "status": "released",
+  "rows": [
+    {
+      "id": "layer_1",
+      "name": "Food Insecurity Level",
+      "source_asset": "map_data/food_insecurity.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#f44336, #ffc107, #4caf50",
+      "scale_title": "Risk Level",
+      "scale_slider": true,
+      "opacity": 0.5,
+      "visible_default": false
+    },
+    {
+      "id": "layer_2",
+      "name": "Predicted Risk of Riots",
+      "description": "Forecast for Oct 2024 - Jan 2025",
+      "source_asset": "map_data/forecast_riots_september_4m_ahead.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
+      "scale_title": "Riots risks level",
+      "scale_slider": true,
+      "opacity": 0.6,
+      "visible_default": true
+    }
+  ],
+  "_xlsxPath": "datalists/map_data.xlsx",
+  "_metadata": {
+    "scale_max": {
+      "type": "number"
+    },
+    "scale_min": {
+      "type": "number"
+    },
+    "scale_slider": {
+      "type": "boolean"
+    },
+    "opacity": {
+      "type": "number"
+    },
+    "visible_default": {
+      "type": "boolean"
+    }
+  }
+}

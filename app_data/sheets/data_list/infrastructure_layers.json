@@ -1,0 +1,64 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "infrastructure_layers",
+  "status": "released",
+  "rows": [
+    {
+      "id": "layer_1",
+      "name": "Roads",
+      "description": "Primary and Secondary Roads",
+      "source_asset": "map_data/roads.json",
+      "type": "vector",
+      "fill": "none",
+      "stroke": "blue",
+      "property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
+      "scale_title": "Risk Level",
+      "scale_slider": true,
+      "excluded_features_colour": "red",
+      "visible_default": false
+    },
+    {
+      "id": "layer_2",
+      "name": "Airports",
+      "description": "Airport at risk",
+      "source_asset": "map_data/airports.json",
+      "type": "vector",
+      "fill": "red",
+      "stroke": "none",
+      "property": "prob_bin",
+      "point_radius_max": 3,
+      "point_radius_property_max": 1,
+      "point_radius_property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
+      "scale_title": "Risk Level",
+      "scale_slider": true,
+      "visible_default": false
+    }
+  ],
+  "_xlsxPath": "datalists/map_data.xlsx",
+  "_metadata": {
+    "scale_max": {
+      "type": "number"
+    },
+    "scale_min": {
+      "type": "number"
+    },
+    "scale_slider": {
+      "type": "boolean"
+    },
+    "visible_default": {
+      "type": "boolean"
+    },
+    "point_radius_max": {
+      "type": "number"
+    },
+    "point_radius_property_max": {
+      "type": "number"
+    }
+  }
+}

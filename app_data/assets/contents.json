@@ -14,30 +14,10 @@
     "md5Checksum": "a1d6b52daca8af69bef18c42d6431ce0",
     "size_kb": 25.2
   },
-  "map_data/amenities.json": {
-    "filePath": "global/map_data/amenities.json",
-    "md5Checksum": "a69bffd5fd2bfe150e21c0097e359146",
-    "size_kb": 1477.8
-  },
-  "map_data/centroids.json": {
-    "filePath": "global/map_data/centroids.json",
-    "md5Checksum": "f041bee2c57b7f4c92b88546a05116f8",
-    "size_kb": 13.4
-  },
-  "map_data/fatalities_polygons.json": {
-    "filePath": "global/map_data/fatalities_polygons.json",
-    "md5Checksum": "50a81cf4a5745bdc9fb4bf6a7e731d46",
-    "size_kb": 51
-  },
   "map_data/food_insecurity.json": {
     "filePath": "global/map_data/food_insecurity.json",
     "md5Checksum": "e363b129da7e8ef01a3295d43608f157",
     "size_kb": 10995
-  },
-  "map_data/forecast_data_incidence.json": {
-    "filePath": "global/map_data/forecast_data_incidence.json",
-    "md5Checksum": "db1f4a3500a6341310895a8933fbb695",
-    "size_kb": 86.1
   },
   "map_data/forecast_riots_september_4m_ahead.json": {
     "filePath": "global/map_data/forecast_riots_september_4m_ahead.json",
@@ -58,6 +38,11 @@
     "filePath": "global/map_data/population_and_boundaries.json",
     "md5Checksum": "e82525f3f8057054ff7879d156ddd322",
     "size_kb": 4513.3
+  },
+  "map_data/roads.json": {
+    "filePath": "global/map_data/roads.json",
+    "md5Checksum": "ec6129c566e4ed6771ecce2c788cfacd",
+    "size_kb": 1841.9
   },
   "plotly_exports/population_2019.html": {
     "filePath": "global/plotly_exports/population_2019.html",

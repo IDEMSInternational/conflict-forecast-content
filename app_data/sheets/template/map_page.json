@@ -24,7 +24,7 @@
     {
       "type": "map",
       "parameter_list": {
-        "layers": "@data.map_data",
+        "layer_groups": "@data.layer_groups",
         "extent": "@local.extent_kenya"
       },
       "style_list": [
@@ -35,12 +35,12 @@
       "_nested_name": "map_4",
       "_dynamicFields": {
         "parameter_list": {
-          "layers": [
+          "layer_groups": [
             {
-              "fullExpression": "@data.map_data",
-              "matchedExpression": "@data.map_data",
+              "fullExpression": "@data.layer_groups",
+              "matchedExpression": "@data.layer_groups",
               "type": "data",
-              "fieldName": "map_data"
+              "fieldName": "layer_groups"
             }
           ],
           "extent": [
@@ -54,8 +54,8 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.map_data": [
-          "parameter_list.layers"
+        "@data.layer_groups": [
+          "parameter_list.layer_groups"
         ],
         "@local.extent_kenya": [
           "parameter_list.extent"
