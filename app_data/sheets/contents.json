@@ -67,6 +67,9 @@
         },
         "point_radius_property_max": {
           "type": "number"
+        },
+        "opacity": {
+          "type": "number"
         }
       }
     },

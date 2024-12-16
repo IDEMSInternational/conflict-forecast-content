@@ -40,9 +40,12 @@
       "source_asset": "map_data/ke.json",
       "type": "vector",
       "fill": "none",
-      "stroke": "red",
+      "stroke": "black",
       "opacity": 1,
       "visible_default": false
+    },
+    {
+      "opacity": 1.5
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx",

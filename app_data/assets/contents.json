@@ -9,6 +9,11 @@
     "md5Checksum": "1f0564a598a4c0e51d46012b26d27959",
     "size_kb": 17.3
   },
+  "map_data/KRCS_branches.json": {
+    "filePath": "global/map_data/KRCS_branches.json",
+    "md5Checksum": "bb1ebd6c0e99c23ecba3e441192991b6",
+    "size_kb": 9.9
+  },
   "map_data/airports.json": {
     "filePath": "global/map_data/airports.json",
     "md5Checksum": "a1d6b52daca8af69bef18c42d6431ce0",
@@ -43,6 +48,11 @@
     "filePath": "global/map_data/roads.json",
     "md5Checksum": "ec6129c566e4ed6771ecce2c788cfacd",
     "size_kb": 1841.9
+  },
+  "map_data/wards.json": {
+    "filePath": "global/map_data/wards.json",
+    "md5Checksum": "1165b293d23a0825a9b220d7b6c1cabf",
+    "size_kb": 88448.5
   },
   "plotly_exports/population_2019.html": {
     "filePath": "global/plotly_exports/population_2019.html",

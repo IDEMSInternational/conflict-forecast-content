@@ -4,24 +4,24 @@
   "status": "released",
   "rows": [
     {
-      "id": "layer_1",
+      "id": "layer_roads",
       "name": "Roads",
       "description": "Primary and Secondary Roads",
       "source_asset": "map_data/roads.json",
       "type": "vector",
       "fill": "none",
-      "stroke": "blue",
+      "stroke": "red",
       "property": "prob_bin",
       "scale_max": 8,
       "scale_min": 1,
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
       "scale_title": "Risk Level",
       "scale_slider": true,
-      "excluded_features_colour": "red",
+      "excluded_features_colour": "gray",
       "visible_default": false
     },
     {
-      "id": "layer_2",
+      "id": "layer_airports",
       "name": "Airports",
       "description": "Airport at risk",
       "source_asset": "map_data/airports.json",
@@ -32,12 +32,34 @@
       "point_radius_max": 3,
       "point_radius_property_max": 1,
       "point_radius_property": "prob_bin",
+      "point_icon_asset": "images/airport.svg",
       "scale_max": 8,
       "scale_min": 1,
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
       "scale_title": "Risk Level",
       "scale_slider": true,
+      "excluded_features_colour": "gray",
       "visible_default": false
+    },
+    {
+      "id": "layer_4",
+      "name": "KRCS Branches",
+      "source_asset": "map_data/KRCS_branches.json",
+      "type": "vector",
+      "fill": "blue",
+      "stroke": "none",
+      "property": "prob_bin",
+      "point_radius_max": 3,
+      "point_radius_property_max": 1,
+      "point_radius_property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740037",
+      "scale_title": "Risk Level",
+      "scale_slider": true,
+      "excluded_features_colour": "purple",
+      "opacity": 1.5,
+      "visible_default": true
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx",
@@ -58,6 +80,9 @@
       "type": "number"
     },
     "point_radius_property_max": {
+      "type": "number"
+    },
+    "opacity": {
       "type": "number"
     }
   }

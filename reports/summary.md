@@ -35,7 +35,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 32066 KB | 32.1 MB |
+| total | 120525 KB | 120.5 MB |
 | unused | 7482 KB | 7.5 MB |
 </details>
 
@@ -68,6 +68,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
+| map_data/KRCS_branches.json | 9.9 | 1 |
 | map_data/airports.json | 25.2 | 2 |
 | map_data/food_insecurity.json | 10995 | 2 |
 | map_data/forecast_riots_september_4m_ahead.json | 45.3 | 2 |
@@ -75,6 +76,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | map_data/population_10k.json | 4426.1 | 5 |
 | map_data/population_and_boundaries.json | 4513.3 | 4 |
 | map_data/roads.json | 1841.9 | 2 |
+| map_data/wards.json | 88448.5 | 3 |
 </details>
 
 <details >

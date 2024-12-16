@@ -21,7 +21,7 @@
     },
     {
       "id": "demographics",
-      "name": "Demographics Layers",
+      "name": "Demographics",
       "controls_style": "dropdown",
       "single_selection": false,
       "display_order": 1,

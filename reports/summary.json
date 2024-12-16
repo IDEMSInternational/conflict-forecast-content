@@ -83,8 +83,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "32066 KB",
-        "MB": "32.1 MB"
+        "KB": "120525 KB",
+        "MB": "120.5 MB"
       },
       {
         "assets": "unused",
@@ -121,6 +121,11 @@
   "asset_summary": {
     "data": [
       {
+        "path": "map_data/KRCS_branches.json",
+        "count": 1,
+        "size_kb": 9.9
+      },
+      {
         "path": "map_data/airports.json",
         "count": 2,
         "size_kb": 25.2
@@ -154,6 +159,11 @@
         "path": "map_data/roads.json",
         "count": 2,
         "size_kb": 1841.9
+      },
+      {
+        "path": "map_data/wards.json",
+        "count": 3,
+        "size_kb": 88448.5
       }
     ]
   },
