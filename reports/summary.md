@@ -3,10 +3,10 @@
 
 | type | count |
 | --- | --- |
-| button | 11 |
+| button | 12 |
 | dashed_box | 1 |
 | debug_toggle | 1 |
-| display_group | 5 |
+| display_group | 6 |
 | map | 3 |
 | set_variable | 13 |
 | simple_checkbox | 2 |
@@ -14,7 +14,7 @@
 | text | 2 |
 | text_area | 1 |
 | text_box | 3 |
-| title | 5 |
+| title | 6 |
 </details>
 
 <details >
@@ -26,7 +26,7 @@
 | emit: server_sync | 1 |
 | extent | 2 |
 | feedback | 1 |
-| go_to | 6 |
+| go_to | 7 |
 | layers | 2 |
 </details>
 
@@ -35,7 +35,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 120525 KB | 120.5 MB |
+| total | 120526 KB | 120.5 MB |
 | unused | 7482 KB | 7.5 MB |
 </details>
 
@@ -58,6 +58,8 @@ Assets that have references within sheets but do not appear in app-data
 
 | path | count |
 | --- | --- |
+| icons/ask_question.svg | 1 |
+| images/airport.svg | 1 |
 | map_data/forecast_riots.json | 1 |
 </details>
 
@@ -68,6 +70,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | path | size_kb | count |
 | --- | --- | --- |
+| icons/globe-white.svg | 1.3 | 1 |
 | map_data/KRCS_branches.json | 9.9 | 1 |
 | map_data/airports.json | 25.2 | 2 |
 | map_data/food_insecurity.json | 10995 | 2 |
@@ -86,5 +89,5 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | --- | --- | --- |
 | data_list |  | 7 |
 | global |  | 1 |
-| template |  | 8 |
+| template |  | 9 |
 </details>

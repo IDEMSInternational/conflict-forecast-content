@@ -1,0 +1,55 @@
+{
+  "flow_type": "template",
+  "flow_name": "header",
+  "status": "released",
+  "rows": [
+    {
+      "type": "display_group",
+      "style_list": [
+        "justify-content: center"
+      ],
+      "rows": [
+        {
+          "type": "text",
+          "value": "Custom Header",
+          "_translations": {
+            "value": {}
+          },
+          "style_list": [
+            "color: white"
+          ],
+          "name": "text_1",
+          "_nested_name": "display_group_2.text_1"
+        },
+        {
+          "type": "round_button",
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to_url",
+              "args": [
+                "https",
+                "//conflictforecast.org/"
+              ],
+              "_raw": "click | go_to_url: https://conflictforecast.org/",
+              "_cleaned": "click | go_to_url: https://conflictforecast.org/"
+            }
+          ],
+          "parameter_list": {
+            "icon_src": "icons/globe-white.svg",
+            "variant": "no-background"
+          },
+          "style_list": [
+            "position: absolute",
+            "right: 0"
+          ],
+          "name": "round_button_2",
+          "_nested_name": "display_group_2.round_button_2"
+        }
+      ],
+      "name": "display_group_2",
+      "_nested_name": "display_group_2"
+    }
+  ],
+  "_xlsxPath": "templates/global/navigation_templates.xlsx"
+}
