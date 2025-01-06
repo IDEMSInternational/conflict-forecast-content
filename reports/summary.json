@@ -3,7 +3,7 @@
     "data": [
       {
         "type": "button",
-        "count": 11
+        "count": 12
       },
       {
         "type": "dashed_box",
@@ -15,7 +15,7 @@
       },
       {
         "type": "display_group",
-        "count": 5
+        "count": 6
       },
       {
         "type": "map",
@@ -47,7 +47,7 @@
       },
       {
         "type": "title",
-        "count": 5
+        "count": 6
       }
     ]
   },
@@ -71,7 +71,7 @@
       },
       {
         "type": "go_to",
-        "count": 6
+        "count": 7
       },
       {
         "type": "layers",
@@ -83,7 +83,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "120525 KB",
+        "KB": "120526 KB",
         "MB": "120.5 MB"
       },
       {
@@ -112,6 +112,16 @@
   "assets_missing": {
     "data": [
       {
+        "path": "icons/ask_question.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
+        "path": "images/airport.svg",
+        "count": 1,
+        "missing": true
+      },
+      {
         "path": "map_data/forecast_riots.json",
         "count": 1,
         "missing": true
@@ -120,6 +130,11 @@
   },
   "asset_summary": {
     "data": [
+      {
+        "path": "icons/globe-white.svg",
+        "count": 1,
+        "size_kb": 1.3
+      },
       {
         "path": "map_data/KRCS_branches.json",
         "count": 1,
@@ -182,7 +197,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 8
+        "total": 9
       }
     ]
   }

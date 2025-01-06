@@ -189,6 +189,11 @@
       "flow_name": "fatalities",
       "_xlsxPath": "templates/global/navigation_templates.xlsx"
     },
+    "header": {
+      "flow_type": "template",
+      "flow_name": "header",
+      "_xlsxPath": "templates/global/navigation_templates.xlsx"
+    },
     "home_screen": {
       "flow_type": "template",
       "flow_name": "home_screen",

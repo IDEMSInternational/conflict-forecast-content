@@ -6,7 +6,7 @@ config.google_drive.assets_folder_ids = ["1SzZiWN4hvv0snDdpd-BZYPjTC6RzC1uU"];
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/conflict-forecast-content.git",
-  content_tag_latest: "0.2.0",
+  content_tag_latest: "0.2.1",
 };
 
 // Filter out 
@@ -35,6 +35,7 @@ config.app_config.APP_THEMES.defaultThemeName = "conflict_forecast";
 config.app_config.APP_LANGUAGES.default = "gb_en";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "Conflict Forecast";
 config.app_config.APP_HEADER_DEFAULTS.title = "Conflict Forecast";
+config.app_config.APP_HEADER_DEFAULTS.template = "header";
 config.app_config.NOTIFICATION_DEFAULTS.title = "Conflict Forecast";
 config.app_config.NOTIFICATION_DEFAULTS.text = "Conflict Forecast";
 
