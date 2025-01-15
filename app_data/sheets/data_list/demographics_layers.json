@@ -40,7 +40,7 @@
       "source_asset": "map_data/ke.json",
       "type": "vector",
       "fill": "none",
-      "stroke": "black",
+      "stroke": "purple",
       "opacity": 1,
       "visible_default": false
     },

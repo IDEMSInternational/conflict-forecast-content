@@ -3,7 +3,7 @@
     "data": [
       {
         "type": "button",
-        "count": 12
+        "count": 11
       },
       {
         "type": "dashed_box",
@@ -22,6 +22,10 @@
         "count": 3
       },
       {
+        "type": "round_button",
+        "count": 1
+      },
+      {
         "type": "set_variable",
         "count": 13
       },
@@ -35,7 +39,7 @@
       },
       {
         "type": "text",
-        "count": 2
+        "count": 3
       },
       {
         "type": "text_area",
@@ -47,7 +51,7 @@
       },
       {
         "type": "title",
-        "count": 6
+        "count": 5
       }
     ]
   },
@@ -71,7 +75,11 @@
       },
       {
         "type": "go_to",
-        "count": 7
+        "count": 6
+      },
+      {
+        "type": "go_to_url",
+        "count": 1
       },
       {
         "type": "layers",
