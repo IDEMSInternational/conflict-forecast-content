@@ -3,18 +3,19 @@
 
 | type | count |
 | --- | --- |
-| button | 12 |
+| button | 11 |
 | dashed_box | 1 |
 | debug_toggle | 1 |
 | display_group | 6 |
 | map | 3 |
+| round_button | 1 |
 | set_variable | 13 |
 | simple_checkbox | 2 |
 | template | 2 |
-| text | 2 |
+| text | 3 |
 | text_area | 1 |
 | text_box | 3 |
-| title | 6 |
+| title | 5 |
 </details>
 
 <details >
@@ -26,7 +27,8 @@
 | emit: server_sync | 1 |
 | extent | 2 |
 | feedback | 1 |
-| go_to | 7 |
+| go_to | 6 |
+| go_to_url | 1 |
 | layers | 2 |
 </details>
 
