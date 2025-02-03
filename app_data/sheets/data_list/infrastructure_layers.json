@@ -65,7 +65,7 @@
       "scale_slider_snap": true,
       "excluded_features_colour": "purple",
       "opacity": 1.5,
-      "visible_default": true
+      "visible_default": false
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx",
