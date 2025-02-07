@@ -1,8 +1,28 @@
 {
+  "icons/airplane_blue.png": {
+    "filePath": "global/icons/airplane_blue.png",
+    "md5Checksum": "13171a5a00f8626185911d9ed36fb1c3",
+    "size_kb": 2.1
+  },
+  "icons/airplane_grey.png": {
+    "filePath": "global/icons/airplane_grey.png",
+    "md5Checksum": "93214403ce13244b59f31e91ea9a916a",
+    "size_kb": 2.1
+  },
   "icons/globe-white.svg": {
     "filePath": "global/icons/globe-white.svg",
     "md5Checksum": "49aec34f5e705cee34302c621198c336",
     "size_kb": 1.3
+  },
+  "icons/red_cross.png": {
+    "filePath": "global/icons/red_cross.png",
+    "md5Checksum": "24a1ab134f3b7a6fade43148bda91e02",
+    "size_kb": 0.2
+  },
+  "icons/red_cross_grey.png": {
+    "filePath": "global/icons/red_cross_grey.png",
+    "md5Checksum": "c9eb126b5c85248345fdd28f98288c3d",
+    "size_kb": 0.2
   },
   "logos/econai.png": {
     "filePath": "global/logos/econai.png",

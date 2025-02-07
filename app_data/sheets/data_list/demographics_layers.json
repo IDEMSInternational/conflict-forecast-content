@@ -36,16 +36,26 @@
     },
     {
       "id": "layer_3",
-      "name": "County Boundaries",
-      "source_asset": "map_data/ke.json",
+      "name": "Food Insecurity Level",
+      "source_asset": "map_data/food_insecurity.json",
       "type": "vector",
-      "fill": "none",
-      "stroke": "purple",
-      "opacity": 1,
+      "stroke": "none",
+      "property": "prob_bin",
+      "scale_max": 8,
+      "scale_min": 1,
+      "gradient_palette": "#f44336, #ffc107, #4caf50",
+      "scale_title": "Food - Risk Level",
+      "scale_slider": true,
+      "scale_slider_excluded_features": 0.5,
+      "scale_slider_increments": false,
       "visible_default": false
     },
     {
-      "opacity": 1.5
+      "id": "layer_4",
+      "name": "None",
+      "source_asset": "map_data/population_10k.json",
+      "type": "vector",
+      "visible_default": false
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx",
@@ -63,6 +73,9 @@
       "type": "number"
     },
     "visible_default": {
+      "type": "boolean"
+    },
+    "scale_slider_increments": {
       "type": "boolean"
     }
   }
