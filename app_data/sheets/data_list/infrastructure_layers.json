@@ -16,7 +16,7 @@
       "scale_min": 1,
       "scale_increment": 1,
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
-      "scale_title": "Risk Level",
+      "scale_title": "Roads - Risk Level",
       "scale_slider": true,
       "scale_slider_snap": true,
       "excluded_features_colour": "gray",
@@ -34,19 +34,20 @@
       "point_radius_max": 3,
       "point_radius_property_max": 1,
       "point_radius_property": "prob_bin",
-      "point_icon_asset": "images/airport.svg",
+      "point_icon_asset": "icons/airplane_blue.png",
+      "point_icon_excluded_asset": "icons/airplane_grey.png",
       "scale_max": 8,
       "scale_min": 1,
       "scale_increment": 1,
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
-      "scale_title": "Risk Level",
+      "scale_title": "Airports - Risk Level",
       "scale_slider": true,
       "scale_slider_snap": true,
       "excluded_features_colour": "gray",
       "visible_default": false
     },
     {
-      "id": "layer_4",
+      "id": "layer_branches",
       "name": "KRCS Branches",
       "source_asset": "map_data/KRCS_branches.json",
       "type": "vector",
@@ -56,15 +57,28 @@
       "point_radius_max": 3,
       "point_radius_property_max": 1,
       "point_radius_property": "prob_bin",
+      "point_icon_asset": "icons/red_cross.png",
+      "point_icon_excluded_asset": "icons/red_cross_grey.png",
       "scale_max": 8,
       "scale_min": 1,
       "scale_increment": 1,
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740037",
-      "scale_title": "Risk Level",
+      "scale_title": "Branches - Risk Level",
       "scale_slider": true,
       "scale_slider_snap": true,
       "excluded_features_colour": "purple",
       "opacity": 1.5,
+      "visible_default": false
+    },
+    {
+      "id": "layer_boundaries",
+      "name": "County Boundaries",
+      "source_asset": "map_data/ke.json",
+      "type": "vector",
+      "fill": "none",
+      "stroke": "purple",
+      "scale_slider_increments": 1,
+      "opacity": false,
       "visible_default": false
     }
   ],
@@ -95,6 +109,9 @@
       "type": "number"
     },
     "opacity": {
+      "type": "number"
+    },
+    "scale_slider_increments": {
       "type": "number"
     }
   }

@@ -5,9 +5,9 @@
   "rows": [
     {
       "id": "predictions",
-      "name": "Predictions",
+      "name": "Risk predictions",
       "controls_style": "dropdown",
-      "single_selection": false,
+      "single_selection": true,
       "display_order": 3,
       "layers_data": "prediction_layers"
     },
@@ -21,9 +21,9 @@
     },
     {
       "id": "demographics",
-      "name": "Demographics",
+      "name": "Other socio-economic data",
       "controls_style": "dropdown",
-      "single_selection": false,
+      "single_selection": true,
       "display_order": 1,
       "layers_data": "demographics_layers"
     }

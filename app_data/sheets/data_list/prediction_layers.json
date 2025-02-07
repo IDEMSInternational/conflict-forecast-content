@@ -5,21 +5,6 @@
   "rows": [
     {
       "id": "layer_1",
-      "name": "Food Insecurity Level",
-      "source_asset": "map_data/food_insecurity.json",
-      "type": "vector",
-      "stroke": "none",
-      "property": "prob_bin",
-      "scale_max": 8,
-      "scale_min": 1,
-      "gradient_palette": "#f44336, #ffc107, #4caf50",
-      "scale_title": "Risk Level",
-      "scale_slider": true,
-      "opacity": 0.5,
-      "visible_default": false
-    },
-    {
-      "id": "layer_2",
       "name": "Predicted Risk of Riots",
       "description": "Forecast for Oct 2024 - Jan 2025",
       "source_asset": "map_data/forecast_riots_september_4m_ahead.json",
@@ -34,11 +19,11 @@
       "scale_slider": true,
       "scale_slider_snap": true,
       "opacity": 0.6,
-      "visible_default": false,
+      "visible_default": true,
       "filter_target_layers": "layer_roads, layer_airports"
     },
     {
-      "id": "layer_3",
+      "id": "layer_2",
       "name": "Predicted Riots Risk for Wards",
       "description": "Forecast for Oct 2024 - Jan 2025",
       "source_asset": "map_data/wards.json",
@@ -54,7 +39,7 @@
       "visible_default": false
     },
     {
-      "id": "layer_4",
+      "id": "layer_3",
       "name": "Predicted Probability of Riots for Wards",
       "description": "Forecast for Oct 2024 - Jan 2025",
       "source_asset": "map_data/wards.json",
@@ -66,10 +51,11 @@
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740037",
       "scale_title": "Probability of Riots for Wards",
       "scale_slider": true,
+      "opacity": 0.6,
       "visible_default": false
     },
     {
-      "id": "layer_5",
+      "id": "layer_4",
       "name": "Change in Predicted Probability of Riots",
       "description": "Forecast for Oct 2024 - Jan 2025 compared to Sep 2024 - Dec 2024",
       "source_asset": "map_data/wards.json",
@@ -81,7 +67,15 @@
       "gradient_palette": "#007897, #00cedd,  #fcf8f3, #ffe5ce, #ff665a, #a10031",
       "scale_title": "Change in Probability of Riots",
       "scale_slider": true,
-      "visible_default": true
+      "opacity": 0.6,
+      "visible_default": false
+    },
+    {
+      "id": "layer_5",
+      "name": "None",
+      "source_asset": "map_data/forecast_riots_september_4m_ahead.json",
+      "type": "vector",
+      "visible_default": false
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx",
@@ -92,19 +86,19 @@
     "scale_min": {
       "type": "number"
     },
+    "scale_increment": {
+      "type": "number"
+    },
     "scale_slider": {
+      "type": "boolean"
+    },
+    "scale_slider_snap": {
       "type": "boolean"
     },
     "opacity": {
       "type": "number"
     },
     "visible_default": {
-      "type": "boolean"
-    },
-    "scale_increment": {
-      "type": "number"
-    },
-    "scale_slider_snap": {
       "type": "boolean"
     }
   }

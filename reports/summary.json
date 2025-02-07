@@ -3,19 +3,11 @@
     "data": [
       {
         "type": "button",
-        "count": 11
-      },
-      {
-        "type": "dashed_box",
-        "count": 1
-      },
-      {
-        "type": "debug_toggle",
-        "count": 1
+        "count": 5
       },
       {
         "type": "display_group",
-        "count": 6
+        "count": 2
       },
       {
         "type": "map",
@@ -27,11 +19,7 @@
       },
       {
         "type": "set_variable",
-        "count": 13
-      },
-      {
-        "type": "simple_checkbox",
-        "count": 2
+        "count": 3
       },
       {
         "type": "template",
@@ -39,43 +27,23 @@
       },
       {
         "type": "text",
-        "count": 3
-      },
-      {
-        "type": "text_area",
-        "count": 1
-      },
-      {
-        "type": "text_box",
-        "count": 3
+        "count": 2
       },
       {
         "type": "title",
-        "count": 5
+        "count": 4
       }
     ]
   },
   "template_actions": {
     "data": [
       {
-        "type": "emit: completed",
-        "count": 1
-      },
-      {
-        "type": "emit: server_sync",
-        "count": 1
-      },
-      {
         "type": "extent",
         "count": 2
       },
       {
-        "type": "feedback",
-        "count": 1
-      },
-      {
         "type": "go_to",
-        "count": 6
+        "count": 4
       },
       {
         "type": "go_to_url",
@@ -91,7 +59,7 @@
     "data": [
       {
         "assets": "total",
-        "KB": "120526 KB",
+        "KB": "120531 KB",
         "MB": "120.5 MB"
       },
       {
@@ -120,16 +88,6 @@
   "assets_missing": {
     "data": [
       {
-        "path": "icons/ask_question.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
-        "path": "images/airport.svg",
-        "count": 1,
-        "missing": true
-      },
-      {
         "path": "map_data/forecast_riots.json",
         "count": 1,
         "missing": true
@@ -139,9 +97,29 @@
   "asset_summary": {
     "data": [
       {
+        "path": "icons/airplane_blue.png",
+        "count": 1,
+        "size_kb": 2.1
+      },
+      {
+        "path": "icons/airplane_grey.png",
+        "count": 1,
+        "size_kb": 2.1
+      },
+      {
         "path": "icons/globe-white.svg",
         "count": 1,
         "size_kb": 1.3
+      },
+      {
+        "path": "icons/red_cross.png",
+        "count": 1,
+        "size_kb": 0.2
+      },
+      {
+        "path": "icons/red_cross_grey.png",
+        "count": 1,
+        "size_kb": 0.2
       },
       {
         "path": "map_data/KRCS_branches.json",
@@ -160,7 +138,7 @@
       },
       {
         "path": "map_data/forecast_riots_september_4m_ahead.json",
-        "count": 2,
+        "count": 3,
         "size_kb": 45.3
       },
       {
@@ -170,7 +148,7 @@
       },
       {
         "path": "map_data/population_10k.json",
-        "count": 5,
+        "count": 6,
         "size_kb": 4426.1
       },
       {
@@ -205,7 +183,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 9
+        "total": 8
       }
     ]
   }
