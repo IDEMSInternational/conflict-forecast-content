@@ -1,6 +1,40 @@
 {
   "asset_pack": {},
   "data_list": {
+    "conflict_forecast_alerts_data": {
+      "flow_type": "data_list",
+      "flow_name": "conflict_forecast_alerts_data",
+      "_xlsxPath": "datalists/conflict_forecast_alerts_data.xlsx",
+      "_metadata": {
+        "probability_ward": {
+          "type": "number"
+        },
+        "change_probability_ward": {
+          "type": "number"
+        },
+        "risk_ward": {
+          "type": "number"
+        },
+        "probability_sub_county": {
+          "type": "number"
+        },
+        "change_probability_sub_county": {
+          "type": "number"
+        },
+        "risk_sub_county": {
+          "type": "number"
+        },
+        "probability_county": {
+          "type": "number"
+        },
+        "change_probability_county": {
+          "type": "number"
+        },
+        "risk_county": {
+          "type": "number"
+        }
+      }
+    },
     "demographics_layers": {
       "flow_type": "data_list",
       "flow_name": "demographics_layers",
@@ -217,10 +251,20 @@
       "flow_name": "home_screen_2",
       "_xlsxPath": "templates/global/navigation_templates.xlsx"
     },
+    "list_view_page": {
+      "flow_type": "template",
+      "flow_name": "list_view_page",
+      "_xlsxPath": "templates/global/list_view_page.xlsx"
+    },
     "map_page": {
       "flow_type": "template",
       "flow_name": "map_page",
       "_xlsxPath": "templates/global/map_page.xlsx"
+    },
+    "readme_page": {
+      "flow_type": "template",
+      "flow_name": "readme_page",
+      "_xlsxPath": "templates/global/app_menu.xlsx"
     },
     "riots": {
       "flow_type": "template",
