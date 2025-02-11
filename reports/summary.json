@@ -3,7 +3,7 @@
     "data": [
       {
         "type": "button",
-        "count": 5
+        "count": 6
       },
       {
         "type": "display_group",
@@ -22,16 +22,24 @@
         "count": 3
       },
       {
+        "type": "subtitle",
+        "count": 3
+      },
+      {
+        "type": "table",
+        "count": 1
+      },
+      {
         "type": "template",
         "count": 2
       },
       {
         "type": "text",
-        "count": 2
+        "count": 15
       },
       {
         "type": "title",
-        "count": 4
+        "count": 5
       }
     ]
   },
@@ -43,7 +51,7 @@
       },
       {
         "type": "go_to",
-        "count": 4
+        "count": 6
       },
       {
         "type": "go_to_url",
@@ -173,7 +181,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 7
+        "total": 8
       },
       {
         "type": "global",
@@ -183,7 +191,7 @@
       {
         "type": "template",
         "subtype": null,
-        "total": 8
+        "total": 10
       }
     ]
   }

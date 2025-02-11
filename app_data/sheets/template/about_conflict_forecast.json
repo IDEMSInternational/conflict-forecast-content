@@ -57,6 +57,26 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_references",
+      "value": "README",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "readme_page"
+          ],
+          "_raw": "click | go_to:readme_page",
+          "_cleaned": "click | go_to:readme_page"
+        }
+      ],
+      "_nested_name": "button_references"
     }
   ],
   "_xlsxPath": "templates/global/app_menu.xlsx"
