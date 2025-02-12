@@ -43,11 +43,9 @@
       "property": "food_insecurity",
       "scale_max": 3,
       "scale_min": 1,
-      "scale_increment": 1,
       "gradient_palette": "#4caf50, #ffc107, #f44336",
       "scale_title": "Food insecurity risk",
       "scale_slider": true,
-      "scale_slider_snap": true,
       "opacity": 0.6,
       "visible_default": false
     },
@@ -74,12 +72,6 @@
       "type": "number"
     },
     "visible_default": {
-      "type": "boolean"
-    },
-    "scale_increment": {
-      "type": "number"
-    },
-    "scale_slider_snap": {
       "type": "boolean"
     }
   }

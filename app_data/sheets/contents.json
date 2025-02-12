@@ -54,12 +54,6 @@
         },
         "visible_default": {
           "type": "boolean"
-        },
-        "scale_increment": {
-          "type": "number"
-        },
-        "scale_slider_snap": {
-          "type": "boolean"
         }
       }
     },
