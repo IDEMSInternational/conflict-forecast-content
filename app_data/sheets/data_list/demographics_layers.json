@@ -4,7 +4,7 @@
   "status": "released",
   "rows": [
     {
-      "id": "layer_1",
+      "id": "total_population",
       "name": "Total Population by County",
       "source_asset": "map_data/population_and_boundaries.json",
       "type": "vector",
@@ -15,11 +15,11 @@
       "scale_title": "Total Population",
       "scale_slider": true,
       "scale_slider_excluded_features": "hidden",
-      "opacity": 0.5,
+      "opacity": 0.6,
       "visible_default": false
     },
     {
-      "id": "layer_2",
+      "id": "population_density",
       "name": "Population Density",
       "source_asset": "map_data/population_10k.json",
       "type": "vector",
@@ -31,28 +31,28 @@
       "scale_title": "Windsorized population density",
       "scale_slider": true,
       "scale_slider_excluded_features": "#298680",
-      "opacity": 0.5,
+      "opacity": 0.6,
       "visible_default": false
     },
     {
-      "id": "layer_3",
+      "id": "food_insecurity",
       "name": "Food Insecurity Level",
       "source_asset": "map_data/food_insecurity.json",
       "type": "vector",
       "stroke": "none",
-      "property": "prob_bin",
-      "scale_max": 8,
+      "property": "food_insecurity",
+      "scale_max": 3,
       "scale_min": 1,
-      "gradient_palette": "#f44336, #ffc107, #4caf50",
-      "scale_title": "Riots risks level",
-      "scale_id": "risk_level",
+      "scale_increment": 1,
+      "gradient_palette": "#4caf50, #ffc107, #f44336",
+      "scale_title": "Food insecurity risk",
       "scale_slider": true,
-      "scale_slider_excluded_features": 0.5,
-      "scale_slider_increments": false,
+      "scale_slider_snap": true,
+      "opacity": 0.6,
       "visible_default": false
     },
     {
-      "id": "layer_4",
+      "id": "none",
       "name": "None",
       "source_asset": "map_data/population_10k.json",
       "type": "vector",
@@ -76,7 +76,10 @@
     "visible_default": {
       "type": "boolean"
     },
-    "scale_slider_increments": {
+    "scale_increment": {
+      "type": "number"
+    },
+    "scale_slider_snap": {
       "type": "boolean"
     }
   }
