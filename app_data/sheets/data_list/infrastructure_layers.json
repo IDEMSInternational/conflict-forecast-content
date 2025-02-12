@@ -26,7 +26,6 @@
     {
       "id": "layer_airports",
       "name": "Airports",
-      "description": "Airport at risk",
       "source_asset": "map_data/airports.json",
       "type": "vector",
       "fill": "red",

@@ -4,7 +4,7 @@
   "status": "released",
   "rows": [
     {
-      "id": "layer_1",
+      "id": "predicted_risk_of_riots",
       "name": "Predicted Risk of Riots",
       "description": "Forecast for Oct 2024 - Jan 2025",
       "source_asset": "map_data/forecast_riots_september_4m_ahead.json",
@@ -24,7 +24,7 @@
       "filter_target_layers": "layer_roads, layer_airports"
     },
     {
-      "id": "layer_2",
+      "id": "predicted_risk_of_riots_wards",
       "name": "Predicted Riots Risk for Wards",
       "description": "Forecast for Oct 2024 - Jan 2025",
       "source_asset": "map_data/wards.json",
@@ -43,7 +43,7 @@
       "visible_default": false
     },
     {
-      "id": "layer_3",
+      "id": "predicted_probability_of_riots_wards",
       "name": "Predicted Probability of Riots for Wards",
       "description": "Forecast for Oct 2024 - Jan 2025",
       "source_asset": "map_data/wards.json",
@@ -59,7 +59,7 @@
       "visible_default": false
     },
     {
-      "id": "layer_4",
+      "id": "change_in_predicted_probability_of_riots",
       "name": "Change in Predicted Probability of Riots",
       "description": "Forecast for Oct 2024 - Jan 2025 compared to Sep 2024 - Dec 2024",
       "source_asset": "map_data/wards.json",
@@ -75,7 +75,7 @@
       "visible_default": false
     },
     {
-      "id": "layer_5",
+      "id": "none",
       "name": "None",
       "source_asset": "map_data/forecast_riots_september_4m_ahead.json",
       "type": "vector",

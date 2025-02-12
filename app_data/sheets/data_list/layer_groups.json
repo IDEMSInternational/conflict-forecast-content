@@ -12,20 +12,20 @@
       "layers_data": "prediction_layers"
     },
     {
-      "id": "infrastructure",
-      "name": "Infrastructure",
-      "controls_style": "dropdown",
-      "single_selection": false,
-      "display_order": 2,
-      "layers_data": "infrastructure_layers"
-    },
-    {
       "id": "demographics",
       "name": "Other socio-economic data",
       "controls_style": "dropdown",
       "single_selection": true,
       "display_order": 1,
       "layers_data": "demographics_layers"
+    },
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure",
+      "controls_style": "dropdown",
+      "single_selection": false,
+      "display_order": 2,
+      "layers_data": "infrastructure_layers"
     }
   ],
   "_xlsxPath": "datalists/map_data.xlsx",
