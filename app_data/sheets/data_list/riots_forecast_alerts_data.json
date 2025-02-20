@@ -1,0 +1,2342 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "riots_forecast_alerts_data",
+  "status": "released",
+  "rows": [
+    {
+      "id": "id_1",
+      "subcounty": "Kapseret",
+      "preds": 0.163666,
+      "change_current": -0.04177,
+      "change_previous": 0.083828,
+      "bin": 3
+    },
+    {
+      "id": "id_2",
+      "subcounty": "Taveta",
+      "preds": 0.167807,
+      "change_current": -0.00203,
+      "change_previous": -0.00076,
+      "bin": 3
+    },
+    {
+      "id": "id_3",
+      "subcounty": "Bumula",
+      "preds": 0.224925,
+      "change_current": -0.03861,
+      "change_previous": -0.00568,
+      "bin": 4
+    },
+    {
+      "id": "id_4",
+      "subcounty": "Gichugu",
+      "preds": 0.565275,
+      "change_current": -0.02657,
+      "change_previous": 0.005373,
+      "bin": 6
+    },
+    {
+      "id": "id_5",
+      "subcounty": "Marakwet West",
+      "preds": 0.20094,
+      "change_current": -0.07483,
+      "change_previous": -0.00362,
+      "bin": 4
+    },
+    {
+      "id": "id_6",
+      "subcounty": "Mathira",
+      "preds": 0.718678,
+      "change_current": 0.036364,
+      "change_previous": -0.04589,
+      "bin": 7
+    },
+    {
+      "id": "id_7",
+      "subcounty": "Kitui South",
+      "preds": 0.241388,
+      "change_current": -0.05228,
+      "change_previous": -0.01532,
+      "bin": 4
+    },
+    {
+      "id": "id_8",
+      "subcounty": "Keiyo North",
+      "preds": 0.277642,
+      "change_current": -0.05583,
+      "change_previous": 0.082054,
+      "bin": 4
+    },
+    {
+      "id": "id_9",
+      "subcounty": "North Imenti",
+      "preds": 0.511231,
+      "change_current": -0.0000093,
+      "change_previous": -0.08046,
+      "bin": 6
+    },
+    {
+      "id": "id_10",
+      "subcounty": "Bahati",
+      "preds": 0.846687,
+      "change_current": 0.000122,
+      "change_previous": 0.016516,
+      "bin": 7
+    },
+    {
+      "id": "id_11",
+      "subcounty": "Awendo",
+      "preds": 0.359859,
+      "change_current": -0.00283,
+      "change_previous": -0.01317,
+      "bin": 5
+    },
+    {
+      "id": "id_12",
+      "subcounty": "Lamu East",
+      "preds": 0.024212,
+      "change_current": -0.00303,
+      "change_previous": -0.00052,
+      "bin": 1
+    },
+    {
+      "id": "id_13",
+      "subcounty": "Tinderet",
+      "preds": 0.207897,
+      "change_current": -0.02855,
+      "change_previous": -0.02758,
+      "bin": 4
+    },
+    {
+      "id": "id_14",
+      "subcounty": "Lugari",
+      "preds": 0.352175,
+      "change_current": -0.07383,
+      "change_previous": -0.03748,
+      "bin": 5
+    },
+    {
+      "id": "id_15",
+      "subcounty": "Bura",
+      "preds": 0.11114,
+      "change_current": 0.014888,
+      "change_previous": -0.01266,
+      "bin": 3
+    },
+    {
+      "id": "id_16",
+      "subcounty": "Eldama Ravine",
+      "preds": 0.393158,
+      "change_current": -0.06355,
+      "change_previous": -0.0012,
+      "bin": 5
+    },
+    {
+      "id": "id_17",
+      "subcounty": "Teso South",
+      "preds": 0.234431,
+      "change_current": -0.02601,
+      "change_previous": 0.098271,
+      "bin": 4
+    },
+    {
+      "id": "id_18",
+      "subcounty": "Kilifi North",
+      "preds": 0.416794,
+      "change_current": -0.03473,
+      "change_previous": -0.00103,
+      "bin": 5
+    },
+    {
+      "id": "id_19",
+      "subcounty": "Nyaribari Masaba",
+      "preds": 0.408705,
+      "change_current": 0.073831,
+      "change_previous": -0.01736,
+      "bin": 5
+    },
+    {
+      "id": "id_20",
+      "subcounty": "Nyaribari Chache",
+      "preds": 0.842115,
+      "change_current": 0.001091,
+      "change_previous": -0.00499,
+      "bin": 7
+    },
+    {
+      "id": "id_21",
+      "subcounty": "Kitui Central",
+      "preds": 0.424188,
+      "change_current": -0.03132,
+      "change_previous": -0.05873,
+      "bin": 5
+    },
+    {
+      "id": "id_22",
+      "subcounty": "Matungu",
+      "preds": 0.270538,
+      "change_current": -0.0513,
+      "change_previous": -0.00981,
+      "bin": 4
+    },
+    {
+      "id": "id_23",
+      "subcounty": "Cherangany",
+      "preds": 0.307155,
+      "change_current": -0.04272,
+      "change_previous": -0.02175,
+      "bin": 5
+    },
+    {
+      "id": "id_24",
+      "subcounty": "Kigumo",
+      "preds": 0.402528,
+      "change_current": -0.01382,
+      "change_previous": 0.058103,
+      "bin": 5
+    },
+    {
+      "id": "id_25",
+      "subcounty": "Baringo Central",
+      "preds": 0.391494,
+      "change_current": -0.02476,
+      "change_previous": 0.027598,
+      "bin": 5
+    },
+    {
+      "id": "id_26",
+      "subcounty": "Msambweni",
+      "preds": 0.363785,
+      "change_current": -0.0587,
+      "change_previous": -0.00851,
+      "bin": 5
+    },
+    {
+      "id": "id_27",
+      "subcounty": "Homa Bay",
+      "preds": 0.799583,
+      "change_current": 0.039407,
+      "change_previous": -0.03716,
+      "bin": 7
+    },
+    {
+      "id": "id_28",
+      "subcounty": "Turkana East",
+      "preds": 0.108736,
+      "change_current": -0.01661,
+      "change_previous": -0.00418,
+      "bin": 3
+    },
+    {
+      "id": "id_29",
+      "subcounty": "Mumias West",
+      "preds": 0.290388,
+      "change_current": -0.01496,
+      "change_previous": -0.01008,
+      "bin": 5
+    },
+    {
+      "id": "id_30",
+      "subcounty": "Narok North",
+      "preds": 0.734666,
+      "change_current": 0.022973,
+      "change_previous": 0.035038,
+      "bin": 7
+    },
+    {
+      "id": "id_31",
+      "subcounty": "Dadaab",
+      "preds": 0.136344,
+      "change_current": 0.013571,
+      "change_previous": -0.00179,
+      "bin": 3
+    },
+    {
+      "id": "id_32",
+      "subcounty": "Kilifi South",
+      "preds": 0.398549,
+      "change_current": -0.057,
+      "change_previous": -0.00267,
+      "bin": 5
+    },
+    {
+      "id": "id_33",
+      "subcounty": "Jomvu",
+      "preds": 0.384273,
+      "change_current": 0.037693,
+      "change_previous": 0.015493,
+      "bin": 5
+    },
+    {
+      "id": "id_34",
+      "subcounty": "Chesumei",
+      "preds": 0.163813,
+      "change_current": -0.03711,
+      "change_previous": 0.011049,
+      "bin": 3
+    },
+    {
+      "id": "id_35",
+      "subcounty": "Kamukunji",
+      "preds": 0.648506,
+      "change_current": 0.059007,
+      "change_previous": -0.02412,
+      "bin": 6
+    },
+    {
+      "id": "id_36",
+      "subcounty": "Rongai",
+      "preds": 0.430539,
+      "change_current": -0.03086,
+      "change_previous": -0.02953,
+      "bin": 5
+    },
+    {
+      "id": "id_37",
+      "subcounty": "Mwingi West",
+      "preds": 0.363403,
+      "change_current": 0.007352,
+      "change_previous": -0.03637,
+      "bin": 5
+    },
+    {
+      "id": "id_38",
+      "subcounty": "Endebess",
+      "preds": 0.264056,
+      "change_current": -0.02734,
+      "change_previous": -0.00985,
+      "bin": 4
+    },
+    {
+      "id": "id_39",
+      "subcounty": "Kipkelion West",
+      "preds": 0.112626,
+      "change_current": -0.00922,
+      "change_previous": -0.01929,
+      "bin": 3
+    },
+    {
+      "id": "id_40",
+      "subcounty": "Mandera East",
+      "preds": 0.108721,
+      "change_current": -0.01187,
+      "change_previous": -0.00512,
+      "bin": 3
+    },
+    {
+      "id": "id_41",
+      "subcounty": "Makueni",
+      "preds": 0.677206,
+      "change_current": -0.05257,
+      "change_previous": -0.06192,
+      "bin": 6
+    },
+    {
+      "id": "id_42",
+      "subcounty": "Kinango",
+      "preds": 0.23723,
+      "change_current": -0.02888,
+      "change_previous": 0.011361,
+      "bin": 4
+    },
+    {
+      "id": "id_43",
+      "subcounty": "Webuye West",
+      "preds": 0.244013,
+      "change_current": -0.04764,
+      "change_previous": -0.0178,
+      "bin": 4
+    },
+    {
+      "id": "id_44",
+      "subcounty": "South Mugirango",
+      "preds": 0.395098,
+      "change_current": -0.01698,
+      "change_previous": -0.0304,
+      "bin": 5
+    },
+    {
+      "id": "id_45",
+      "subcounty": "Laikipia North",
+      "preds": 0.170328,
+      "change_current": 0.004407,
+      "change_previous": 0.004827,
+      "bin": 3
+    },
+    {
+      "id": "id_46",
+      "subcounty": "Matungulu",
+      "preds": 0.527647,
+      "change_current": -0.00018,
+      "change_previous": -0.02146,
+      "bin": 6
+    },
+    {
+      "id": "id_47",
+      "subcounty": "Kasarani",
+      "preds": 0.812748,
+      "change_current": 0.02619,
+      "change_previous": 0.090754,
+      "bin": 7
+    },
+    {
+      "id": "id_48",
+      "subcounty": "Kibwezi West",
+      "preds": 0.37281,
+      "change_current": -0.04593,
+      "change_previous": -0.03288,
+      "bin": 5
+    },
+    {
+      "id": "id_49",
+      "subcounty": "Marakwet East",
+      "preds": 0.218185,
+      "change_current": -0.04353,
+      "change_previous": 0.003782,
+      "bin": 4
+    },
+    {
+      "id": "id_50",
+      "subcounty": "Mandera South",
+      "preds": 0.069446,
+      "change_current": -0.00862,
+      "change_previous": 0.009678,
+      "bin": 2
+    },
+    {
+      "id": "id_51",
+      "subcounty": "Turkana Central",
+      "preds": 0.230823,
+      "change_current": -0.00593,
+      "change_previous": -0.00538,
+      "bin": 4
+    },
+    {
+      "id": "id_52",
+      "subcounty": "Mbooni",
+      "preds": 0.327491,
+      "change_current": -0.05063,
+      "change_previous": -0.01795,
+      "bin": 5
+    },
+    {
+      "id": "id_53",
+      "subcounty": "Lamu West",
+      "preds": 0.30517,
+      "change_current": -0.01455,
+      "change_previous": -0.01582,
+      "bin": 5
+    },
+    {
+      "id": "id_54",
+      "subcounty": "Manyatta",
+      "preds": 0.792792,
+      "change_current": 0.036523,
+      "change_previous": 0.034309,
+      "bin": 7
+    },
+    {
+      "id": "id_55",
+      "subcounty": "Pokot South",
+      "preds": 0.316159,
+      "change_current": -0.05025,
+      "change_previous": -0.01723,
+      "bin": 5
+    },
+    {
+      "id": "id_56",
+      "subcounty": "Moyale",
+      "preds": 0.113932,
+      "change_current": -0.01896,
+      "change_previous": 0.000685,
+      "bin": 3
+    },
+    {
+      "id": "id_57",
+      "subcounty": "Kisauni",
+      "preds": 0.29563,
+      "change_current": 0.031867,
+      "change_previous": 0.007777,
+      "bin": 5
+    },
+    {
+      "id": "id_58",
+      "subcounty": "Malindi",
+      "preds": 0.578387,
+      "change_current": -0.04695,
+      "change_previous": 0.087112,
+      "bin": 6
+    },
+    {
+      "id": "id_59",
+      "subcounty": "Changamwe",
+      "preds": 0.118272,
+      "change_current": -0.02841,
+      "change_previous": 0.021455,
+      "bin": 3
+    },
+    {
+      "id": "id_60",
+      "subcounty": "Isiolo North",
+      "preds": 0.546505,
+      "change_current": -0.06363,
+      "change_previous": -0.02245,
+      "bin": 6
+    },
+    {
+      "id": "id_61",
+      "subcounty": "Uriri",
+      "preds": 0.397855,
+      "change_current": -0.00949,
+      "change_previous": -0.01658,
+      "bin": 5
+    },
+    {
+      "id": "id_62",
+      "subcounty": "Embakasi South",
+      "preds": 0.59658,
+      "change_current": -0.03362,
+      "change_previous": -0.04613,
+      "bin": 6
+    },
+    {
+      "id": "id_63",
+      "subcounty": "Tigania West",
+      "preds": 0.357713,
+      "change_current": 0.007002,
+      "change_previous": -0.04817,
+      "bin": 5
+    },
+    {
+      "id": "id_64",
+      "subcounty": "Kuresoi South",
+      "preds": 0.135574,
+      "change_current": -0.01325,
+      "change_previous": 0.016665,
+      "bin": 3
+    },
+    {
+      "id": "id_65",
+      "subcounty": "Fafi",
+      "preds": 0.09029,
+      "change_current": 0.010582,
+      "change_previous": -0.00536,
+      "bin": 3
+    },
+    {
+      "id": "id_66",
+      "subcounty": "Malava",
+      "preds": 0.377958,
+      "change_current": -0.05155,
+      "change_previous": -0.0109,
+      "bin": 5
+    },
+    {
+      "id": "id_67",
+      "subcounty": "Bobasi",
+      "preds": 0.403152,
+      "change_current": -0.03413,
+      "change_previous": 0.058734,
+      "bin": 5
+    },
+    {
+      "id": "id_68",
+      "subcounty": "Kwanza",
+      "preds": 0.170366,
+      "change_current": -0.03797,
+      "change_previous": -0.0041,
+      "bin": 3
+    },
+    {
+      "id": "id_69",
+      "subcounty": "Kitutu Chache South",
+      "preds": 0.345649,
+      "change_current": -0.00878,
+      "change_previous": -0.02139,
+      "bin": 5
+    },
+    {
+      "id": "id_70",
+      "subcounty": "Kipipiri",
+      "preds": 0.325128,
+      "change_current": 0.197011,
+      "change_previous": -0.01885,
+      "bin": 5
+    },
+    {
+      "id": "id_71",
+      "subcounty": "Ruaraka",
+      "preds": 0.493121,
+      "change_current": -0.00139,
+      "change_previous": -0.01274,
+      "bin": 6
+    },
+    {
+      "id": "id_72",
+      "subcounty": "West Mugirango",
+      "preds": 0.533138,
+      "change_current": -0.02233,
+      "change_previous": -0.02829,
+      "bin": 6
+    },
+    {
+      "id": "id_73",
+      "subcounty": "Aldai",
+      "preds": 0.217365,
+      "change_current": -0.02947,
+      "change_previous": -0.02144,
+      "bin": 4
+    },
+    {
+      "id": "id_74",
+      "subcounty": "Likuyani",
+      "preds": 0.248244,
+      "change_current": -0.05603,
+      "change_previous": 0.10008,
+      "bin": 4
+    },
+    {
+      "id": "id_75",
+      "subcounty": "Suna West",
+      "preds": 0.631656,
+      "change_current": -0.03027,
+      "change_previous": -0.05898,
+      "bin": 6
+    },
+    {
+      "id": "id_76",
+      "subcounty": "Laikipia East",
+      "preds": 0.525951,
+      "change_current": 0.075848,
+      "change_previous": 0.018391,
+      "bin": 6
+    },
+    {
+      "id": "id_77",
+      "subcounty": "Muhoroni",
+      "preds": 0.41725,
+      "change_current": -0.03321,
+      "change_previous": -0.02137,
+      "bin": 5
+    },
+    {
+      "id": "id_78",
+      "subcounty": "Khwisero",
+      "preds": 0.269366,
+      "change_current": -0.01824,
+      "change_previous": 0.004054,
+      "bin": 4
+    },
+    {
+      "id": "id_79",
+      "subcounty": "Starehe",
+      "preds": 0.857483,
+      "change_current": 0.011257,
+      "change_previous": -0.01254,
+      "bin": 7
+    },
+    {
+      "id": "id_80",
+      "subcounty": "Kibra",
+      "preds": 0.722012,
+      "change_current": -0.03928,
+      "change_previous": 0.013942,
+      "bin": 7
+    },
+    {
+      "id": "id_81",
+      "subcounty": "Gatanga",
+      "preds": 0.264858,
+      "change_current": -0.00072,
+      "change_previous": 0.000319,
+      "bin": 4
+    },
+    {
+      "id": "id_82",
+      "subcounty": "Kaloleni",
+      "preds": 0.235462,
+      "change_current": -0.06368,
+      "change_previous": 0.026239,
+      "bin": 4
+    },
+    {
+      "id": "id_83",
+      "subcounty": "Kisumu West",
+      "preds": 0.224218,
+      "change_current": -0.04216,
+      "change_previous": 0.002625,
+      "bin": 4
+    },
+    {
+      "id": "id_84",
+      "subcounty": "Ndaragwa",
+      "preds": 0.226303,
+      "change_current": 0.093715,
+      "change_previous": 0.02406,
+      "bin": 4
+    },
+    {
+      "id": "id_85",
+      "subcounty": "Lari",
+      "preds": 0.519376,
+      "change_current": 0.000107,
+      "change_previous": -0.00287,
+      "bin": 6
+    },
+    {
+      "id": "id_86",
+      "subcounty": "Mvita",
+      "preds": 0.599075,
+      "change_current": -0.03413,
+      "change_previous": -0.01106,
+      "bin": 6
+    },
+    {
+      "id": "id_87",
+      "subcounty": "Baringo South",
+      "preds": 0.292116,
+      "change_current": -0.01618,
+      "change_previous": 0.028084,
+      "bin": 5
+    },
+    {
+      "id": "id_88",
+      "subcounty": "Eldas",
+      "preds": 0.080309,
+      "change_current": -0.0244,
+      "change_previous": 0.014661,
+      "bin": 2
+    },
+    {
+      "id": "id_89",
+      "subcounty": "Mwatate",
+      "preds": 0.15727,
+      "change_current": 0.000258,
+      "change_previous": 0.001719,
+      "bin": 3
+    },
+    {
+      "id": "id_90",
+      "subcounty": "Buuri",
+      "preds": 0.309031,
+      "change_current": 0.000436,
+      "change_previous": -0.0079,
+      "bin": 5
+    },
+    {
+      "id": "id_91",
+      "subcounty": "Kitui East",
+      "preds": 0.168522,
+      "change_current": -0.01323,
+      "change_previous": -0.04336,
+      "bin": 3
+    },
+    {
+      "id": "id_92",
+      "subcounty": "Kaiti",
+      "preds": 0.301644,
+      "change_current": -0.03378,
+      "change_previous": -0.04343,
+      "bin": 5
+    },
+    {
+      "id": "id_93",
+      "subcounty": "South Imenti",
+      "preds": 0.389745,
+      "change_current": -0.01874,
+      "change_previous": -0.01212,
+      "bin": 5
+    },
+    {
+      "id": "id_94",
+      "subcounty": "Ugenya",
+      "preds": 0.654382,
+      "change_current": 0.073659,
+      "change_previous": -0.03308,
+      "bin": 6
+    },
+    {
+      "id": "id_95",
+      "subcounty": "Nandi Hills",
+      "preds": 0.180811,
+      "change_current": -0.02765,
+      "change_previous": -0.00043,
+      "bin": 3
+    },
+    {
+      "id": "id_96",
+      "subcounty": "Magarini",
+      "preds": 0.215669,
+      "change_current": -0.02068,
+      "change_previous": -0.02679,
+      "bin": 4
+    },
+    {
+      "id": "id_97",
+      "subcounty": "Kabondo Kasipul",
+      "preds": 0.127127,
+      "change_current": -0.00842,
+      "change_previous": -0.01008,
+      "bin": 3
+    },
+    {
+      "id": "id_98",
+      "subcounty": "North Horr",
+      "preds": 0.072114,
+      "change_current": -0.01272,
+      "change_previous": 0.0000545,
+      "bin": 2
+    },
+    {
+      "id": "id_99",
+      "subcounty": "Othaya",
+      "preds": 0.265133,
+      "change_current": -0.0299,
+      "change_previous": -0.02331,
+      "bin": 4
+    },
+    {
+      "id": "id_100",
+      "subcounty": "Matuga",
+      "preds": 0.25617,
+      "change_current": -0.01605,
+      "change_previous": -0.02169,
+      "bin": 4
+    },
+    {
+      "id": "id_101",
+      "subcounty": "Buret",
+      "preds": 0.449541,
+      "change_current": -0.04468,
+      "change_previous": 0.102116,
+      "bin": 5
+    },
+    {
+      "id": "id_102",
+      "subcounty": "Kiambu",
+      "preds": 0.515516,
+      "change_current": -0.00522,
+      "change_previous": -0.0704,
+      "bin": 6
+    },
+    {
+      "id": "id_103",
+      "subcounty": "Siakago",
+      "preds": 0.264763,
+      "change_current": -0.00033,
+      "change_previous": -0.01151,
+      "bin": 4
+    },
+    {
+      "id": "id_104",
+      "subcounty": "Wundanyi",
+      "preds": 0.097996,
+      "change_current": 0.000648,
+      "change_previous": 0.00127,
+      "bin": 3
+    },
+    {
+      "id": "id_105",
+      "subcounty": "Laisamis",
+      "preds": 0.134865,
+      "change_current": -0.01595,
+      "change_previous": -0.00537,
+      "bin": 3
+    },
+    {
+      "id": "id_106",
+      "subcounty": "Kinangop",
+      "preds": 0.160057,
+      "change_current": 0.003557,
+      "change_previous": 0.004425,
+      "bin": 3
+    },
+    {
+      "id": "id_107",
+      "subcounty": "Laikipia West",
+      "preds": 0.39242,
+      "change_current": 0.00335,
+      "change_previous": 0.082672,
+      "bin": 5
+    },
+    {
+      "id": "id_108",
+      "subcounty": "Butere",
+      "preds": 0.317422,
+      "change_current": -0.05022,
+      "change_previous": -0.01134,
+      "bin": 5
+    },
+    {
+      "id": "id_109",
+      "subcounty": "Makadara",
+      "preds": 0.500738,
+      "change_current": -0.00697,
+      "change_previous": -0.03696,
+      "bin": 6
+    },
+    {
+      "id": "id_110",
+      "subcounty": "Njoro",
+      "preds": 0.561745,
+      "change_current": 0.024998,
+      "change_previous": 0.043756,
+      "bin": 6
+    },
+    {
+      "id": "id_111",
+      "subcounty": "Kiambaa",
+      "preds": 0.3929,
+      "change_current": -0.0115,
+      "change_previous": -0.03407,
+      "bin": 5
+    },
+    {
+      "id": "id_112",
+      "subcounty": "Wajir South",
+      "preds": 0.110011,
+      "change_current": -0.00878,
+      "change_previous": 0.008925,
+      "bin": 3
+    },
+    {
+      "id": "id_113",
+      "subcounty": "Ndia",
+      "preds": 0.56542,
+      "change_current": -0.03421,
+      "change_previous": -0.01982,
+      "bin": 6
+    },
+    {
+      "id": "id_114",
+      "subcounty": "Mandera West",
+      "preds": 0.062009,
+      "change_current": -0.00017,
+      "change_previous": 0.000429,
+      "bin": 2
+    },
+    {
+      "id": "id_115",
+      "subcounty": "Githunguri",
+      "preds": 0.339848,
+      "change_current": -0.02583,
+      "change_previous": -0.02784,
+      "bin": 5
+    },
+    {
+      "id": "id_116",
+      "subcounty": "Mumias East",
+      "preds": 0.265458,
+      "change_current": -0.02933,
+      "change_previous": -0.01464,
+      "bin": 4
+    },
+    {
+      "id": "id_117",
+      "subcounty": "Tharaka",
+      "preds": 0.357345,
+      "change_current": 0.017879,
+      "change_previous": -0.02415,
+      "bin": 5
+    },
+    {
+      "id": "id_118",
+      "subcounty": "Kilgoris",
+      "preds": 0.42252,
+      "change_current": -0.01773,
+      "change_previous": -0.02633,
+      "bin": 5
+    },
+    {
+      "id": "id_119",
+      "subcounty": "Ugunja",
+      "preds": 0.268477,
+      "change_current": -0.01497,
+      "change_previous": 0.004664,
+      "bin": 4
+    },
+    {
+      "id": "id_120",
+      "subcounty": "Mwea",
+      "preds": 0.691591,
+      "change_current": 0.096888,
+      "change_previous": -0.02236,
+      "bin": 7
+    },
+    {
+      "id": "id_121",
+      "subcounty": "Isiolo South",
+      "preds": 0.105973,
+      "change_current": -0.00168,
+      "change_previous": -0.01709,
+      "bin": 3
+    },
+    {
+      "id": "id_122",
+      "subcounty": "Kabuchai",
+      "preds": 0.261357,
+      "change_current": -0.05845,
+      "change_previous": -0.01839,
+      "bin": 4
+    },
+    {
+      "id": "id_123",
+      "subcounty": "Bonchari",
+      "preds": 0.266074,
+      "change_current": -0.01684,
+      "change_previous": -0.01344,
+      "bin": 4
+    },
+    {
+      "id": "id_124",
+      "subcounty": "Suna East",
+      "preds": 0.198719,
+      "change_current": -0.03129,
+      "change_previous": -0.04463,
+      "bin": 4
+    },
+    {
+      "id": "id_125",
+      "subcounty": "Keiyo South",
+      "preds": 0.274576,
+      "change_current": -0.02555,
+      "change_previous": 0.004622,
+      "bin": 4
+    },
+    {
+      "id": "id_126",
+      "subcounty": "Ndhiwa",
+      "preds": 0.432029,
+      "change_current": 0.062254,
+      "change_previous": -0.02781,
+      "bin": 5
+    },
+    {
+      "id": "id_127",
+      "subcounty": "Masinga",
+      "preds": 0.305672,
+      "change_current": 0.101312,
+      "change_previous": -0.02842,
+      "bin": 5
+    },
+    {
+      "id": "id_128",
+      "subcounty": "Limuru",
+      "preds": 0.5489,
+      "change_current": 0.0563,
+      "change_previous": 0.057262,
+      "bin": 6
+    },
+    {
+      "id": "id_129",
+      "subcounty": "Mukurweni",
+      "preds": 0.229245,
+      "change_current": -0.01821,
+      "change_previous": -0.01576,
+      "bin": 4
+    },
+    {
+      "id": "id_130",
+      "subcounty": "Kanduyi",
+      "preds": 0.598402,
+      "change_current": -0.07243,
+      "change_previous": -0.04462,
+      "bin": 6
+    },
+    {
+      "id": "id_131",
+      "subcounty": "Langata",
+      "preds": 0.453659,
+      "change_current": 0.000514,
+      "change_previous": -0.01437,
+      "bin": 5
+    },
+    {
+      "id": "id_132",
+      "subcounty": "Samburu North",
+      "preds": 0.096201,
+      "change_current": 0.008466,
+      "change_previous": -0.02016,
+      "bin": 3
+    },
+    {
+      "id": "id_133",
+      "subcounty": "Gem",
+      "preds": 0.579549,
+      "change_current": 0.065375,
+      "change_previous": 0.080011,
+      "bin": 6
+    },
+    {
+      "id": "id_134",
+      "subcounty": "Cental Imenti",
+      "preds": 0.189255,
+      "change_current": 0.008015,
+      "change_previous": -0.00356,
+      "bin": 3
+    },
+    {
+      "id": "id_135",
+      "subcounty": "Bomet Central",
+      "preds": 0.20852,
+      "change_current": -0.01276,
+      "change_previous": -0.00524,
+      "bin": 4
+    },
+    {
+      "id": "id_136",
+      "subcounty": "Lunga Lunga",
+      "preds": 0.180681,
+      "change_current": 0.000794,
+      "change_previous": -0.00267,
+      "bin": 3
+    },
+    {
+      "id": "id_137",
+      "subcounty": "Tarbaj",
+      "preds": 0.068631,
+      "change_current": -0.01628,
+      "change_previous": 0.015808,
+      "bin": 2
+    },
+    {
+      "id": "id_138",
+      "subcounty": "Suba North",
+      "preds": 0.475072,
+      "change_current": 0.004721,
+      "change_previous": -0.016,
+      "bin": 5
+    },
+    {
+      "id": "id_139",
+      "subcounty": "Lagdera",
+      "preds": 0.085046,
+      "change_current": 0.009526,
+      "change_previous": -0.00735,
+      "bin": 2
+    },
+    {
+      "id": "id_140",
+      "subcounty": "Hamisi",
+      "preds": 0.202989,
+      "change_current": -0.03841,
+      "change_previous": 0.015048,
+      "bin": 4
+    },
+    {
+      "id": "id_141",
+      "subcounty": "Kathiani",
+      "preds": 0.406985,
+      "change_current": -0.01151,
+      "change_previous": -0.04765,
+      "bin": 5
+    },
+    {
+      "id": "id_142",
+      "subcounty": "Ainamoi",
+      "preds": 0.530033,
+      "change_current": -0.04201,
+      "change_previous": -0.04508,
+      "bin": 6
+    },
+    {
+      "id": "id_143",
+      "subcounty": "Kisumu Central",
+      "preds": 0.803198,
+      "change_current": -0.01882,
+      "change_previous": -0.03326,
+      "bin": 7
+    },
+    {
+      "id": "id_144",
+      "subcounty": "Ruiru",
+      "preds": 0.488435,
+      "change_current": -0.00089,
+      "change_previous": -0.02975,
+      "bin": 5
+    },
+    {
+      "id": "id_145",
+      "subcounty": "Kajiado East",
+      "preds": 0.629689,
+      "change_current": -0.0472,
+      "change_previous": -0.04012,
+      "bin": 6
+    },
+    {
+      "id": "id_146",
+      "subcounty": "Maara",
+      "preds": 0.330819,
+      "change_current": 0.009226,
+      "change_previous": -0.03571,
+      "bin": 5
+    },
+    {
+      "id": "id_147",
+      "subcounty": "Mathioya",
+      "preds": 0.177172,
+      "change_current": -0.00279,
+      "change_previous": -0.01261,
+      "bin": 3
+    },
+    {
+      "id": "id_148",
+      "subcounty": "Belgut",
+      "preds": 0.330159,
+      "change_current": -0.02475,
+      "change_previous": -0.0108,
+      "bin": 5
+    },
+    {
+      "id": "id_149",
+      "subcounty": "Alego Usonga",
+      "preds": 0.611385,
+      "change_current": -0.06799,
+      "change_previous": -0.02856,
+      "bin": 6
+    },
+    {
+      "id": "id_150",
+      "subcounty": "Kesses",
+      "preds": 0.280698,
+      "change_current": -0.05519,
+      "change_previous": 0.002988,
+      "bin": 4
+    },
+    {
+      "id": "id_151",
+      "subcounty": "Soy",
+      "preds": 0.20417,
+      "change_current": -0.04008,
+      "change_previous": 0.000667,
+      "bin": 4
+    },
+    {
+      "id": "id_152",
+      "subcounty": "Teso North",
+      "preds": 0.306953,
+      "change_current": -0.03872,
+      "change_previous": 0.015394,
+      "bin": 5
+    },
+    {
+      "id": "id_153",
+      "subcounty": "Turkana North",
+      "preds": 0.074225,
+      "change_current": -0.00015,
+      "change_previous": -0.00577,
+      "bin": 2
+    },
+    {
+      "id": "id_154",
+      "subcounty": "Nyali",
+      "preds": 0.710572,
+      "change_current": -0.00056,
+      "change_previous": 0.106092,
+      "bin": 7
+    },
+    {
+      "id": "id_155",
+      "subcounty": "Borabu",
+      "preds": 0.313057,
+      "change_current": -0.00767,
+      "change_previous": -0.01513,
+      "bin": 5
+    },
+    {
+      "id": "id_156",
+      "subcounty": "Nyeri Town",
+      "preds": 0.58303,
+      "change_current": -0.03175,
+      "change_previous": 0.018366,
+      "bin": 6
+    },
+    {
+      "id": "id_157",
+      "subcounty": "Dujis",
+      "preds": 0.407473,
+      "change_current": 0.077005,
+      "change_previous": -0.01858,
+      "bin": 5
+    },
+    {
+      "id": "id_158",
+      "subcounty": "Mosop",
+      "preds": 0.259134,
+      "change_current": -0.04804,
+      "change_previous": 0.007561,
+      "bin": 4
+    },
+    {
+      "id": "id_159",
+      "subcounty": "Igembe South",
+      "preds": 0.520948,
+      "change_current": 0.065756,
+      "change_previous": -0.05099,
+      "bin": 6
+    },
+    {
+      "id": "id_160",
+      "subcounty": "Nyakach",
+      "preds": 0.328462,
+      "change_current": -0.01464,
+      "change_previous": -0.0207,
+      "bin": 5
+    },
+    {
+      "id": "id_161",
+      "subcounty": "Ganze",
+      "preds": 0.315485,
+      "change_current": -0.04763,
+      "change_previous": 0.072722,
+      "bin": 5
+    },
+    {
+      "id": "id_162",
+      "subcounty": "Kilimani",
+      "preds": 0.654875,
+      "change_current": 0.006373,
+      "change_previous": -0.01664,
+      "bin": 6
+    },
+    {
+      "id": "id_163",
+      "subcounty": "Kajiado West",
+      "preds": 0.282404,
+      "change_current": -0.02231,
+      "change_previous": -0.02817,
+      "bin": 4
+    },
+    {
+      "id": "id_164",
+      "subcounty": "Kasipul",
+      "preds": 0.412338,
+      "change_current": -0.00652,
+      "change_previous": -0.0395,
+      "bin": 5
+    },
+    {
+      "id": "id_165",
+      "subcounty": "Kieni",
+      "preds": 0.501163,
+      "change_current": 0.053847,
+      "change_previous": 0.002759,
+      "bin": 6
+    },
+    {
+      "id": "id_166",
+      "subcounty": "Vihiga",
+      "preds": 0.329084,
+      "change_current": -0.01174,
+      "change_previous": -0.02344,
+      "bin": 5
+    },
+    {
+      "id": "id_167",
+      "subcounty": "Naivasha",
+      "preds": 0.689615,
+      "change_current": -0.08325,
+      "change_previous": 0.001581,
+      "bin": 6
+    },
+    {
+      "id": "id_168",
+      "subcounty": "Konoin",
+      "preds": 0.426063,
+      "change_current": -0.04281,
+      "change_previous": -0.00484,
+      "bin": 5
+    },
+    {
+      "id": "id_169",
+      "subcounty": "Kuresoi North",
+      "preds": 0.293294,
+      "change_current": -0.0334,
+      "change_previous": 0.008736,
+      "bin": 5
+    },
+    {
+      "id": "id_170",
+      "subcounty": "Budalangi",
+      "preds": 0.243301,
+      "change_current": -0.00191,
+      "change_previous": 0.111907,
+      "bin": 4
+    },
+    {
+      "id": "id_171",
+      "subcounty": "Banissa",
+      "preds": 0.042095,
+      "change_current": -0.01244,
+      "change_previous": 0.000379,
+      "bin": 2
+    },
+    {
+      "id": "id_172",
+      "subcounty": "Yatta",
+      "preds": 0.587304,
+      "change_current": 0.042745,
+      "change_previous": -0.03177,
+      "bin": 6
+    },
+    {
+      "id": "id_173",
+      "subcounty": "Mt. Elgon",
+      "preds": 0.256099,
+      "change_current": -0.10951,
+      "change_previous": 0.013577,
+      "bin": 4
+    },
+    {
+      "id": "id_174",
+      "subcounty": "Bomachoge Chache",
+      "preds": 0.362139,
+      "change_current": -0.00297,
+      "change_previous": -0.01484,
+      "bin": 5
+    },
+    {
+      "id": "id_175",
+      "subcounty": "Kitutu Masaba",
+      "preds": 0.248561,
+      "change_current": -0.00489,
+      "change_previous": -0.00461,
+      "bin": 4
+    },
+    {
+      "id": "id_176",
+      "subcounty": "Rongo",
+      "preds": 0.576829,
+      "change_current": 0.062042,
+      "change_previous": 0.034048,
+      "bin": 6
+    },
+    {
+      "id": "id_177",
+      "subcounty": "Sabatia",
+      "preds": 0.20007,
+      "change_current": -0.02355,
+      "change_previous": -0.03009,
+      "bin": 4
+    },
+    {
+      "id": "id_178",
+      "subcounty": "Nakuru Town West",
+      "preds": 0.30888,
+      "change_current": -0.00304,
+      "change_previous": 0.077727,
+      "bin": 5
+    },
+    {
+      "id": "id_179",
+      "subcounty": "Nambale",
+      "preds": 0.219242,
+      "change_current": -0.04022,
+      "change_previous": 0.021757,
+      "bin": 4
+    },
+    {
+      "id": "id_180",
+      "subcounty": "Narok East",
+      "preds": 0.267998,
+      "change_current": -0.00462,
+      "change_previous": 0.000805,
+      "bin": 4
+    },
+    {
+      "id": "id_181",
+      "subcounty": "Samburu West",
+      "preds": 0.178941,
+      "change_current": 0.00595,
+      "change_previous": 0.002595,
+      "bin": 3
+    },
+    {
+      "id": "id_182",
+      "subcounty": "Maragwa",
+      "preds": 0.600111,
+      "change_current": 0.050473,
+      "change_previous": -0.00302,
+      "bin": 6
+    },
+    {
+      "id": "id_183",
+      "subcounty": "Navakholo",
+      "preds": 0.307095,
+      "change_current": -0.04004,
+      "change_previous": -0.0145,
+      "bin": 5
+    },
+    {
+      "id": "id_184",
+      "subcounty": "Likoni",
+      "preds": 0.206173,
+      "change_current": -0.06819,
+      "change_previous": 0.014276,
+      "bin": 4
+    },
+    {
+      "id": "id_185",
+      "subcounty": "Mavoko",
+      "preds": 0.786672,
+      "change_current": 0.023621,
+      "change_previous": -0.03878,
+      "bin": 7
+    },
+    {
+      "id": "id_186",
+      "subcounty": "Kajiado North",
+      "preds": 0.407636,
+      "change_current": -0.00583,
+      "change_previous": -0.05068,
+      "bin": 5
+    },
+    {
+      "id": "id_187",
+      "subcounty": "Ol Jorok",
+      "preds": 0.253941,
+      "change_current": -0.0057,
+      "change_previous": -0.00376,
+      "bin": 4
+    },
+    {
+      "id": "id_188",
+      "subcounty": "Igembe Central",
+      "preds": 0.362601,
+      "change_current": -0.04728,
+      "change_previous": -0.0147,
+      "bin": 5
+    },
+    {
+      "id": "id_189",
+      "subcounty": "Kangema",
+      "preds": 0.220064,
+      "change_current": -0.00673,
+      "change_previous": 0.01903,
+      "bin": 4
+    },
+    {
+      "id": "id_190",
+      "subcounty": "Ikolomani",
+      "preds": 0.307506,
+      "change_current": -0.04518,
+      "change_previous": -0.00998,
+      "bin": 5
+    },
+    {
+      "id": "id_191",
+      "subcounty": "Galole",
+      "preds": 0.154209,
+      "change_current": 0.00575,
+      "change_previous": -0.03756,
+      "bin": 3
+    },
+    {
+      "id": "id_192",
+      "subcounty": "Matayos",
+      "preds": 0.531219,
+      "change_current": -0.04544,
+      "change_previous": 0.096725,
+      "bin": 6
+    },
+    {
+      "id": "id_193",
+      "subcounty": "Mwingi East",
+      "preds": 0.330834,
+      "change_current": 0.004942,
+      "change_previous": -0.04434,
+      "bin": 5
+    },
+    {
+      "id": "id_194",
+      "subcounty": "Mwala",
+      "preds": 0.433748,
+      "change_current": -0.02653,
+      "change_previous": 0.034855,
+      "bin": 5
+    },
+    {
+      "id": "id_195",
+      "subcounty": "Emgwen",
+      "preds": 0.44955,
+      "change_current": -0.04768,
+      "change_previous": 0.047571,
+      "bin": 5
+    },
+    {
+      "id": "id_196",
+      "subcounty": "Kiharu",
+      "preds": 0.491393,
+      "change_current": -0.02558,
+      "change_previous": 0.000182,
+      "bin": 6
+    },
+    {
+      "id": "id_197",
+      "subcounty": "Luanda",
+      "preds": 0.138364,
+      "change_current": -0.01006,
+      "change_previous": 0.004777,
+      "bin": 3
+    },
+    {
+      "id": "id_198",
+      "subcounty": "Loima",
+      "preds": 0.078976,
+      "change_current": -0.00278,
+      "change_previous": -0.02102,
+      "bin": 2
+    },
+    {
+      "id": "id_199",
+      "subcounty": "Turbo",
+      "preds": 0.162523,
+      "change_current": -0.03916,
+      "change_previous": 0.003109,
+      "bin": 3
+    },
+    {
+      "id": "id_200",
+      "subcounty": "Embakasi West",
+      "preds": 0.418649,
+      "change_current": -0.00763,
+      "change_previous": 0.07109,
+      "bin": 5
+    },
+    {
+      "id": "id_201",
+      "subcounty": "Rabai",
+      "preds": 0.170878,
+      "change_current": -0.04005,
+      "change_previous": 0.013786,
+      "bin": 3
+    },
+    {
+      "id": "id_202",
+      "subcounty": "Gatundu North",
+      "preds": 0.201737,
+      "change_current": 0.003831,
+      "change_previous": -0.01572,
+      "bin": 4
+    },
+    {
+      "id": "id_203",
+      "subcounty": "Voi",
+      "preds": 0.172844,
+      "change_current": -0.01094,
+      "change_previous": -0.00127,
+      "bin": 3
+    },
+    {
+      "id": "id_204",
+      "subcounty": "Embakasi Central",
+      "preds": 0.511671,
+      "change_current": -0.04103,
+      "change_previous": -0.01574,
+      "bin": 6
+    },
+    {
+      "id": "id_205",
+      "subcounty": "Narok South",
+      "preds": 0.370032,
+      "change_current": -0.03251,
+      "change_previous": -0.02072,
+      "bin": 5
+    },
+    {
+      "id": "id_206",
+      "subcounty": "Kibwezi East",
+      "preds": 0.519712,
+      "change_current": 0.020677,
+      "change_previous": 0.080183,
+      "bin": 6
+    },
+    {
+      "id": "id_207",
+      "subcounty": "Embakasi East",
+      "preds": 0.488783,
+      "change_current": -0.02218,
+      "change_previous": 0.060255,
+      "bin": 5
+    },
+    {
+      "id": "id_208",
+      "subcounty": "Moiben",
+      "preds": 0.728759,
+      "change_current": -0.06394,
+      "change_previous": 0.0744,
+      "bin": 7
+    },
+    {
+      "id": "id_209",
+      "subcounty": "Webuye East",
+      "preds": 0.104655,
+      "change_current": -0.03137,
+      "change_previous": 0.004613,
+      "bin": 3
+    },
+    {
+      "id": "id_210",
+      "subcounty": "Nyando",
+      "preds": 0.293007,
+      "change_current": -0.01463,
+      "change_previous": -0.02378,
+      "bin": 5
+    },
+    {
+      "id": "id_211",
+      "subcounty": "Wajir North",
+      "preds": 0.074381,
+      "change_current": -0.02092,
+      "change_previous": 0.012337,
+      "bin": 2
+    },
+    {
+      "id": "id_212",
+      "subcounty": "Turkana West",
+      "preds": 0.39669,
+      "change_current": -0.01816,
+      "change_previous": -0.02655,
+      "bin": 5
+    },
+    {
+      "id": "id_213",
+      "subcounty": "Narok West",
+      "preds": 0.260397,
+      "change_current": -0.03203,
+      "change_previous": -0.02148,
+      "bin": 4
+    },
+    {
+      "id": "id_214",
+      "subcounty": "Kuria East",
+      "preds": 0.235179,
+      "change_current": -0.06048,
+      "change_previous": -0.01362,
+      "bin": 4
+    },
+    {
+      "id": "id_215",
+      "subcounty": "Nyatike",
+      "preds": 0.317878,
+      "change_current": -0.02906,
+      "change_previous": -0.04121,
+      "bin": 5
+    },
+    {
+      "id": "id_216",
+      "subcounty": "Kajiado Central",
+      "preds": 0.441199,
+      "change_current": 0.054689,
+      "change_previous": -0.05389,
+      "bin": 5
+    },
+    {
+      "id": "id_217",
+      "subcounty": "Rarieda",
+      "preds": 0.362405,
+      "change_current": -0.02296,
+      "change_previous": -0.01976,
+      "bin": 5
+    },
+    {
+      "id": "id_218",
+      "subcounty": "Mwingi North",
+      "preds": 0.220734,
+      "change_current": 0.032479,
+      "change_previous": -0.03346,
+      "bin": 4
+    },
+    {
+      "id": "id_219",
+      "subcounty": "Ijara",
+      "preds": 0.077052,
+      "change_current": -0.00357,
+      "change_previous": -0.01226,
+      "bin": 2
+    },
+    {
+      "id": "id_220",
+      "subcounty": "Mandera North",
+      "preds": 0.050892,
+      "change_current": -0.00347,
+      "change_previous": -0.00926,
+      "bin": 2
+    },
+    {
+      "id": "id_221",
+      "subcounty": "Kitui West",
+      "preds": 0.17765,
+      "change_current": -0.01258,
+      "change_previous": -0.03508,
+      "bin": 3
+    },
+    {
+      "id": "id_222",
+      "subcounty": "Bomet East",
+      "preds": 0.543243,
+      "change_current": -0.04182,
+      "change_previous": 0.056846,
+      "bin": 6
+    },
+    {
+      "id": "id_223",
+      "subcounty": "Kilome",
+      "preds": 0.377829,
+      "change_current": -0.0177,
+      "change_previous": -0.03457,
+      "bin": 5
+    },
+    {
+      "id": "id_224",
+      "subcounty": "Tongaren",
+      "preds": 0.218801,
+      "change_current": -0.05083,
+      "change_previous": 0.009579,
+      "bin": 4
+    },
+    {
+      "id": "id_225",
+      "subcounty": "Garsen",
+      "preds": 0.093267,
+      "change_current": -0.01798,
+      "change_previous": 0.009156,
+      "bin": 3
+    },
+    {
+      "id": "id_226",
+      "subcounty": "Kapenguria",
+      "preds": 0.237257,
+      "change_current": -0.05329,
+      "change_previous": -0.01744,
+      "bin": 4
+    },
+    {
+      "id": "id_227",
+      "subcounty": "Machakos Town",
+      "preds": 0.728252,
+      "change_current": -0.04953,
+      "change_previous": 0.011723,
+      "bin": 7
+    },
+    {
+      "id": "id_228",
+      "subcounty": "Balambala",
+      "preds": 0.113078,
+      "change_current": 0.027787,
+      "change_previous": -0.00933,
+      "bin": 3
+    },
+    {
+      "id": "id_229",
+      "subcounty": "Embakasi North",
+      "preds": 0.514662,
+      "change_current": 0.063956,
+      "change_previous": -0.01199,
+      "bin": 6
+    },
+    {
+      "id": "id_230",
+      "subcounty": "Gatundu South",
+      "preds": 0.429441,
+      "change_current": 0.001759,
+      "change_previous": -0.02041,
+      "bin": 5
+    },
+    {
+      "id": "id_231",
+      "subcounty": "Samburu East",
+      "preds": 0.103155,
+      "change_current": 0.001887,
+      "change_previous": -0.00216,
+      "bin": 3
+    },
+    {
+      "id": "id_232",
+      "subcounty": "Nakuru Town East",
+      "preds": 0.206396,
+      "change_current": -0.00283,
+      "change_previous": 0.01278,
+      "bin": 4
+    },
+    {
+      "id": "id_233",
+      "subcounty": "Subukia",
+      "preds": 0.329373,
+      "change_current": 0.105791,
+      "change_previous": 0.083905,
+      "bin": 5
+    },
+    {
+      "id": "id_234",
+      "subcounty": "Sigor",
+      "preds": 0.283904,
+      "change_current": -0.04958,
+      "change_previous": -0.01462,
+      "bin": 4
+    },
+    {
+      "id": "id_235",
+      "subcounty": "Sigowet/Soin",
+      "preds": 0.181088,
+      "change_current": -0.03291,
+      "change_previous": -0.00504,
+      "bin": 3
+    },
+    {
+      "id": "id_236",
+      "subcounty": "Karachuonyo",
+      "preds": 0.367927,
+      "change_current": -0.00527,
+      "change_previous": 0.10607,
+      "bin": 5
+    },
+    {
+      "id": "id_237",
+      "subcounty": "Bondo",
+      "preds": 0.408152,
+      "change_current": -0.01735,
+      "change_previous": 0.006775,
+      "bin": 5
+    },
+    {
+      "id": "id_238",
+      "subcounty": "Molo",
+      "preds": 0.428711,
+      "change_current": -0.04342,
+      "change_previous": 0.056556,
+      "bin": 5
+    },
+    {
+      "id": "id_239",
+      "subcounty": "Juja",
+      "preds": 0.375791,
+      "change_current": -0.01629,
+      "change_previous": -0.01785,
+      "bin": 5
+    },
+    {
+      "id": "id_240",
+      "subcounty": "Mogotio",
+      "preds": 0.137246,
+      "change_current": -0.01473,
+      "change_previous": 0.014429,
+      "bin": 3
+    },
+    {
+      "id": "id_241",
+      "subcounty": "Kandara",
+      "preds": 0.381428,
+      "change_current": 0.073403,
+      "change_previous": 0.006325,
+      "bin": 5
+    },
+    {
+      "id": "id_242",
+      "subcounty": "Wajir West",
+      "preds": 0.093863,
+      "change_current": -0.02879,
+      "change_previous": 0.015421,
+      "bin": 3
+    },
+    {
+      "id": "id_243",
+      "subcounty": "Kuria West",
+      "preds": 0.4382,
+      "change_current": -0.02844,
+      "change_previous": 0.038031,
+      "bin": 5
+    },
+    {
+      "id": "id_244",
+      "subcounty": "Kikuyu",
+      "preds": 0.317954,
+      "change_current": 0.001668,
+      "change_previous": -0.02056,
+      "bin": 5
+    },
+    {
+      "id": "id_245",
+      "subcounty": "Turkana South",
+      "preds": 0.125585,
+      "change_current": -0.01165,
+      "change_previous": -0.02433,
+      "bin": 3
+    },
+    {
+      "id": "id_246",
+      "subcounty": "Suba South",
+      "preds": 0.314448,
+      "change_current": -0.03321,
+      "change_previous": -0.03905,
+      "bin": 5
+    },
+    {
+      "id": "id_247",
+      "subcounty": "Wajir East",
+      "preds": 0.278439,
+      "change_current": -0.02791,
+      "change_previous": 0.082096,
+      "bin": 4
+    },
+    {
+      "id": "id_248",
+      "subcounty": "Nithi",
+      "preds": 0.537263,
+      "change_current": -0.02276,
+      "change_previous": -0.03612,
+      "bin": 6
+    },
+    {
+      "id": "id_249",
+      "subcounty": "Kitui Rural",
+      "preds": 0.1789,
+      "change_current": -0.0198,
+      "change_previous": -0.02023,
+      "bin": 3
+    },
+    {
+      "id": "id_250",
+      "subcounty": "Lafey",
+      "preds": 0.041261,
+      "change_current": -0.01226,
+      "change_previous": -0.00507,
+      "bin": 2
+    },
+    {
+      "id": "id_251",
+      "subcounty": "Roysambu",
+      "preds": 0.591661,
+      "change_current": 0.001562,
+      "change_previous": -0.01799,
+      "bin": 6
+    },
+    {
+      "id": "id_252",
+      "subcounty": "Kitutu Chache North",
+      "preds": 0.236286,
+      "change_current": -0.02233,
+      "change_previous": -0.01867,
+      "bin": 4
+    },
+    {
+      "id": "id_253",
+      "subcounty": "Saboti",
+      "preds": 0.509797,
+      "change_current": -0.09665,
+      "change_previous": 0.00187,
+      "bin": 6
+    },
+    {
+      "id": "id_254",
+      "subcounty": "Lurambi",
+      "preds": 0.589475,
+      "change_current": -0.04118,
+      "change_previous": -0.06788,
+      "bin": 6
+    },
+    {
+      "id": "id_255",
+      "subcounty": "Kirinyaga Central",
+      "preds": 0.62292,
+      "change_current": -0.03784,
+      "change_previous": 0.012168,
+      "bin": 6
+    },
+    {
+      "id": "id_256",
+      "subcounty": "Gilgil",
+      "preds": 0.408863,
+      "change_current": 0.047265,
+      "change_previous": -0.01159,
+      "bin": 5
+    },
+    {
+      "id": "id_257",
+      "subcounty": "Kipkelion East",
+      "preds": 0.246015,
+      "change_current": -0.03306,
+      "change_previous": -0.00697,
+      "bin": 4
+    },
+    {
+      "id": "id_258",
+      "subcounty": "Kabete",
+      "preds": 0.429845,
+      "change_current": -0.03734,
+      "change_previous": -0.02721,
+      "bin": 5
+    },
+    {
+      "id": "id_259",
+      "subcounty": "Runyenjes",
+      "preds": 0.447842,
+      "change_current": 0.081144,
+      "change_previous": -0.03563,
+      "bin": 5
+    },
+    {
+      "id": "id_260",
+      "subcounty": "Butula",
+      "preds": 0.254017,
+      "change_current": -0.04499,
+      "change_previous": -0.0106,
+      "bin": 4
+    },
+    {
+      "id": "id_261",
+      "subcounty": "Kajiado South",
+      "preds": 0.677539,
+      "change_current": 0.031343,
+      "change_previous": -0.06335,
+      "bin": 6
+    },
+    {
+      "id": "id_262",
+      "subcounty": "Funyula",
+      "preds": 0.215181,
+      "change_current": -0.01256,
+      "change_previous": 0.019582,
+      "bin": 4
+    },
+    {
+      "id": "id_263",
+      "subcounty": "Tiaty",
+      "preds": 0.27136,
+      "change_current": -0.03039,
+      "change_previous": -0.00158,
+      "bin": 4
+    },
+    {
+      "id": "id_264",
+      "subcounty": "Kacheliba",
+      "preds": 0.092519,
+      "change_current": -0.01651,
+      "change_previous": -0.00335,
+      "bin": 3
+    },
+    {
+      "id": "id_265",
+      "subcounty": "Kiminini",
+      "preds": 0.408729,
+      "change_current": -0.06108,
+      "change_previous": 0.020631,
+      "bin": 5
+    },
+    {
+      "id": "id_266",
+      "subcounty": "Seme",
+      "preds": 0.243661,
+      "change_current": -0.00823,
+      "change_previous": 0.005028,
+      "bin": 4
+    },
+    {
+      "id": "id_267",
+      "subcounty": "Emurua Dikirr",
+      "preds": 0.26336,
+      "change_current": -0.01139,
+      "change_previous": -0.03344,
+      "bin": 4
+    },
+    {
+      "id": "id_268",
+      "subcounty": "Kisumu East",
+      "preds": 0.613622,
+      "change_current": -0.00907,
+      "change_previous": 0.065007,
+      "bin": 6
+    },
+    {
+      "id": "id_269",
+      "subcounty": "Mathare",
+      "preds": 0.519316,
+      "change_current": 0.00282,
+      "change_previous": -0.0119,
+      "bin": 6
+    },
+    {
+      "id": "id_270",
+      "subcounty": "Ol Kalou",
+      "preds": 0.217319,
+      "change_current": 0.077863,
+      "change_previous": 0.005578,
+      "bin": 4
+    },
+    {
+      "id": "id_271",
+      "subcounty": "Emuhaya",
+      "preds": 0.121387,
+      "change_current": -0.01192,
+      "change_previous": -0.00515,
+      "bin": 3
+    },
+    {
+      "id": "id_272",
+      "subcounty": "Igembe North",
+      "preds": 0.425851,
+      "change_current": 0.004735,
+      "change_previous": -0.04056,
+      "bin": 5
+    },
+    {
+      "id": "id_273",
+      "subcounty": "Ainabkoi",
+      "preds": 0.315222,
+      "change_current": 0.044298,
+      "change_previous": 0.076176,
+      "bin": 5
+    },
+    {
+      "id": "id_274",
+      "subcounty": "Tigania East",
+      "preds": 0.277481,
+      "change_current": 0.009792,
+      "change_previous": -0.04217,
+      "bin": 4
+    },
+    {
+      "id": "id_275",
+      "subcounty": "Shinyalu",
+      "preds": 0.439206,
+      "change_current": -0.04274,
+      "change_previous": 0.067458,
+      "bin": 5
+    },
+    {
+      "id": "id_276",
+      "subcounty": "Tetu",
+      "preds": 0.158866,
+      "change_current": 0.003968,
+      "change_previous": -0.00918,
+      "bin": 3
+    },
+    {
+      "id": "id_277",
+      "subcounty": "Sotik",
+      "preds": 0.144538,
+      "change_current": -0.0102,
+      "change_previous": -0.00329,
+      "bin": 3
+    },
+    {
+      "id": "id_278",
+      "subcounty": "Gachoka",
+      "preds": 0.475883,
+      "change_current": -0.01092,
+      "change_previous": -0.03875,
+      "bin": 5
+    },
+    {
+      "id": "id_279",
+      "subcounty": "Thika Town",
+      "preds": 0.763948,
+      "change_current": 0.049944,
+      "change_previous": -0.05877,
+      "bin": 7
+    },
+    {
+      "id": "id_280",
+      "subcounty": "Baringo North",
+      "preds": 0.135371,
+      "change_current": -0.03874,
+      "change_previous": 0.025868,
+      "bin": 3
+    },
+    {
+      "id": "id_281",
+      "subcounty": "Saku",
+      "preds": 0.052659,
+      "change_current": -0.00076,
+      "change_previous": -0.00057,
+      "bin": 2
+    },
+    {
+      "id": "id_282",
+      "subcounty": "Kangundo",
+      "preds": 0.328484,
+      "change_current": -0.00307,
+      "change_previous": -0.01638,
+      "bin": 5
+    },
+    {
+      "id": "id_283",
+      "subcounty": "Bomachoge Borabu",
+      "preds": 0.428072,
+      "change_current": 0.049427,
+      "change_previous": -0.02724,
+      "bin": 5
+    },
+    {
+      "id": "id_284",
+      "subcounty": "Sirisia",
+      "preds": 0.370836,
+      "change_current": -0.05034,
+      "change_previous": 0.003521,
+      "bin": 5
+    },
+    {
+      "id": "id_285",
+      "subcounty": "North Mugirango",
+      "preds": 0.261693,
+      "change_current": -0.01757,
+      "change_previous": -0.01131,
+      "bin": 4
+    },
+    {
+      "id": "id_286",
+      "subcounty": "Chepalungu",
+      "preds": 0.298171,
+      "change_current": 0.046789,
+      "change_previous": -0.01878,
+      "bin": 5
+    },
+    {
+      "id": "id_287",
+      "subcounty": "Dagoretti",
+      "preds": 0.5626,
+      "change_current": 0.02375,
+      "change_previous": -0.01574,
+      "bin": 6
+    },
+    {
+      "id": "id_288",
+      "subcounty": "Rangwe",
+      "preds": 0.360333,
+      "change_current": 0.032924,
+      "change_previous": -0.02327,
+      "bin": 5
+    },
+    {
+      "id": "id_289",
+      "subcounty": "Kimilili",
+      "preds": 0.378466,
+      "change_current": -0.05208,
+      "change_previous": 0.05842,
+      "bin": 5
+    },
+    {
+      "id": "id_290",
+      "subcounty": "Westlands",
+      "preds": 0.780777,
+      "change_current": 0.024062,
+      "change_previous": -0.05217,
+      "bin": 7
+    }
+  ],
+  "_xlsxPath": "datalists/riots_forecast_alerts_data.xlsx",
+  "_metadata": {
+    "preds": {
+      "type": "number"
+    },
+    "change_current": {
+      "type": "number"
+    },
+    "change_previous": {
+      "type": "number"
+    },
+    "bin": {
+      "type": "number"
+    }
+  }
+}

@@ -5,7 +5,7 @@
   "rows": [
     {
       "type": "title",
-      "value": "Map of Kenya",
+      "value": "Riots Forecast (Jan 2025 - March 2025)",
       "_translations": {
         "value": {}
       },
@@ -24,7 +24,7 @@
     {
       "type": "map",
       "parameter_list": {
-        "layer_groups": "@data.layer_groups",
+        "layer_groups": "@data.riots_layer_groups",
         "extent": "@local.extent_kenya"
       },
       "style_list": [
@@ -37,10 +37,10 @@
         "parameter_list": {
           "layer_groups": [
             {
-              "fullExpression": "@data.layer_groups",
-              "matchedExpression": "@data.layer_groups",
+              "fullExpression": "@data.riots_layer_groups",
+              "matchedExpression": "@data.riots_layer_groups",
               "type": "data",
-              "fieldName": "layer_groups"
+              "fieldName": "riots_layer_groups"
             }
           ],
           "extent": [
@@ -54,7 +54,7 @@
         }
       },
       "_dynamicDependencies": {
-        "@data.layer_groups": [
+        "@data.riots_layer_groups": [
           "parameter_list.layer_groups"
         ],
         "@local.extent_kenya": [
