@@ -34,50 +34,65 @@
     "md5Checksum": "1f0564a598a4c0e51d46012b26d27959",
     "size_kb": 17.3
   },
-  "map_data/KRCS_branches.json": {
-    "filePath": "global/map_data/KRCS_branches.json",
-    "md5Checksum": "bb1ebd6c0e99c23ecba3e441192991b6",
-    "size_kb": 9.9
+  "map_data/fatalities/airports.json": {
+    "filePath": "global/map_data/fatalities/airports.json",
+    "md5Checksum": "52f6fb5dc39c00f8307ec86c9aa9538f",
+    "size_kb": 29.7
   },
-  "map_data/airports.json": {
-    "filePath": "global/map_data/airports.json",
-    "md5Checksum": "a1d6b52daca8af69bef18c42d6431ce0",
-    "size_kb": 25.2
+  "map_data/fatalities/krcs_branches.json": {
+    "filePath": "global/map_data/fatalities/krcs_branches.json",
+    "md5Checksum": "c997d13fcd03449c0c5be94e7f8f3168",
+    "size_kb": 8.6
   },
-  "map_data/food_insecurity.json": {
-    "filePath": "global/map_data/food_insecurity.json",
-    "md5Checksum": "e363b129da7e8ef01a3295d43608f157",
-    "size_kb": 10995
+  "map_data/fatalities/preds_fatalities.json": {
+    "filePath": "global/map_data/fatalities/preds_fatalities.json",
+    "md5Checksum": "1514ab63a7c998cb1d23b8503a0965bb",
+    "size_kb": 1293.6
   },
-  "map_data/forecast_riots_september_4m_ahead.json": {
-    "filePath": "global/map_data/forecast_riots_september_4m_ahead.json",
-    "md5Checksum": "8807fb06d00673abb0e9e8bfdfad730b",
-    "size_kb": 45.3
+  "map_data/fatalities/roads.json": {
+    "filePath": "global/map_data/fatalities/roads.json",
+    "md5Checksum": "7ad2dfb2fb1080c0df10b5fc23f5c6b4",
+    "size_kb": 1588
+  },
+  "map_data/global/food_insecurity.json": {
+    "filePath": "global/map_data/global/food_insecurity.json",
+    "md5Checksum": "4b7f6cdfc826a3f4ab94c35b6de0d35c",
+    "size_kb": 10948.3
+  },
+  "map_data/global/population_10k.json": {
+    "filePath": "global/map_data/global/population_10k.json",
+    "md5Checksum": "22dfab60382fcbc323326ac153a1c6d6",
+    "size_kb": 4426.1
+  },
+  "map_data/global/population_and_boundaries.json": {
+    "filePath": "global/map_data/global/population_and_boundaries.json",
+    "md5Checksum": "e82525f3f8057054ff7879d156ddd322",
+    "size_kb": 4513.3
   },
   "map_data/ke.json": {
     "filePath": "global/map_data/ke.json",
     "md5Checksum": "9a887a75373ec2e4bef94070ca0597f1",
     "size_kb": 10219.4
   },
-  "map_data/population_10k.json": {
-    "filePath": "global/map_data/population_10k.json",
-    "md5Checksum": "22dfab60382fcbc323326ac153a1c6d6",
-    "size_kb": 4426.1
+  "map_data/riots/airports.json": {
+    "filePath": "global/map_data/riots/airports.json",
+    "md5Checksum": "5bee05f576cb25d8677d64816e097a69",
+    "size_kb": 37.8
   },
-  "map_data/population_and_boundaries.json": {
-    "filePath": "global/map_data/population_and_boundaries.json",
-    "md5Checksum": "e82525f3f8057054ff7879d156ddd322",
-    "size_kb": 4513.3
+  "map_data/riots/krcs_branches.json": {
+    "filePath": "global/map_data/riots/krcs_branches.json",
+    "md5Checksum": "10235c137e12d14d3e7324b25d2c2d77",
+    "size_kb": 11
   },
-  "map_data/roads.json": {
-    "filePath": "global/map_data/roads.json",
-    "md5Checksum": "ec6129c566e4ed6771ecce2c788cfacd",
-    "size_kb": 1841.9
+  "map_data/riots/preds_riots.json": {
+    "filePath": "global/map_data/riots/preds_riots.json",
+    "md5Checksum": "80ecbbf7e54d4182bc13c7724a9647ca",
+    "size_kb": 1308.8
   },
-  "map_data/wards.json": {
-    "filePath": "global/map_data/wards.json",
-    "md5Checksum": "1165b293d23a0825a9b220d7b6c1cabf",
-    "size_kb": 88448.5
+  "map_data/riots/roads.json": {
+    "filePath": "global/map_data/riots/roads.json",
+    "md5Checksum": "0c5d75a53b66d66d5c22c652a013f08d",
+    "size_kb": 1703.5
   },
   "plotly_exports/population_2019.html": {
     "filePath": "global/plotly_exports/population_2019.html",

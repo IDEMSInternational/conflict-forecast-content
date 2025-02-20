@@ -1,0 +1,87 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "fatalities_prediction_layers",
+  "status": "released",
+  "rows": [
+    {
+      "id": "predicted_risk_of_fatilities",
+      "name": "Predicted Risk of Fatalities",
+      "source_asset": "map_data/fatalities/preds_fatalities.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "bin",
+      "scale_max": 4,
+      "scale_min": 1,
+      "scale_increment": 1,
+      "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
+      "scale_title": "Fatalities",
+      "scale_id": "risk_level",
+      "scale_slider": true,
+      "scale_slider_snap": true,
+      "opacity": 0.6,
+      "visible_default": false,
+      "filter_target_layers": "layer_roads, layer_airports"
+    },
+    {
+      "id": "predicted_probability_of_fatilities",
+      "name": "Predicted Number of Fatalities",
+      "source_asset": "map_data/fatalities/preds_fatalities.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "preds",
+      "scale_max": 3,
+      "scale_min": 0,
+      "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740037",
+      "scale_title": "Predicted Number of Fatalities",
+      "scale_slider": true,
+      "opacity": 0.6,
+      "visible_default": true
+    },
+    {
+      "id": "change_in_predicted_probability_of_fatilities",
+      "name": "Change in Predicted Number of Fatalities",
+      "source_asset": "map_data/fatalities/preds_fatalities.json",
+      "type": "vector",
+      "stroke": "none",
+      "property": "change_current",
+      "scale_max": 3,
+      "scale_min": -3,
+      "gradient_palette": "#007897, #00cedd,  #fcf8f3, #ffe5ce, #ff665a, #a10031",
+      "scale_title": "Change in Probability of Riots",
+      "scale_slider": true,
+      "opacity": 0.6,
+      "visible_default": false
+    },
+    {
+      "id": "none",
+      "name": "None",
+      "source_asset": "map_data/fatalities/preds_fatalities.json",
+      "type": "vector",
+      "visible_default": false
+    }
+  ],
+  "_xlsxPath": "datalists/map_data.xlsx",
+  "_metadata": {
+    "scale_max": {
+      "type": "number"
+    },
+    "scale_min": {
+      "type": "number"
+    },
+    "scale_increment": {
+      "type": "number"
+    },
+    "scale_slider": {
+      "type": "boolean"
+    },
+    "scale_slider_snap": {
+      "type": "boolean"
+    },
+    "opacity": {
+      "type": "number"
+    },
+    "visible_default": {
+      "type": "boolean"
+    }
+  }
+}

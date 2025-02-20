@@ -170,6 +170,60 @@
         "value": {}
       },
       "_nested_name": "text_3_2"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_4",
+      "value": "Disclaimer:",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_4"
+    },
+    {
+      "type": "text",
+      "name": "text_4_1",
+      "value": "The predicted numbers are estimates and should be used as a supplementary data source for decision-making. They do not replace expert analysis and should be interpreted with caution.",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_4_1"
+    },
+    {
+      "type": "subtitle",
+      "name": "title_5",
+      "value": "Citation:",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "emphasised"
+      },
+      "_nested_name": "title_5"
+    },
+    {
+      "type": "text",
+      "name": "text_5_1",
+      "value": "Please cite our work as:",
+      "_translations": {
+        "value": {}
+      },
+      "_nested_name": "text_5_1"
+    },
+    {
+      "type": "text",
+      "name": "subtitle_5_2",
+      "value": "Mueller, Hannes, Christopher Rauh, and Ben Seimon (2024) Introducing a global dataset on conflict forecasts and news topics. Data & Policy, volume 6, https://doi.org/10.1017/dap.2024.10.",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "contextual"
+      },
+      "_nested_name": "subtitle_5_2"
     }
   ],
   "_xlsxPath": "templates/global/app_menu.xlsx"
