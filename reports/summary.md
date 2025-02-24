@@ -29,8 +29,8 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 31581 KB | 31.6 MB |
-| unused | 11995 KB | 12 MB |
+| total | 36094 KB | 36.1 MB |
+| unused | 7482 KB | 7.5 MB |
 </details>
 
 <details open>
@@ -42,7 +42,6 @@ Assets that appear in app-data but do not have references within sheets
 | --- | --- |
 | logos/econai.png | 59.7 |
 | logos/innodems.png | 17.3 |
-| map_data/global/population_and_boundaries.json | 4513.3 |
 | plotly_exports/population_2019.html | 7405 |
 </details>
 
@@ -58,7 +57,7 @@ Assets that have references within sheets but do not appear in app-data
 | map_data/forecast_riots.json | 1 |
 | map_data/forecast_riots_september_4m_ahead.json | 1 |
 | map_data/population_10k.json | 4 |
-| map_data/population_and_boundaries.json | 4 |
+| map_data/population_and_boundaries.json | 3 |
 | map_data/roads.json | 1 |
 </details>
 
@@ -80,6 +79,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | map_data/fatalities/roads.json | 1588 | 1 |
 | map_data/global/food_insecurity.json | 10948.3 | 1 |
 | map_data/global/population_10k.json | 4426.1 | 2 |
+| map_data/global/population_and_boundaries.json | 4513.3 | 1 |
 | map_data/ke.json | 10219.4 | 5 |
 | map_data/riots/airports.json | 37.8 | 1 |
 | map_data/riots/krcs_branches.json | 11 | 1 |

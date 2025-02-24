@@ -31,9 +31,11 @@
       "property": "preds",
       "scale_max": 3,
       "scale_min": 0,
+      "scale_increment": 1,
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740037",
       "scale_title": "Predicted Number of Fatalities",
       "scale_slider": true,
+      "scale_slider_snap": true,
       "opacity": 0.6,
       "visible_default": true
     },
@@ -46,9 +48,11 @@
       "property": "change_current",
       "scale_max": 3,
       "scale_min": -3,
+      "scale_increment": 1,
       "gradient_palette": "#007897, #00cedd,  #fcf8f3, #ffe5ce, #ff665a, #a10031",
       "scale_title": "Change in Probability of Riots",
       "scale_slider": true,
+      "scale_slider_snap": true,
       "opacity": 0.6,
       "visible_default": false
     },
