@@ -59,13 +59,13 @@
     "data": [
       {
         "assets": "total",
-        "KB": "31581 KB",
-        "MB": "31.6 MB"
+        "KB": "36094 KB",
+        "MB": "36.1 MB"
       },
       {
         "assets": "unused",
-        "KB": "11995 KB",
-        "MB": "12 MB"
+        "KB": "7482 KB",
+        "MB": "7.5 MB"
       }
     ]
   },
@@ -78,10 +78,6 @@
       {
         "path": "logos/innodems.png",
         "size_kb": 17.3
-      },
-      {
-        "path": "map_data/global/population_and_boundaries.json",
-        "size_kb": 4513.3
       },
       {
         "path": "plotly_exports/population_2019.html",
@@ -118,7 +114,7 @@
       },
       {
         "path": "map_data/population_and_boundaries.json",
-        "count": 4,
+        "count": 3,
         "missing": true
       },
       {
@@ -184,6 +180,11 @@
         "path": "map_data/global/population_10k.json",
         "count": 2,
         "size_kb": 4426.1
+      },
+      {
+        "path": "map_data/global/population_and_boundaries.json",
+        "count": 1,
+        "size_kb": 4513.3
       },
       {
         "path": "map_data/ke.json",

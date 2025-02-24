@@ -30,7 +30,7 @@
     {
       "type": "text",
       "name": "text",
-      "value": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at national and sub-national levels with the intensity at a 55x55 km resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
+      "value": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at a sub-national levels with the intensity at a subcounty resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
       "_translations": {
         "value": {}
       },
@@ -38,13 +38,13 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at national and sub-national levels with the intensity at a 55x55 km resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
+            "fullExpression": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at a sub-national levels with the intensity at a subcounty resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
             "matchedExpression": "@global.app_name",
             "type": "global",
             "fieldName": "app_name"
           },
           {
-            "fullExpression": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at national and sub-national levels with the intensity at a 55x55 km resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
+            "fullExpression": "@global.app_name predicts intensification of existing conflicts and locations where new conflicts will break out after a period of peace at a sub-national levels with the intensity at a subcounty resolution. \n\n@global.app_name is brought to you by the collaboration of partners including INNODEMS and EconAI.",
             "matchedExpression": "@global.app_name",
             "type": "global",
             "fieldName": "app_name"
