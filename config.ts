@@ -6,7 +6,7 @@ config.google_drive.assets_folder_ids = ["1SzZiWN4hvv0snDdpd-BZYPjTC6RzC1uU"];
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/conflict-forecast-content.git",
-  content_tag_latest: "0.4.1",
+  content_tag_latest: "0.4.2",
 };
 
 // Filter out 
