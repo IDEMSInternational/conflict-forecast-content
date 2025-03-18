@@ -28,16 +28,34 @@
       "flow_name": "fatalities_forecast_alerts_data",
       "_xlsxPath": "datalists/fatalities_forecast_alerts_data.xlsx",
       "_metadata": {
-        "preds": {
+        "preds_subcounty": {
           "type": "number"
         },
-        "change_current": {
+        "preds_average_subcounty": {
           "type": "number"
         },
-        "change_previous": {
+        "change_current_subcounty": {
           "type": "number"
         },
-        "bin": {
+        "change_previous_subcounty": {
+          "type": "number"
+        },
+        "bin_subcounty": {
+          "type": "number"
+        },
+        "preds_county": {
+          "type": "number"
+        },
+        "preds_average_county": {
+          "type": "number"
+        },
+        "change_current_county": {
+          "type": "number"
+        },
+        "change_previous_county": {
+          "type": "number"
+        },
+        "bin_county": {
           "type": "number"
         }
       }
@@ -240,16 +258,34 @@
       "flow_name": "riots_forecast_alerts_data",
       "_xlsxPath": "datalists/riots_forecast_alerts_data.xlsx",
       "_metadata": {
-        "preds": {
+        "preds_subcounty": {
           "type": "number"
         },
-        "change_current": {
+        "preds_average_subcounty": {
           "type": "number"
         },
-        "change_previous": {
+        "change_current_subcounty": {
           "type": "number"
         },
-        "bin": {
+        "change_previous_subcounty": {
+          "type": "number"
+        },
+        "bin_subcounty": {
+          "type": "number"
+        },
+        "preds_county": {
+          "type": "number"
+        },
+        "preds_average_county": {
+          "type": "number"
+        },
+        "change_current_county": {
+          "type": "number"
+        },
+        "change_previous_county": {
+          "type": "number"
+        },
+        "bin_county": {
           "type": "number"
         }
       }

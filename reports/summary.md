@@ -11,7 +11,7 @@
 | subtitle | 5 |
 | table | 2 |
 | template | 2 |
-| text | 18 |
+| text | 19 |
 | title | 4 |
 </details>
 
