@@ -10,8 +10,13 @@
         "value": {}
       },
       "parameter_list": {
-        "show_id": "false"
+        "display_columns": "subcounty, preds_subcounty, preds_average_subcounty, change_current_subcounty, change_previous_subcounty, bin_subcounty, county, preds_county, preds_average_county, change_current_county, change_previous_county, bin_county",
+        "show_search": "true",
+        "sort_default": "preds_subcounty asc"
       },
+      "style_list": [
+        "max-height: 90vh"
+      ],
       "name": "table_2",
       "_nested_name": "table_2"
     }
