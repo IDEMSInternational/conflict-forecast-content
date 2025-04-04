@@ -10,13 +10,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Uasin Gishu",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1111111111111111,
       "change_current_county": 0,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_2",
@@ -25,13 +25,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Taita Taveta",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_3",
@@ -40,13 +40,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_4",
@@ -55,13 +55,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kirinyaga",
       "preds_county": 0,
       "preds_average_county": 0.1041666666666667,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_5",
@@ -70,13 +70,13 @@
       "preds_average_subcounty": 0.2916666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Elgeyo-Marakwet",
       "preds_county": 0.25,
       "preds_average_county": 0.75,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_6",
@@ -85,13 +85,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyeri",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.04166666666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_7",
@@ -100,13 +100,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_8",
@@ -115,13 +115,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Elgeyo-Marakwet",
       "preds_county": 0.25,
       "preds_average_county": 0.75,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_9",
@@ -130,13 +130,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_10",
@@ -145,13 +145,13 @@
       "preds_average_subcounty": 0.625,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_11",
@@ -160,13 +160,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_12",
@@ -175,13 +175,13 @@
       "preds_average_subcounty": 2.666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 3,
+      "risk_level_subcounty": 3,
       "county": "Lamu",
       "preds_county": 2.5,
       "preds_average_county": 4.666666666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 3
+      "risk_level_county": 3
     },
     {
       "id": "id_13",
@@ -190,13 +190,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nandi",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_14",
@@ -205,13 +205,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_15",
@@ -220,13 +220,13 @@
       "preds_average_subcounty": 0.5,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Tana River",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1944444444444444,
       "change_current_county": 0,
       "change_previous_county": -0.6666666666666666,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_16",
@@ -235,13 +235,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Baringo",
       "preds_county": 0.5,
       "preds_average_county": 0.5972222222222222,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_17",
@@ -250,13 +250,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Busia",
       "preds_county": 0,
       "preds_average_county": 0.02380952380952381,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_18",
@@ -265,13 +265,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kilifi",
       "preds_county": 0,
       "preds_average_county": 0.01785714285714286,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_19",
@@ -280,13 +280,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_20",
@@ -295,13 +295,13 @@
       "preds_average_subcounty": 0.75,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_21",
@@ -310,13 +310,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_22",
@@ -325,13 +325,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_23",
@@ -340,13 +340,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Trans Nzoia",
       "preds_county": 0,
       "preds_average_county": 0.1,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_24",
@@ -355,13 +355,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Murang'a",
       "preds_county": 0,
       "preds_average_county": 0.02976190476190476,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_25",
@@ -370,13 +370,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Baringo",
       "preds_county": 0.5,
       "preds_average_county": 0.5972222222222222,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_26",
@@ -385,13 +385,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kwale",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_27",
@@ -400,13 +400,13 @@
       "preds_average_subcounty": 0.08333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_28",
@@ -415,13 +415,13 @@
       "preds_average_subcounty": 1.958333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Turkana",
       "preds_county": 0.5,
       "preds_average_county": 1.111111111111111,
       "change_current_county": -0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_29",
@@ -430,13 +430,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_30",
@@ -445,13 +445,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Narok",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1180555555555556,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_31",
@@ -460,13 +460,13 @@
       "preds_average_subcounty": 1.291666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Garissa",
       "preds_county": 1.666666666666667,
       "preds_average_county": 1.527777777777778,
       "change_current_county": 0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 2.166666666666667
+      "risk_level_county": 2.166666666666667
     },
     {
       "id": "id_32",
@@ -475,13 +475,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kilifi",
       "preds_county": 0,
       "preds_average_county": 0.01785714285714286,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_33",
@@ -490,13 +490,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Mombasa",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.09027777777777779,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_34",
@@ -505,13 +505,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nandi",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_35",
@@ -520,13 +520,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_36",
@@ -535,13 +535,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_37",
@@ -550,13 +550,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_38",
@@ -565,13 +565,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Trans Nzoia",
       "preds_county": 0,
       "preds_average_county": 0.1,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_39",
@@ -580,13 +580,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kericho",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_40",
@@ -595,13 +595,13 @@
       "preds_average_subcounty": 1.083333333333333,
       "change_current_subcounty": 1,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 3,
+      "risk_level_subcounty": 3,
       "county": "Mandera",
       "preds_county": 1.333333333333333,
       "preds_average_county": 0.8263888888888888,
       "change_current_county": 0.3333333333333333,
       "change_previous_county": -0.8333333333333334,
-      "bin_county": 2.333333333333333
+      "risk_level_county": 2.333333333333333
     },
     {
       "id": "id_41",
@@ -610,13 +610,13 @@
       "preds_average_subcounty": 0.25,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Makueni",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.0625,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_42",
@@ -625,13 +625,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kwale",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_43",
@@ -640,13 +640,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_44",
@@ -655,13 +655,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_45",
@@ -670,13 +670,13 @@
       "preds_average_subcounty": 0.4583333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Laikipia",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.4861111111111111,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_46",
@@ -685,13 +685,13 @@
       "preds_average_subcounty": 0.2916666666666667,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_47",
@@ -700,13 +700,13 @@
       "preds_average_subcounty": 0.875,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_48",
@@ -715,13 +715,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Makueni",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.0625,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_49",
@@ -730,13 +730,13 @@
       "preds_average_subcounty": 2.666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Elgeyo-Marakwet",
       "preds_county": 0.25,
       "preds_average_county": 0.75,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_50",
@@ -745,13 +745,13 @@
       "preds_average_subcounty": 1.166666666666667,
       "change_current_subcounty": 1,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 3,
+      "risk_level_subcounty": 3,
       "county": "Mandera",
       "preds_county": 1.333333333333333,
       "preds_average_county": 0.8263888888888888,
       "change_current_county": 0.3333333333333333,
       "change_previous_county": -0.8333333333333334,
-      "bin_county": 2.333333333333333
+      "risk_level_county": 2.333333333333333
     },
     {
       "id": "id_51",
@@ -760,13 +760,13 @@
       "preds_average_subcounty": 0.7916666666666666,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Turkana",
       "preds_county": 0.5,
       "preds_average_county": 1.111111111111111,
       "change_current_county": -0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_52",
@@ -775,13 +775,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Makueni",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.0625,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_53",
@@ -790,13 +790,13 @@
       "preds_average_subcounty": 6.666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 3,
+      "risk_level_subcounty": 3,
       "county": "Lamu",
       "preds_county": 2.5,
       "preds_average_county": 4.666666666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 3
+      "risk_level_county": 3
     },
     {
       "id": "id_54",
@@ -805,13 +805,13 @@
       "preds_average_subcounty": 0.25,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Embu",
       "preds_county": 0,
       "preds_average_county": 0.1354166666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_55",
@@ -820,13 +820,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "West Pokot",
       "preds_county": 0.25,
       "preds_average_county": 0.5208333333333334,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_56",
@@ -835,13 +835,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Marsabit",
       "preds_county": 0.5,
       "preds_average_county": 0.7916666666666667,
       "change_current_county": -0.25,
       "change_previous_county": -0.25,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_57",
@@ -850,13 +850,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Mombasa",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.09027777777777779,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_58",
@@ -865,13 +865,13 @@
       "preds_average_subcounty": 0.08333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kilifi",
       "preds_county": 0,
       "preds_average_county": 0.01785714285714286,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_59",
@@ -880,13 +880,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Mombasa",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.09027777777777779,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_60",
@@ -895,13 +895,13 @@
       "preds_average_subcounty": 3,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Isiolo",
       "preds_county": 0.5,
       "preds_average_county": 2.041666666666667,
       "change_current_county": -1,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_61",
@@ -910,13 +910,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_62",
@@ -925,13 +925,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_63",
@@ -940,13 +940,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_64",
@@ -955,13 +955,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_65",
@@ -970,13 +970,13 @@
       "preds_average_subcounty": 4.041666666666667,
       "change_current_subcounty": 2,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 3,
+      "risk_level_subcounty": 3,
       "county": "Garissa",
       "preds_county": 1.666666666666667,
       "preds_average_county": 1.527777777777778,
       "change_current_county": 0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 2.166666666666667
+      "risk_level_county": 2.166666666666667
     },
     {
       "id": "id_66",
@@ -985,13 +985,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_67",
@@ -1000,13 +1000,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_68",
@@ -1015,13 +1015,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Trans Nzoia",
       "preds_county": 0,
       "preds_average_county": 0.1,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_69",
@@ -1030,13 +1030,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_70",
@@ -1045,13 +1045,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyandarua",
       "preds_county": 0,
       "preds_average_county": 0.008333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_71",
@@ -1060,13 +1060,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_72",
@@ -1075,13 +1075,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyamira",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_73",
@@ -1090,13 +1090,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nandi",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_74",
@@ -1105,13 +1105,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_75",
@@ -1120,13 +1120,13 @@
       "preds_average_subcounty": 0.1666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_76",
@@ -1135,13 +1135,13 @@
       "preds_average_subcounty": 1,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Laikipia",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.4861111111111111,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_77",
@@ -1150,13 +1150,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisumu",
       "preds_county": 0.1428571428571428,
       "preds_average_county": 0.2023809523809524,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.142857142857143
+      "risk_level_county": 1.142857142857143
     },
     {
       "id": "id_78",
@@ -1165,13 +1165,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_79",
@@ -1180,13 +1180,13 @@
       "preds_average_subcounty": 1.75,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_80",
@@ -1195,13 +1195,13 @@
       "preds_average_subcounty": 0.375,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_81",
@@ -1210,13 +1210,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Murang'a",
       "preds_county": 0,
       "preds_average_county": 0.02976190476190476,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_82",
@@ -1225,13 +1225,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kilifi",
       "preds_county": 0,
       "preds_average_county": 0.01785714285714286,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_83",
@@ -1240,13 +1240,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisumu",
       "preds_county": 0.1428571428571428,
       "preds_average_county": 0.2023809523809524,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.142857142857143
+      "risk_level_county": 1.142857142857143
     },
     {
       "id": "id_84",
@@ -1255,13 +1255,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyandarua",
       "preds_county": 0,
       "preds_average_county": 0.008333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_85",
@@ -1270,13 +1270,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_86",
@@ -1285,13 +1285,13 @@
       "preds_average_subcounty": 0.25,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Mombasa",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.09027777777777779,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_87",
@@ -1300,13 +1300,13 @@
       "preds_average_subcounty": 1.166666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Baringo",
       "preds_county": 0.5,
       "preds_average_county": 0.5972222222222222,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_88",
@@ -1315,13 +1315,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Wajir",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1458333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_89",
@@ -1330,13 +1330,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Taita Taveta",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_90",
@@ -1345,13 +1345,13 @@
       "preds_average_subcounty": 0.1666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_91",
@@ -1360,13 +1360,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_92",
@@ -1375,13 +1375,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Makueni",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.0625,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_93",
@@ -1390,13 +1390,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_94",
@@ -1405,13 +1405,13 @@
       "preds_average_subcounty": 0.3333333333333333,
       "change_current_subcounty": 1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Siaya",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1527777777777778,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_95",
@@ -1420,13 +1420,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nandi",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_96",
@@ -1435,13 +1435,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kilifi",
       "preds_county": 0,
       "preds_average_county": 0.01785714285714286,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_97",
@@ -1450,13 +1450,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_98",
@@ -1465,13 +1465,13 @@
       "preds_average_subcounty": 0.6666666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Marsabit",
       "preds_county": 0.5,
       "preds_average_county": 0.7916666666666667,
       "change_current_county": -0.25,
       "change_previous_county": -0.25,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_99",
@@ -1480,13 +1480,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyeri",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.04166666666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_100",
@@ -1495,13 +1495,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kwale",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_101",
@@ -1510,13 +1510,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kericho",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_102",
@@ -1525,13 +1525,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_103",
@@ -1540,13 +1540,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Embu",
       "preds_county": 0,
       "preds_average_county": 0.1354166666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_104",
@@ -1555,13 +1555,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Taita Taveta",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_105",
@@ -1570,13 +1570,13 @@
       "preds_average_subcounty": 1,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Marsabit",
       "preds_county": 0.5,
       "preds_average_county": 0.7916666666666667,
       "change_current_county": -0.25,
       "change_previous_county": -0.25,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_106",
@@ -1585,13 +1585,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyandarua",
       "preds_county": 0,
       "preds_average_county": 0.008333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_107",
@@ -1600,13 +1600,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Laikipia",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.4861111111111111,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_108",
@@ -1615,13 +1615,13 @@
       "preds_average_subcounty": 0.08333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_109",
@@ -1630,13 +1630,13 @@
       "preds_average_subcounty": 0.3333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_110",
@@ -1645,13 +1645,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_111",
@@ -1660,13 +1660,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_112",
@@ -1675,13 +1675,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Wajir",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1458333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_113",
@@ -1690,13 +1690,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kirinyaga",
       "preds_county": 0,
       "preds_average_county": 0.1041666666666667,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_114",
@@ -1705,13 +1705,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Mandera",
       "preds_county": 1.333333333333333,
       "preds_average_county": 0.8263888888888888,
       "change_current_county": 0.3333333333333333,
       "change_previous_county": -0.8333333333333334,
-      "bin_county": 2.333333333333333
+      "risk_level_county": 2.333333333333333
     },
     {
       "id": "id_115",
@@ -1720,13 +1720,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_116",
@@ -1735,13 +1735,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_117",
@@ -1750,13 +1750,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Tharaka-Nithi",
       "preds_county": 0,
       "preds_average_county": 0.06944444444444445,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_118",
@@ -1765,13 +1765,13 @@
       "preds_average_subcounty": 0.5,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Narok",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1180555555555556,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_119",
@@ -1780,13 +1780,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Siaya",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1527777777777778,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_120",
@@ -1795,13 +1795,13 @@
       "preds_average_subcounty": 0.2916666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kirinyaga",
       "preds_county": 0,
       "preds_average_county": 0.1041666666666667,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_121",
@@ -1810,13 +1810,13 @@
       "preds_average_subcounty": 1.083333333333333,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Isiolo",
       "preds_county": 0.5,
       "preds_average_county": 2.041666666666667,
       "change_current_county": -1,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_122",
@@ -1825,13 +1825,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_123",
@@ -1840,13 +1840,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_124",
@@ -1855,13 +1855,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_125",
@@ -1870,13 +1870,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Elgeyo-Marakwet",
       "preds_county": 0.25,
       "preds_average_county": 0.75,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_126",
@@ -1885,13 +1885,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_127",
@@ -1900,13 +1900,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_128",
@@ -1915,13 +1915,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_129",
@@ -1930,13 +1930,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyeri",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.04166666666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_130",
@@ -1945,13 +1945,13 @@
       "preds_average_subcounty": 0.08333333333333333,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_131",
@@ -1960,13 +1960,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_132",
@@ -1975,13 +1975,13 @@
       "preds_average_subcounty": 2.708333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Samburu",
       "preds_county": 1,
       "preds_average_county": 1.583333333333333,
       "change_current_county": 0,
       "change_previous_county": 0.3333333333333333,
-      "bin_county": 2
+      "risk_level_county": 2
     },
     {
       "id": "id_133",
@@ -1990,13 +1990,13 @@
       "preds_average_subcounty": 0.08333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Siaya",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1527777777777778,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_134",
@@ -2005,13 +2005,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_135",
@@ -2020,13 +2020,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bomet",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_136",
@@ -2035,13 +2035,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kwale",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_137",
@@ -2050,13 +2050,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Wajir",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1458333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_138",
@@ -2065,13 +2065,13 @@
       "preds_average_subcounty": 0.25,
       "change_current_subcounty": 1,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_139",
@@ -2080,13 +2080,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Garissa",
       "preds_county": 1.666666666666667,
       "preds_average_county": 1.527777777777778,
       "change_current_county": 0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 2.166666666666667
+      "risk_level_county": 2.166666666666667
     },
     {
       "id": "id_140",
@@ -2095,13 +2095,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Vihiga",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_141",
@@ -2110,13 +2110,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_142",
@@ -2125,13 +2125,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kericho",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_143",
@@ -2140,13 +2140,13 @@
       "preds_average_subcounty": 1.25,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Kisumu",
       "preds_county": 0.1428571428571428,
       "preds_average_county": 0.2023809523809524,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.142857142857143
+      "risk_level_county": 1.142857142857143
     },
     {
       "id": "id_144",
@@ -2155,13 +2155,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_145",
@@ -2170,13 +2170,13 @@
       "preds_average_subcounty": 0.7083333333333334,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Kajiado",
       "preds_county": 0.2,
       "preds_average_county": 0.1416666666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.2
+      "risk_level_county": 1.2
     },
     {
       "id": "id_146",
@@ -2185,13 +2185,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Tharaka-Nithi",
       "preds_county": 0,
       "preds_average_county": 0.06944444444444445,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_147",
@@ -2200,13 +2200,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Murang'a",
       "preds_county": 0,
       "preds_average_county": 0.02976190476190476,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_148",
@@ -2215,13 +2215,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kericho",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_149",
@@ -2230,13 +2230,13 @@
       "preds_average_subcounty": 0.4583333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Siaya",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1527777777777778,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_150",
@@ -2245,13 +2245,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Uasin Gishu",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1111111111111111,
       "change_current_county": 0,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_151",
@@ -2260,13 +2260,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Uasin Gishu",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1111111111111111,
       "change_current_county": 0,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_152",
@@ -2275,13 +2275,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Busia",
       "preds_county": 0,
       "preds_average_county": 0.02380952380952381,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_153",
@@ -2290,13 +2290,13 @@
       "preds_average_subcounty": 1,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Turkana",
       "preds_county": 0.5,
       "preds_average_county": 1.111111111111111,
       "change_current_county": -0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_154",
@@ -2305,13 +2305,13 @@
       "preds_average_subcounty": 0.2916666666666667,
       "change_current_subcounty": 1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Mombasa",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.09027777777777779,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_155",
@@ -2320,13 +2320,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyamira",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_156",
@@ -2335,13 +2335,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyeri",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.04166666666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_157",
@@ -2350,13 +2350,13 @@
       "preds_average_subcounty": 1.375,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Garissa",
       "preds_county": 1.666666666666667,
       "preds_average_county": 1.527777777777778,
       "change_current_county": 0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 2.166666666666667
+      "risk_level_county": 2.166666666666667
     },
     {
       "id": "id_158",
@@ -2365,13 +2365,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nandi",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_159",
@@ -2380,13 +2380,13 @@
       "preds_average_subcounty": 0.4166666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_160",
@@ -2395,13 +2395,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisumu",
       "preds_county": 0.1428571428571428,
       "preds_average_county": 0.2023809523809524,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.142857142857143
+      "risk_level_county": 1.142857142857143
     },
     {
       "id": "id_161",
@@ -2410,13 +2410,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kilifi",
       "preds_county": 0,
       "preds_average_county": 0.01785714285714286,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_162",
@@ -2425,13 +2425,13 @@
       "preds_average_subcounty": 0.4583333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_163",
@@ -2440,13 +2440,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kajiado",
       "preds_county": 0.2,
       "preds_average_county": 0.1416666666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.2
+      "risk_level_county": 1.2
     },
     {
       "id": "id_164",
@@ -2455,13 +2455,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_165",
@@ -2470,13 +2470,13 @@
       "preds_average_subcounty": 0.1666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Nyeri",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.04166666666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_166",
@@ -2485,13 +2485,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Vihiga",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_167",
@@ -2500,13 +2500,13 @@
       "preds_average_subcounty": 0.1666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_168",
@@ -2515,13 +2515,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bomet",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_169",
@@ -2530,13 +2530,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_170",
@@ -2545,13 +2545,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Busia",
       "preds_county": 0,
       "preds_average_county": 0.02380952380952381,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_171",
@@ -2560,13 +2560,13 @@
       "preds_average_subcounty": 0.4166666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Mandera",
       "preds_county": 1.333333333333333,
       "preds_average_county": 0.8263888888888888,
       "change_current_county": 0.3333333333333333,
       "change_previous_county": -0.8333333333333334,
-      "bin_county": 2.333333333333333
+      "risk_level_county": 2.333333333333333
     },
     {
       "id": "id_172",
@@ -2575,13 +2575,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_173",
@@ -2590,13 +2590,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_174",
@@ -2605,13 +2605,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_175",
@@ -2620,13 +2620,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyamira",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_176",
@@ -2635,13 +2635,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_177",
@@ -2650,13 +2650,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Vihiga",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_178",
@@ -2665,13 +2665,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_179",
@@ -2680,13 +2680,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Busia",
       "preds_county": 0,
       "preds_average_county": 0.02380952380952381,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_180",
@@ -2695,13 +2695,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Narok",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1180555555555556,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_181",
@@ -2710,13 +2710,13 @@
       "preds_average_subcounty": 1.375,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Samburu",
       "preds_county": 1,
       "preds_average_county": 1.583333333333333,
       "change_current_county": 0,
       "change_previous_county": 0.3333333333333333,
-      "bin_county": 2
+      "risk_level_county": 2
     },
     {
       "id": "id_182",
@@ -2725,13 +2725,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Murang'a",
       "preds_county": 0,
       "preds_average_county": 0.02976190476190476,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_183",
@@ -2740,13 +2740,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_184",
@@ -2755,13 +2755,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Mombasa",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.09027777777777779,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_185",
@@ -2770,13 +2770,13 @@
       "preds_average_subcounty": 0.6666666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_186",
@@ -2785,13 +2785,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kajiado",
       "preds_county": 0.2,
       "preds_average_county": 0.1416666666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.2
+      "risk_level_county": 1.2
     },
     {
       "id": "id_187",
@@ -2800,13 +2800,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyandarua",
       "preds_county": 0,
       "preds_average_county": 0.008333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_188",
@@ -2815,13 +2815,13 @@
       "preds_average_subcounty": 0.3333333333333333,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_189",
@@ -2830,13 +2830,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Murang'a",
       "preds_county": 0,
       "preds_average_county": 0.02976190476190476,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_190",
@@ -2845,13 +2845,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_191",
@@ -2860,13 +2860,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Tana River",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1944444444444444,
       "change_current_county": 0,
       "change_previous_county": -0.6666666666666666,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_192",
@@ -2875,13 +2875,13 @@
       "preds_average_subcounty": 0.1666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Busia",
       "preds_county": 0,
       "preds_average_county": 0.02380952380952381,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_193",
@@ -2890,13 +2890,13 @@
       "preds_average_subcounty": 0.25,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_194",
@@ -2905,13 +2905,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_195",
@@ -2920,13 +2920,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nandi",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_196",
@@ -2935,13 +2935,13 @@
       "preds_average_subcounty": 0.1666666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Murang'a",
       "preds_county": 0,
       "preds_average_county": 0.02976190476190476,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_197",
@@ -2950,13 +2950,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Vihiga",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_198",
@@ -2965,13 +2965,13 @@
       "preds_average_subcounty": 0.4166666666666667,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Turkana",
       "preds_county": 0.5,
       "preds_average_county": 1.111111111111111,
       "change_current_county": -0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_199",
@@ -2980,13 +2980,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Uasin Gishu",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1111111111111111,
       "change_current_county": 0,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_200",
@@ -2995,13 +2995,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_201",
@@ -3010,13 +3010,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kilifi",
       "preds_county": 0,
       "preds_average_county": 0.01785714285714286,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_202",
@@ -3025,13 +3025,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_203",
@@ -3040,13 +3040,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Taita Taveta",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_204",
@@ -3055,13 +3055,13 @@
       "preds_average_subcounty": 0.2916666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_205",
@@ -3070,13 +3070,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Narok",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1180555555555556,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_206",
@@ -3085,13 +3085,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Makueni",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.0625,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_207",
@@ -3100,13 +3100,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_208",
@@ -3115,13 +3115,13 @@
       "preds_average_subcounty": 0.6666666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Uasin Gishu",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1111111111111111,
       "change_current_county": 0,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_209",
@@ -3130,13 +3130,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_210",
@@ -3145,13 +3145,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisumu",
       "preds_county": 0.1428571428571428,
       "preds_average_county": 0.2023809523809524,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.142857142857143
+      "risk_level_county": 1.142857142857143
     },
     {
       "id": "id_211",
@@ -3160,13 +3160,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Wajir",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1458333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_212",
@@ -3175,13 +3175,13 @@
       "preds_average_subcounty": 1.333333333333333,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Turkana",
       "preds_county": 0.5,
       "preds_average_county": 1.111111111111111,
       "change_current_county": -0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_213",
@@ -3190,13 +3190,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Narok",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1180555555555556,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_214",
@@ -3205,13 +3205,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_215",
@@ -3220,13 +3220,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_216",
@@ -3235,13 +3235,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kajiado",
       "preds_county": 0.2,
       "preds_average_county": 0.1416666666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.2
+      "risk_level_county": 1.2
     },
     {
       "id": "id_217",
@@ -3250,13 +3250,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Siaya",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1527777777777778,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_218",
@@ -3265,13 +3265,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_219",
@@ -3280,13 +3280,13 @@
       "preds_average_subcounty": 2.041666666666667,
       "change_current_subcounty": 1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 3,
+      "risk_level_subcounty": 3,
       "county": "Garissa",
       "preds_county": 1.666666666666667,
       "preds_average_county": 1.527777777777778,
       "change_current_county": 0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 2.166666666666667
+      "risk_level_county": 2.166666666666667
     },
     {
       "id": "id_220",
@@ -3295,13 +3295,13 @@
       "preds_average_subcounty": 1.166666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Mandera",
       "preds_county": 1.333333333333333,
       "preds_average_county": 0.8263888888888888,
       "change_current_county": 0.3333333333333333,
       "change_previous_county": -0.8333333333333334,
-      "bin_county": 2.333333333333333
+      "risk_level_county": 2.333333333333333
     },
     {
       "id": "id_221",
@@ -3310,13 +3310,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_222",
@@ -3325,13 +3325,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bomet",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_223",
@@ -3340,13 +3340,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Makueni",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.0625,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_224",
@@ -3355,13 +3355,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_225",
@@ -3370,13 +3370,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Tana River",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1944444444444444,
       "change_current_county": 0,
       "change_previous_county": -0.6666666666666666,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_226",
@@ -3385,13 +3385,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "West Pokot",
       "preds_county": 0.25,
       "preds_average_county": 0.5208333333333334,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_227",
@@ -3400,13 +3400,13 @@
       "preds_average_subcounty": 0.25,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_228",
@@ -3415,13 +3415,13 @@
       "preds_average_subcounty": 0.4166666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Garissa",
       "preds_county": 1.666666666666667,
       "preds_average_county": 1.527777777777778,
       "change_current_county": 0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 2.166666666666667
+      "risk_level_county": 2.166666666666667
     },
     {
       "id": "id_229",
@@ -3430,13 +3430,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_230",
@@ -3445,13 +3445,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_231",
@@ -3460,13 +3460,13 @@
       "preds_average_subcounty": 0.6666666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 1,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Samburu",
       "preds_county": 1,
       "preds_average_county": 1.583333333333333,
       "change_current_county": 0,
       "change_previous_county": 0.3333333333333333,
-      "bin_county": 2
+      "risk_level_county": 2
     },
     {
       "id": "id_232",
@@ -3475,13 +3475,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_233",
@@ -3490,13 +3490,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_234",
@@ -3505,13 +3505,13 @@
       "preds_average_subcounty": 1.5,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "West Pokot",
       "preds_county": 0.25,
       "preds_average_county": 0.5208333333333334,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_235",
@@ -3520,13 +3520,13 @@
       "preds_average_subcounty": 0.08333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kericho",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_236",
@@ -3535,13 +3535,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_237",
@@ -3550,13 +3550,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Siaya",
       "preds_county": 0.3333333333333333,
       "preds_average_county": 0.1527777777777778,
       "change_current_county": 0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.333333333333333
+      "risk_level_county": 1.333333333333333
     },
     {
       "id": "id_238",
@@ -3565,13 +3565,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_239",
@@ -3580,13 +3580,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_240",
@@ -3595,13 +3595,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Baringo",
       "preds_county": 0.5,
       "preds_average_county": 0.5972222222222222,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_241",
@@ -3610,13 +3610,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Murang'a",
       "preds_county": 0,
       "preds_average_county": 0.02976190476190476,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_242",
@@ -3625,13 +3625,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Wajir",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1458333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_243",
@@ -3640,13 +3640,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Migori",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_244",
@@ -3655,13 +3655,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_245",
@@ -3670,13 +3670,13 @@
       "preds_average_subcounty": 1.166666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Turkana",
       "preds_county": 0.5,
       "preds_average_county": 1.111111111111111,
       "change_current_county": -0.5,
       "change_previous_county": -0.1666666666666667,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_246",
@@ -3685,13 +3685,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_247",
@@ -3700,13 +3700,13 @@
       "preds_average_subcounty": 0.625,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Wajir",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1458333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_248",
@@ -3715,13 +3715,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Tharaka-Nithi",
       "preds_county": 0,
       "preds_average_county": 0.06944444444444445,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_249",
@@ -3730,13 +3730,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kitui",
       "preds_county": 0,
       "preds_average_county": 0.05729166666666667,
       "change_current_county": 0,
       "change_previous_county": -0.125,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_250",
@@ -3745,13 +3745,13 @@
       "preds_average_subcounty": 0.9166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -3,
-      "bin_subcounty": 3,
+      "risk_level_subcounty": 3,
       "county": "Mandera",
       "preds_county": 1.333333333333333,
       "preds_average_county": 0.8263888888888888,
       "change_current_county": 0.3333333333333333,
       "change_previous_county": -0.8333333333333334,
-      "bin_county": 2.333333333333333
+      "risk_level_county": 2.333333333333333
     },
     {
       "id": "id_251",
@@ -3760,13 +3760,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_252",
@@ -3775,13 +3775,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_253",
@@ -3790,13 +3790,13 @@
       "preds_average_subcounty": 0.375,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Trans Nzoia",
       "preds_county": 0,
       "preds_average_county": 0.1,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_254",
@@ -3805,13 +3805,13 @@
       "preds_average_subcounty": 0.2083333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_255",
@@ -3820,13 +3820,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kirinyaga",
       "preds_county": 0,
       "preds_average_county": 0.1041666666666667,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_256",
@@ -3835,13 +3835,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nakuru",
       "preds_county": 0.1818181818181818,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.181818181818182
+      "risk_level_county": 1.181818181818182
     },
     {
       "id": "id_257",
@@ -3850,13 +3850,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kericho",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_258",
@@ -3865,13 +3865,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_259",
@@ -3880,13 +3880,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Embu",
       "preds_county": 0,
       "preds_average_county": 0.1354166666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_260",
@@ -3895,13 +3895,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Busia",
       "preds_county": 0,
       "preds_average_county": 0.02380952380952381,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_261",
@@ -3910,13 +3910,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kajiado",
       "preds_county": 0.2,
       "preds_average_county": 0.1416666666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.2
+      "risk_level_county": 1.2
     },
     {
       "id": "id_262",
@@ -3925,13 +3925,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Busia",
       "preds_county": 0,
       "preds_average_county": 0.02380952380952381,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_263",
@@ -3940,13 +3940,13 @@
       "preds_average_subcounty": 1.041666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Baringo",
       "preds_county": 0.5,
       "preds_average_county": 0.5972222222222222,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_264",
@@ -3955,13 +3955,13 @@
       "preds_average_subcounty": 0.5416666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": -1,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "West Pokot",
       "preds_county": 0.25,
       "preds_average_county": 0.5208333333333334,
       "change_current_county": 0,
       "change_previous_county": -0.25,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_265",
@@ -3970,13 +3970,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Trans Nzoia",
       "preds_county": 0,
       "preds_average_county": 0.1,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_266",
@@ -3985,13 +3985,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisumu",
       "preds_county": 0.1428571428571428,
       "preds_average_county": 0.2023809523809524,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.142857142857143
+      "risk_level_county": 1.142857142857143
     },
     {
       "id": "id_267",
@@ -4000,13 +4000,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Narok",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1180555555555556,
       "change_current_county": -0.1666666666666667,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_268",
@@ -4015,13 +4015,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisumu",
       "preds_county": 0.1428571428571428,
       "preds_average_county": 0.2023809523809524,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.142857142857143
+      "risk_level_county": 1.142857142857143
     },
     {
       "id": "id_269",
@@ -4030,13 +4030,13 @@
       "preds_average_subcounty": 0.2916666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_270",
@@ -4045,13 +4045,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyandarua",
       "preds_county": 0,
       "preds_average_county": 0.008333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_271",
@@ -4060,13 +4060,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Vihiga",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_272",
@@ -4075,13 +4075,13 @@
       "preds_average_subcounty": 1.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_273",
@@ -4090,13 +4090,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Uasin Gishu",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.1111111111111111,
       "change_current_county": 0,
       "change_previous_county": 0.1666666666666667,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_274",
@@ -4105,13 +4105,13 @@
       "preds_average_subcounty": 0.08333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Meru",
       "preds_county": 0.2222222222222222,
       "preds_average_county": 0.2361111111111111,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0.1111111111111111,
-      "bin_county": 1.222222222222222
+      "risk_level_county": 1.222222222222222
     },
     {
       "id": "id_275",
@@ -4120,13 +4120,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kakamega",
       "preds_county": 0,
       "preds_average_county": 0.02777777777777778,
       "change_current_county": 0,
       "change_previous_county": -0.08333333333333333,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_276",
@@ -4135,13 +4135,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyeri",
       "preds_county": 0.1666666666666667,
       "preds_average_county": 0.04166666666666666,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.166666666666667
+      "risk_level_county": 1.166666666666667
     },
     {
       "id": "id_277",
@@ -4150,13 +4150,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bomet",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_278",
@@ -4165,13 +4165,13 @@
       "preds_average_subcounty": 0.2916666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Embu",
       "preds_county": 0,
       "preds_average_county": 0.1354166666666667,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_279",
@@ -4180,13 +4180,13 @@
       "preds_average_subcounty": 0.4583333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Kiambu",
       "preds_county": 0.08333333333333333,
       "preds_average_county": 0.03819444444444444,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.083333333333333
+      "risk_level_county": 1.083333333333333
     },
     {
       "id": "id_280",
@@ -4195,13 +4195,13 @@
       "preds_average_subcounty": 1.333333333333333,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Baringo",
       "preds_county": 0.5,
       "preds_average_county": 0.5972222222222222,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_281",
@@ -4210,13 +4210,13 @@
       "preds_average_subcounty": 1.291666666666667,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 2,
+      "risk_level_subcounty": 2,
       "county": "Marsabit",
       "preds_county": 0.5,
       "preds_average_county": 0.7916666666666667,
       "change_current_county": -0.25,
       "change_previous_county": -0.25,
-      "bin_county": 1.5
+      "risk_level_county": 1.5
     },
     {
       "id": "id_282",
@@ -4225,13 +4225,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Machakos",
       "preds_county": 0.25,
       "preds_average_county": 0.1510416666666667,
       "change_current_county": -0.125,
       "change_previous_county": 0.125,
-      "bin_county": 1.25
+      "risk_level_county": 1.25
     },
     {
       "id": "id_283",
@@ -4240,13 +4240,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Kisii",
       "preds_county": 0.1111111111111111,
       "preds_average_county": 0.08333333333333333,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1.111111111111111
+      "risk_level_county": 1.111111111111111
     },
     {
       "id": "id_284",
@@ -4255,13 +4255,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_285",
@@ -4270,13 +4270,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nyamira",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_286",
@@ -4285,13 +4285,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bomet",
       "preds_county": 0,
       "preds_average_county": 0,
       "change_current_county": 0,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_287",
@@ -4300,13 +4300,13 @@
       "preds_average_subcounty": 0.125,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     },
     {
       "id": "id_288",
@@ -4315,13 +4315,13 @@
       "preds_average_subcounty": 0,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Homa Bay",
       "preds_county": 0.125,
       "preds_average_county": 0.046875,
       "change_current_county": 0.125,
       "change_previous_county": -0.125,
-      "bin_county": 1.125
+      "risk_level_county": 1.125
     },
     {
       "id": "id_289",
@@ -4330,13 +4330,13 @@
       "preds_average_subcounty": 0.04166666666666666,
       "change_current_subcounty": 0,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Bungoma",
       "preds_county": 0,
       "preds_average_county": 0.01388888888888889,
       "change_current_county": -0.1111111111111111,
       "change_previous_county": 0,
-      "bin_county": 1
+      "risk_level_county": 1
     },
     {
       "id": "id_290",
@@ -4345,13 +4345,13 @@
       "preds_average_subcounty": 0.25,
       "change_current_subcounty": -1,
       "change_previous_subcounty": 0,
-      "bin_subcounty": 1,
+      "risk_level_subcounty": 1,
       "county": "Nairobi",
       "preds_county": 0.1176470588235294,
       "preds_average_county": 0.3088235294117647,
       "change_current_county": -0.1176470588235294,
       "change_previous_county": -0.1176470588235294,
-      "bin_county": 1.117647058823529
+      "risk_level_county": 1.117647058823529
     }
   ],
   "_xlsxPath": "datalists/fatalities_forecast_alerts_data.xlsx",
@@ -4368,7 +4368,7 @@
     "change_previous_subcounty": {
       "type": "number"
     },
-    "bin_subcounty": {
+    "risk_level_subcounty": {
       "type": "number"
     },
     "preds_county": {
@@ -4383,7 +4383,7 @@
     "change_previous_county": {
       "type": "number"
     },
-    "bin_county": {
+    "risk_level_county": {
       "type": "number"
     }
   }
