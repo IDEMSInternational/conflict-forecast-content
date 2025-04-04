@@ -5,7 +5,7 @@
   "rows": [
     {
       "id": "predicted_risk_of_riots",
-      "name": "Predicted Risk of Riots",
+      "name": "Predicted Riot Risk Level",
       "source_asset": "map_data/riots/preds_riots.json",
       "type": "vector",
       "stroke": "none",
@@ -14,7 +14,7 @@
       "scale_min": 1,
       "scale_increment": 1,
       "gradient_palette": "#fcf8f3, #f0e0cc, #e5c9a9, #d29780, #c4665c, #bc3630, #9d222e, #740036",
-      "scale_title": "Riots risks level",
+      "scale_title": "Riot Risk Level",
       "scale_id": "risk_level",
       "scale_slider": true,
       "scale_slider_snap": true,

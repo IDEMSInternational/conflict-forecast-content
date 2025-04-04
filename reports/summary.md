@@ -12,7 +12,7 @@
 | table | 2 |
 | template | 2 |
 | text | 19 |
-| title | 4 |
+| title | 6 |
 </details>
 
 <details >
