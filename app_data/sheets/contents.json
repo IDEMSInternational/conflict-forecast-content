@@ -40,7 +40,7 @@
         "change_previous_subcounty": {
           "type": "number"
         },
-        "bin_subcounty": {
+        "risk_level_subcounty": {
           "type": "number"
         },
         "preds_county": {
@@ -55,7 +55,7 @@
         "change_previous_county": {
           "type": "number"
         },
-        "bin_county": {
+        "risk_level_county": {
           "type": "number"
         }
       }
@@ -270,7 +270,7 @@
         "change_previous_subcounty": {
           "type": "number"
         },
-        "bin_subcounty": {
+        "risk_level_subcounty": {
           "type": "number"
         },
         "preds_county": {
@@ -285,7 +285,7 @@
         "change_previous_county": {
           "type": "number"
         },
-        "bin_county": {
+        "risk_level_county": {
           "type": "number"
         }
       }

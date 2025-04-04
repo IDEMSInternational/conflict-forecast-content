@@ -4,21 +4,30 @@
   "status": "released",
   "rows": [
     {
+      "type": "title",
+      "value": "Fatalities List View",
+      "_translations": {
+        "value": {}
+      },
+      "name": "title_2",
+      "_nested_name": "title_2"
+    },
+    {
       "type": "table",
       "value": "fatalities_forecast_alerts_data",
       "_translations": {
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "subcounty, preds_subcounty, preds_average_subcounty, change_current_subcounty, change_previous_subcounty, bin_subcounty, county, preds_county, preds_average_county, change_current_county, change_previous_county, bin_county",
+        "display_columns": "subcounty, preds_subcounty, preds_average_subcounty, change_current_subcounty, change_previous_subcounty, risk_level_subcounty, county, preds_county, preds_average_county, change_current_county, change_previous_county, risk_level_county",
         "show_search": "true",
         "sort_default": "preds_subcounty asc"
       },
       "style_list": [
         "max-height: 90vh"
       ],
-      "name": "table_2",
-      "_nested_name": "table_2"
+      "name": "table_3",
+      "_nested_name": "table_3"
     }
   ],
   "_xlsxPath": "templates/global/list_view_page.xlsx"
