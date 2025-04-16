@@ -36,23 +36,23 @@
   },
   "map_data/fatalities/airports.json": {
     "filePath": "global/map_data/fatalities/airports.json",
-    "md5Checksum": "52f6fb5dc39c00f8307ec86c9aa9538f",
-    "size_kb": 29.7
+    "md5Checksum": "be96f6032f38d81be2180a64fd317050",
+    "size_kb": 34.3
   },
   "map_data/fatalities/krcs_branches.json": {
     "filePath": "global/map_data/fatalities/krcs_branches.json",
-    "md5Checksum": "c997d13fcd03449c0c5be94e7f8f3168",
-    "size_kb": 8.6
+    "md5Checksum": "68a4463469d58c8a95b329c6ba256804",
+    "size_kb": 9.8
   },
   "map_data/fatalities/preds_fatalities.json": {
     "filePath": "global/map_data/fatalities/preds_fatalities.json",
-    "md5Checksum": "1514ab63a7c998cb1d23b8503a0965bb",
-    "size_kb": 1293.6
+    "md5Checksum": "b3453e31648482974bd840beb0c3ad01",
+    "size_kb": 1323.6
   },
   "map_data/fatalities/roads.json": {
     "filePath": "global/map_data/fatalities/roads.json",
-    "md5Checksum": "7ad2dfb2fb1080c0df10b5fc23f5c6b4",
-    "size_kb": 1588
+    "md5Checksum": "e7ed516a48e300ca680040997549cffe",
+    "size_kb": 1638.2
   },
   "map_data/global/food_insecurity.json": {
     "filePath": "global/map_data/global/food_insecurity.json",
@@ -76,23 +76,23 @@
   },
   "map_data/riots/airports.json": {
     "filePath": "global/map_data/riots/airports.json",
-    "md5Checksum": "5bee05f576cb25d8677d64816e097a69",
-    "size_kb": 37.8
+    "md5Checksum": "f3f3d39e87c8541b425d7c1db8ed4447",
+    "size_kb": 43.7
   },
   "map_data/riots/krcs_branches.json": {
     "filePath": "global/map_data/riots/krcs_branches.json",
-    "md5Checksum": "10235c137e12d14d3e7324b25d2c2d77",
-    "size_kb": 11
+    "md5Checksum": "12578a9463057327f8c96225deb0a3b5",
+    "size_kb": 12.7
   },
   "map_data/riots/preds_riots.json": {
     "filePath": "global/map_data/riots/preds_riots.json",
-    "md5Checksum": "80ecbbf7e54d4182bc13c7724a9647ca",
-    "size_kb": 1308.8
+    "md5Checksum": "5672b0f0e002969601c1524fab4c8dd6",
+    "size_kb": 1326.3
   },
   "map_data/riots/roads.json": {
     "filePath": "global/map_data/riots/roads.json",
-    "md5Checksum": "0c5d75a53b66d66d5c22c652a013f08d",
-    "size_kb": 1703.5
+    "md5Checksum": "8911e2cab5029ed183f98856e8c625d0",
+    "size_kb": 1785.4
   },
   "plotly_exports/population_2019.html": {
     "filePath": "global/plotly_exports/population_2019.html",
