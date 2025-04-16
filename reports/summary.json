@@ -59,8 +59,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "36094 KB",
-        "MB": "36.1 MB"
+        "KB": "36287 KB",
+        "MB": "36.3 MB"
       },
       {
         "assets": "unused",
@@ -154,22 +154,22 @@
       {
         "path": "map_data/fatalities/airports.json",
         "count": 1,
-        "size_kb": 29.7
+        "size_kb": 34.3
       },
       {
         "path": "map_data/fatalities/krcs_branches.json",
         "count": 1,
-        "size_kb": 8.6
+        "size_kb": 9.8
       },
       {
         "path": "map_data/fatalities/preds_fatalities.json",
         "count": 4,
-        "size_kb": 1293.6
+        "size_kb": 1323.6
       },
       {
         "path": "map_data/fatalities/roads.json",
         "count": 1,
-        "size_kb": 1588
+        "size_kb": 1638.2
       },
       {
         "path": "map_data/global/food_insecurity.json",
@@ -194,22 +194,22 @@
       {
         "path": "map_data/riots/airports.json",
         "count": 1,
-        "size_kb": 37.8
+        "size_kb": 43.7
       },
       {
         "path": "map_data/riots/krcs_branches.json",
         "count": 1,
-        "size_kb": 11
+        "size_kb": 12.7
       },
       {
         "path": "map_data/riots/preds_riots.json",
         "count": 4,
-        "size_kb": 1308.8
+        "size_kb": 1326.3
       },
       {
         "path": "map_data/riots/roads.json",
         "count": 1,
-        "size_kb": 1703.5
+        "size_kb": 1785.4
       }
     ]
   },

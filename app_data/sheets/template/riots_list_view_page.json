@@ -19,7 +19,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "subcounty, preds_subcounty, preds_average_subcounty, change_current_subcounty, change_previous_subcounty, risk_level_subcounty, county, preds_county, preds_average_county, change_current_county, change_previous_county, risk_level_county",
+        "display_columns": "subcounty, preds_subcounty, preds_average_subcounty, change_current_subcounty, change_previous_subcounty, 2_month_consec_increase_subcounty, change_to_average_subcounty, risk_level_subcounty, county, preds_county, preds_average_county, change_current_county, change_previous_county, change_to_average_county, risk_level_county",
         "show_search": "true",
         "sort_default": "preds_subcounty asc"
       },
