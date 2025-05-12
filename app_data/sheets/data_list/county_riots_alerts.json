@@ -1,0 +1,2928 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "county_riots_alerts",
+  "status": "released",
+  "rows": [
+    {
+      "id": "id_1",
+      "County": "Uasin Gishu",
+      "Riot Probability County": 0.3912,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.07,
+      "Past 2-year Average County": 0.2933,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_2",
+      "County": "Taita Taveta",
+      "Riot Probability County": 0.1749,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.1215,
+      "> 2-year Average County": true,
+      "Risk-Level County": 3.5
+    },
+    {
+      "id": "id_3",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_4",
+      "County": "Kirinyaga",
+      "Riot Probability County": 0.6765,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.5015,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.5
+    },
+    {
+      "id": "id_5",
+      "County": "Elgeyo-Marakwet",
+      "Riot Probability County": 0.2555,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2276,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_6",
+      "County": "Nyeri",
+      "Riot Probability County": 0.4035,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3231,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_7",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_8",
+      "County": "Elgeyo-Marakwet",
+      "Riot Probability County": 0.2555,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2276,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_9",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_10",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_11",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_12",
+      "County": "Lamu",
+      "Riot Probability County": 0.1144,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1732,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.5
+    },
+    {
+      "id": "id_13",
+      "County": "Nandi",
+      "Riot Probability County": 0.3279,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2415,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_14",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_15",
+      "County": "Tana River",
+      "Riot Probability County": 0.0861,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1027,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.3
+    },
+    {
+      "id": "id_16",
+      "County": "Baringo",
+      "Riot Probability County": 0.3049,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2281,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_17",
+      "County": "Busia",
+      "Riot Probability County": 0.3458,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.2837,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_18",
+      "County": "Kilifi",
+      "Riot Probability County": 0.284,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2613,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_19",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_20",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_21",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_22",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_23",
+      "County": "Trans Nzoia",
+      "Riot Probability County": 0.3588,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3681,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_24",
+      "County": "Murang'a",
+      "Riot Probability County": 0.36,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3177,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_25",
+      "County": "Baringo",
+      "Riot Probability County": 0.3049,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2281,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_26",
+      "County": "Kwale",
+      "Riot Probability County": 0.271,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.227,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_27",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_28",
+      "County": "Turkana",
+      "Riot Probability County": 0.1452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1662,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_29",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_30",
+      "County": "Narok",
+      "Riot Probability County": 0.3665,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.05,
+      "Past 2-year Average County": 0.3228,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_31",
+      "County": "Garissa",
+      "Riot Probability County": 0.1209,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.1553,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_32",
+      "County": "Kilifi",
+      "Riot Probability County": 0.284,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2613,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_33",
+      "County": "Mombasa",
+      "Riot Probability County": 0.3781,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3559,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_34",
+      "County": "Nandi",
+      "Riot Probability County": 0.3279,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2415,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_35",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_36",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_37",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_38",
+      "County": "Trans Nzoia",
+      "Riot Probability County": 0.3588,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3681,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_39",
+      "County": "Kericho",
+      "Riot Probability County": 0.3913,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.09,
+      "Past 2-year Average County": 0.3203,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_40",
+      "County": "Mandera",
+      "Riot Probability County": 0.0452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0606,
+      "> 2-year Average County": false,
+      "Risk-Level County": 1.8
+    },
+    {
+      "id": "id_41",
+      "County": "Makueni",
+      "Riot Probability County": 0.4606,
+      "% Change Jan - Feb County": 0.03,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.2588,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.5
+    },
+    {
+      "id": "id_42",
+      "County": "Kwale",
+      "Riot Probability County": 0.271,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.227,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_43",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_44",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_45",
+      "County": "Laikipia",
+      "Riot Probability County": 0.3193,
+      "% Change Jan - Feb County": -0.07,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2639,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_46",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_47",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_48",
+      "County": "Makueni",
+      "Riot Probability County": 0.4606,
+      "% Change Jan - Feb County": 0.03,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.2588,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.5
+    },
+    {
+      "id": "id_49",
+      "County": "Elgeyo-Marakwet",
+      "Riot Probability County": 0.2555,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2276,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_50",
+      "County": "Mandera",
+      "Riot Probability County": 0.0452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0606,
+      "> 2-year Average County": false,
+      "Risk-Level County": 1.8
+    },
+    {
+      "id": "id_51",
+      "County": "Turkana",
+      "Riot Probability County": 0.1452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1662,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_52",
+      "County": "Makueni",
+      "Riot Probability County": 0.4606,
+      "% Change Jan - Feb County": 0.03,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.2588,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.5
+    },
+    {
+      "id": "id_53",
+      "County": "Lamu",
+      "Riot Probability County": 0.1144,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1732,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.5
+    },
+    {
+      "id": "id_54",
+      "County": "Embu",
+      "Riot Probability County": 0.5348,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.4096,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6
+    },
+    {
+      "id": "id_55",
+      "County": "West Pokot",
+      "Riot Probability County": 0.2598,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1852,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_56",
+      "County": "Marsabit",
+      "Riot Probability County": 0.0799,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1029,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.5
+    },
+    {
+      "id": "id_57",
+      "County": "Mombasa",
+      "Riot Probability County": 0.3781,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3559,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_58",
+      "County": "Kilifi",
+      "Riot Probability County": 0.284,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2613,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_59",
+      "County": "Mombasa",
+      "Riot Probability County": 0.3781,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3559,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_60",
+      "County": "Isiolo",
+      "Riot Probability County": 0.2636,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.262,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_61",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_62",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_63",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_64",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_65",
+      "County": "Garissa",
+      "Riot Probability County": 0.1209,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.1553,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_66",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_67",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_68",
+      "County": "Trans Nzoia",
+      "Riot Probability County": 0.3588,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3681,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_69",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_70",
+      "County": "Nyandarua",
+      "Riot Probability County": 0.2415,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.1508,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_71",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_72",
+      "County": "Nyamira",
+      "Riot Probability County": 0.3553,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3621,
+      "> 2-year Average County": false,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_73",
+      "County": "Nandi",
+      "Riot Probability County": 0.3279,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2415,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_74",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_75",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_76",
+      "County": "Laikipia",
+      "Riot Probability County": 0.3193,
+      "% Change Jan - Feb County": -0.07,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2639,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_77",
+      "County": "Kisumu",
+      "Riot Probability County": 0.4512,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.4293,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_78",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_79",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_80",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_81",
+      "County": "Murang'a",
+      "Riot Probability County": 0.36,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3177,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_82",
+      "County": "Kilifi",
+      "Riot Probability County": 0.284,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2613,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_83",
+      "County": "Kisumu",
+      "Riot Probability County": 0.4512,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.4293,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_84",
+      "County": "Nyandarua",
+      "Riot Probability County": 0.2415,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.1508,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_85",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_86",
+      "County": "Mombasa",
+      "Riot Probability County": 0.3781,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3559,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_87",
+      "County": "Baringo",
+      "Riot Probability County": 0.3049,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2281,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_88",
+      "County": "Wajir",
+      "Riot Probability County": 0.1045,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.094,
+      "> 2-year Average County": true,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_89",
+      "County": "Taita Taveta",
+      "Riot Probability County": 0.1749,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.1215,
+      "> 2-year Average County": true,
+      "Risk-Level County": 3.5
+    },
+    {
+      "id": "id_90",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_91",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_92",
+      "County": "Makueni",
+      "Riot Probability County": 0.4606,
+      "% Change Jan - Feb County": 0.03,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.2588,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.5
+    },
+    {
+      "id": "id_93",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_94",
+      "County": "Siaya",
+      "Riot Probability County": 0.4614,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.04,
+      "Past 2-year Average County": 0.4512,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_95",
+      "County": "Nandi",
+      "Riot Probability County": 0.3279,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2415,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_96",
+      "County": "Kilifi",
+      "Riot Probability County": 0.284,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2613,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_97",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_98",
+      "County": "Marsabit",
+      "Riot Probability County": 0.0799,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1029,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.5
+    },
+    {
+      "id": "id_99",
+      "County": "Nyeri",
+      "Riot Probability County": 0.4035,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3231,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_100",
+      "County": "Kwale",
+      "Riot Probability County": 0.271,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.227,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_101",
+      "County": "Kericho",
+      "Riot Probability County": 0.3913,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.09,
+      "Past 2-year Average County": 0.3203,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_102",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_103",
+      "County": "Embu",
+      "Riot Probability County": 0.5348,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.4096,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6
+    },
+    {
+      "id": "id_104",
+      "County": "Taita Taveta",
+      "Riot Probability County": 0.1749,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.1215,
+      "> 2-year Average County": true,
+      "Risk-Level County": 3.5
+    },
+    {
+      "id": "id_105",
+      "County": "Marsabit",
+      "Riot Probability County": 0.0799,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1029,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.5
+    },
+    {
+      "id": "id_106",
+      "County": "Nyandarua",
+      "Riot Probability County": 0.2415,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.1508,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_107",
+      "County": "Laikipia",
+      "Riot Probability County": 0.3193,
+      "% Change Jan - Feb County": -0.07,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2639,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_108",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_109",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_110",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_111",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_112",
+      "County": "Wajir",
+      "Riot Probability County": 0.1045,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.094,
+      "> 2-year Average County": true,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_113",
+      "County": "Kirinyaga",
+      "Riot Probability County": 0.6765,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.5015,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.5
+    },
+    {
+      "id": "id_114",
+      "County": "Mandera",
+      "Riot Probability County": 0.0452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0606,
+      "> 2-year Average County": false,
+      "Risk-Level County": 1.8
+    },
+    {
+      "id": "id_115",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_116",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_117",
+      "County": "Tharaka-Nithi",
+      "Riot Probability County": 0.3748,
+      "% Change Jan - Feb County": -0.05,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3474,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_118",
+      "County": "Narok",
+      "Riot Probability County": 0.3665,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.05,
+      "Past 2-year Average County": 0.3228,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_119",
+      "County": "Siaya",
+      "Riot Probability County": 0.4614,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.04,
+      "Past 2-year Average County": 0.4512,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_120",
+      "County": "Kirinyaga",
+      "Riot Probability County": 0.6765,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.5015,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.5
+    },
+    {
+      "id": "id_121",
+      "County": "Isiolo",
+      "Riot Probability County": 0.2636,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.262,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_122",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_123",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_124",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_125",
+      "County": "Elgeyo-Marakwet",
+      "Riot Probability County": 0.2555,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2276,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_126",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_127",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_128",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_129",
+      "County": "Nyeri",
+      "Riot Probability County": 0.4035,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3231,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_130",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_131",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_132",
+      "County": "Samburu",
+      "Riot Probability County": 0.1474,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0924,
+      "> 2-year Average County": true,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_133",
+      "County": "Siaya",
+      "Riot Probability County": 0.4614,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.04,
+      "Past 2-year Average County": 0.4512,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_134",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_135",
+      "County": "Bomet",
+      "Riot Probability County": 0.3364,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2841,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.6
+    },
+    {
+      "id": "id_136",
+      "County": "Kwale",
+      "Riot Probability County": 0.271,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.227,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.2
+    },
+    {
+      "id": "id_137",
+      "County": "Wajir",
+      "Riot Probability County": 0.1045,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.094,
+      "> 2-year Average County": true,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_138",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_139",
+      "County": "Garissa",
+      "Riot Probability County": 0.1209,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.1553,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_140",
+      "County": "Vihiga",
+      "Riot Probability County": 0.2158,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2202,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3.8
+    },
+    {
+      "id": "id_141",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_142",
+      "County": "Kericho",
+      "Riot Probability County": 0.3913,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.09,
+      "Past 2-year Average County": 0.3203,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_143",
+      "County": "Kisumu",
+      "Riot Probability County": 0.4512,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.4293,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_144",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_145",
+      "County": "Kajiado",
+      "Riot Probability County": 0.4841,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.03,
+      "Past 2-year Average County": 0.4354,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_146",
+      "County": "Tharaka-Nithi",
+      "Riot Probability County": 0.3748,
+      "% Change Jan - Feb County": -0.05,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3474,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_147",
+      "County": "Murang'a",
+      "Riot Probability County": 0.36,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3177,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_148",
+      "County": "Kericho",
+      "Riot Probability County": 0.3913,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.09,
+      "Past 2-year Average County": 0.3203,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_149",
+      "County": "Siaya",
+      "Riot Probability County": 0.4614,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.04,
+      "Past 2-year Average County": 0.4512,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_150",
+      "County": "Uasin Gishu",
+      "Riot Probability County": 0.3912,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.07,
+      "Past 2-year Average County": 0.2933,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_151",
+      "County": "Uasin Gishu",
+      "Riot Probability County": 0.3912,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.07,
+      "Past 2-year Average County": 0.2933,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_152",
+      "County": "Busia",
+      "Riot Probability County": 0.3458,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.2837,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_153",
+      "County": "Turkana",
+      "Riot Probability County": 0.1452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1662,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_154",
+      "County": "Mombasa",
+      "Riot Probability County": 0.3781,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3559,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_155",
+      "County": "Nyamira",
+      "Riot Probability County": 0.3553,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3621,
+      "> 2-year Average County": false,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_156",
+      "County": "Nyeri",
+      "Riot Probability County": 0.4035,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3231,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_157",
+      "County": "Garissa",
+      "Riot Probability County": 0.1209,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.1553,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_158",
+      "County": "Nandi",
+      "Riot Probability County": 0.3279,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2415,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_159",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_160",
+      "County": "Kisumu",
+      "Riot Probability County": 0.4512,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.4293,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_161",
+      "County": "Kilifi",
+      "Riot Probability County": 0.284,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2613,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_162",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_163",
+      "County": "Kajiado",
+      "Riot Probability County": 0.4841,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.03,
+      "Past 2-year Average County": 0.4354,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_164",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_165",
+      "County": "Nyeri",
+      "Riot Probability County": 0.4035,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3231,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_166",
+      "County": "Vihiga",
+      "Riot Probability County": 0.2158,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2202,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3.8
+    },
+    {
+      "id": "id_167",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_168",
+      "County": "Bomet",
+      "Riot Probability County": 0.3364,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2841,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.6
+    },
+    {
+      "id": "id_169",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_170",
+      "County": "Busia",
+      "Riot Probability County": 0.3458,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.2837,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_171",
+      "County": "Mandera",
+      "Riot Probability County": 0.0452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0606,
+      "> 2-year Average County": false,
+      "Risk-Level County": 1.8
+    },
+    {
+      "id": "id_172",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_173",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_174",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_175",
+      "County": "Nyamira",
+      "Riot Probability County": 0.3553,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3621,
+      "> 2-year Average County": false,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_176",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_177",
+      "County": "Vihiga",
+      "Riot Probability County": 0.2158,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2202,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3.8
+    },
+    {
+      "id": "id_178",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_179",
+      "County": "Busia",
+      "Riot Probability County": 0.3458,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.2837,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_180",
+      "County": "Narok",
+      "Riot Probability County": 0.3665,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.05,
+      "Past 2-year Average County": 0.3228,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_181",
+      "County": "Samburu",
+      "Riot Probability County": 0.1474,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0924,
+      "> 2-year Average County": true,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_182",
+      "County": "Murang'a",
+      "Riot Probability County": 0.36,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3177,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_183",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_184",
+      "County": "Mombasa",
+      "Riot Probability County": 0.3781,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3559,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_185",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_186",
+      "County": "Kajiado",
+      "Riot Probability County": 0.4841,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.03,
+      "Past 2-year Average County": 0.4354,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_187",
+      "County": "Nyandarua",
+      "Riot Probability County": 0.2415,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.1508,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_188",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_189",
+      "County": "Murang'a",
+      "Riot Probability County": 0.36,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3177,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_190",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_191",
+      "County": "Tana River",
+      "Riot Probability County": 0.0861,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1027,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.3
+    },
+    {
+      "id": "id_192",
+      "County": "Busia",
+      "Riot Probability County": 0.3458,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.2837,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_193",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_194",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_195",
+      "County": "Nandi",
+      "Riot Probability County": 0.3279,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2415,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_196",
+      "County": "Murang'a",
+      "Riot Probability County": 0.36,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3177,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_197",
+      "County": "Vihiga",
+      "Riot Probability County": 0.2158,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2202,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3.8
+    },
+    {
+      "id": "id_198",
+      "County": "Turkana",
+      "Riot Probability County": 0.1452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1662,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_199",
+      "County": "Uasin Gishu",
+      "Riot Probability County": 0.3912,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.07,
+      "Past 2-year Average County": 0.2933,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_200",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_201",
+      "County": "Kilifi",
+      "Riot Probability County": 0.284,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2613,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.3
+    },
+    {
+      "id": "id_202",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_203",
+      "County": "Taita Taveta",
+      "Riot Probability County": 0.1749,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.1215,
+      "> 2-year Average County": true,
+      "Risk-Level County": 3.5
+    },
+    {
+      "id": "id_204",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_205",
+      "County": "Narok",
+      "Riot Probability County": 0.3665,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.05,
+      "Past 2-year Average County": 0.3228,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_206",
+      "County": "Makueni",
+      "Riot Probability County": 0.4606,
+      "% Change Jan - Feb County": 0.03,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.2588,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.5
+    },
+    {
+      "id": "id_207",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_208",
+      "County": "Uasin Gishu",
+      "Riot Probability County": 0.3912,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.07,
+      "Past 2-year Average County": 0.2933,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_209",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_210",
+      "County": "Kisumu",
+      "Riot Probability County": 0.4512,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.4293,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_211",
+      "County": "Wajir",
+      "Riot Probability County": 0.1045,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.094,
+      "> 2-year Average County": true,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_212",
+      "County": "Turkana",
+      "Riot Probability County": 0.1452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1662,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_213",
+      "County": "Narok",
+      "Riot Probability County": 0.3665,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.05,
+      "Past 2-year Average County": 0.3228,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_214",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_215",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_216",
+      "County": "Kajiado",
+      "Riot Probability County": 0.4841,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.03,
+      "Past 2-year Average County": 0.4354,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_217",
+      "County": "Siaya",
+      "Riot Probability County": 0.4614,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.04,
+      "Past 2-year Average County": 0.4512,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_218",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_219",
+      "County": "Garissa",
+      "Riot Probability County": 0.1209,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.1553,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_220",
+      "County": "Mandera",
+      "Riot Probability County": 0.0452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0606,
+      "> 2-year Average County": false,
+      "Risk-Level County": 1.8
+    },
+    {
+      "id": "id_221",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_222",
+      "County": "Bomet",
+      "Riot Probability County": 0.3364,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2841,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.6
+    },
+    {
+      "id": "id_223",
+      "County": "Makueni",
+      "Riot Probability County": 0.4606,
+      "% Change Jan - Feb County": 0.03,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.2588,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.5
+    },
+    {
+      "id": "id_224",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_225",
+      "County": "Tana River",
+      "Riot Probability County": 0.0861,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1027,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.3
+    },
+    {
+      "id": "id_226",
+      "County": "West Pokot",
+      "Riot Probability County": 0.2598,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1852,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_227",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_228",
+      "County": "Garissa",
+      "Riot Probability County": 0.1209,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.1553,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_229",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_230",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_231",
+      "County": "Samburu",
+      "Riot Probability County": 0.1474,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0924,
+      "> 2-year Average County": true,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_232",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_233",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_234",
+      "County": "West Pokot",
+      "Riot Probability County": 0.2598,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1852,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_235",
+      "County": "Kericho",
+      "Riot Probability County": 0.3913,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.09,
+      "Past 2-year Average County": 0.3203,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_236",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_237",
+      "County": "Siaya",
+      "Riot Probability County": 0.4614,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.04,
+      "Past 2-year Average County": 0.4512,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_238",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_239",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_240",
+      "County": "Baringo",
+      "Riot Probability County": 0.3049,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2281,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_241",
+      "County": "Murang'a",
+      "Riot Probability County": 0.36,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3177,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_242",
+      "County": "Wajir",
+      "Riot Probability County": 0.1045,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.094,
+      "> 2-year Average County": true,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_243",
+      "County": "Migori",
+      "Riot Probability County": 0.3922,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3807,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_244",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_245",
+      "County": "Turkana",
+      "Riot Probability County": 0.1452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1662,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3
+    },
+    {
+      "id": "id_246",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_247",
+      "County": "Wajir",
+      "Riot Probability County": 0.1045,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.094,
+      "> 2-year Average County": true,
+      "Risk-Level County": 2.7
+    },
+    {
+      "id": "id_248",
+      "County": "Tharaka-Nithi",
+      "Riot Probability County": 0.3748,
+      "% Change Jan - Feb County": -0.05,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3474,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_249",
+      "County": "Kitui",
+      "Riot Probability County": 0.2401,
+      "% Change Jan - Feb County": -0.03,
+      "% Change Dec - Jan County": 0.02,
+      "Past 2-year Average County": 0.1859,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_250",
+      "County": "Mandera",
+      "Riot Probability County": 0.0452,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.0606,
+      "> 2-year Average County": false,
+      "Risk-Level County": 1.8
+    },
+    {
+      "id": "id_251",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_252",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_253",
+      "County": "Trans Nzoia",
+      "Riot Probability County": 0.3588,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3681,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_254",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_255",
+      "County": "Kirinyaga",
+      "Riot Probability County": 0.6765,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.5015,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.5
+    },
+    {
+      "id": "id_256",
+      "County": "Nakuru",
+      "Riot Probability County": 0.442,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.3476,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.1
+    },
+    {
+      "id": "id_257",
+      "County": "Kericho",
+      "Riot Probability County": 0.3913,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.09,
+      "Past 2-year Average County": 0.3203,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_258",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_259",
+      "County": "Embu",
+      "Riot Probability County": 0.5348,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.4096,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6
+    },
+    {
+      "id": "id_260",
+      "County": "Busia",
+      "Riot Probability County": 0.3458,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.2837,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_261",
+      "County": "Kajiado",
+      "Riot Probability County": 0.4841,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.03,
+      "Past 2-year Average County": 0.4354,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_262",
+      "County": "Busia",
+      "Riot Probability County": 0.3458,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.05,
+      "Past 2-year Average County": 0.2837,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.7
+    },
+    {
+      "id": "id_263",
+      "County": "Baringo",
+      "Riot Probability County": 0.3049,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2281,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_264",
+      "County": "West Pokot",
+      "Riot Probability County": 0.2598,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1852,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_265",
+      "County": "Trans Nzoia",
+      "Riot Probability County": 0.3588,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3681,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_266",
+      "County": "Kisumu",
+      "Riot Probability County": 0.4512,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.4293,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_267",
+      "County": "Narok",
+      "Riot Probability County": 0.3665,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": -0.05,
+      "Past 2-year Average County": 0.3228,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_268",
+      "County": "Kisumu",
+      "Riot Probability County": 0.4512,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0.03,
+      "Past 2-year Average County": 0.4293,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.3
+    },
+    {
+      "id": "id_269",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_270",
+      "County": "Nyandarua",
+      "Riot Probability County": 0.2415,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.1508,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4
+    },
+    {
+      "id": "id_271",
+      "County": "Vihiga",
+      "Riot Probability County": 0.2158,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.2202,
+      "> 2-year Average County": false,
+      "Risk-Level County": 3.8
+    },
+    {
+      "id": "id_272",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_273",
+      "County": "Uasin Gishu",
+      "Riot Probability County": 0.3912,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": 0.07,
+      "Past 2-year Average County": 0.2933,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_274",
+      "County": "Meru",
+      "Riot Probability County": 0.3495,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.2983,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_275",
+      "County": "Kakamega",
+      "Riot Probability County": 0.432,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": 0.08,
+      "Past 2-year Average County": 0.3599,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_276",
+      "County": "Nyeri",
+      "Riot Probability County": 0.4035,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3231,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5
+    },
+    {
+      "id": "id_277",
+      "County": "Bomet",
+      "Riot Probability County": 0.3364,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2841,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.6
+    },
+    {
+      "id": "id_278",
+      "County": "Embu",
+      "Riot Probability County": 0.5348,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.06,
+      "Past 2-year Average County": 0.4096,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6
+    },
+    {
+      "id": "id_279",
+      "County": "Kiambu",
+      "Riot Probability County": 0.4766,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.4125,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.4
+    },
+    {
+      "id": "id_280",
+      "County": "Baringo",
+      "Riot Probability County": 0.3049,
+      "% Change Jan - Feb County": 0.06,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2281,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.5
+    },
+    {
+      "id": "id_281",
+      "County": "Marsabit",
+      "Riot Probability County": 0.0799,
+      "% Change Jan - Feb County": 0,
+      "% Change Dec - Jan County": 0,
+      "Past 2-year Average County": 0.1029,
+      "> 2-year Average County": false,
+      "Risk-Level County": 2.5
+    },
+    {
+      "id": "id_282",
+      "County": "Machakos",
+      "Riot Probability County": 0.5061,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.3947,
+      "> 2-year Average County": true,
+      "Risk-Level County": 5.8
+    },
+    {
+      "id": "id_283",
+      "County": "Kisii",
+      "Riot Probability County": 0.3654,
+      "% Change Jan - Feb County": -0.06,
+      "% Change Dec - Jan County": 0.01,
+      "Past 2-year Average County": 0.389,
+      "> 2-year Average County": false,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_284",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_285",
+      "County": "Nyamira",
+      "Riot Probability County": 0.3553,
+      "% Change Jan - Feb County": -0.01,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.3621,
+      "> 2-year Average County": false,
+      "Risk-Level County": 5.2
+    },
+    {
+      "id": "id_286",
+      "County": "Bomet",
+      "Riot Probability County": 0.3364,
+      "% Change Jan - Feb County": 0.02,
+      "% Change Dec - Jan County": -0.02,
+      "Past 2-year Average County": 0.2841,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.6
+    },
+    {
+      "id": "id_287",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    },
+    {
+      "id": "id_288",
+      "County": "Homa Bay",
+      "Riot Probability County": 0.4028,
+      "% Change Jan - Feb County": 0.01,
+      "% Change Dec - Jan County": -0.01,
+      "Past 2-year Average County": 0.3521,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.9
+    },
+    {
+      "id": "id_289",
+      "County": "Bungoma",
+      "Riot Probability County": 0.3426,
+      "% Change Jan - Feb County": -0.04,
+      "% Change Dec - Jan County": 0.1,
+      "Past 2-year Average County": 0.3204,
+      "> 2-year Average County": true,
+      "Risk-Level County": 4.8
+    },
+    {
+      "id": "id_290",
+      "County": "Nairobi",
+      "Riot Probability County": 0.6498,
+      "% Change Jan - Feb County": -0.02,
+      "% Change Dec - Jan County": 0.04,
+      "Past 2-year Average County": 0.6297,
+      "> 2-year Average County": true,
+      "Risk-Level County": 6.2
+    }
+  ],
+  "_xlsxPath": "templates/global/list_view_page.xlsx",
+  "_metadata": {
+    "Riot Probability County": {
+      "type": "number"
+    },
+    "% Change Jan - Feb County": {
+      "type": "number"
+    },
+    "% Change Dec - Jan County": {
+      "type": "number"
+    },
+    "Past 2-year Average County": {
+      "type": "number"
+    },
+    "> 2-year Average County": {
+      "type": "boolean"
+    },
+    "Risk-Level County": {
+      "type": "number"
+    }
+  }
+}
