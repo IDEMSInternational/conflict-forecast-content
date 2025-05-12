@@ -3,16 +3,17 @@
 
 | type | count |
 | --- | --- |
-| button | 6 |
-| display_group | 1 |
+| button | 16 |
+| data_items | 2 |
+| display_group | 7 |
 | map | 2 |
 | round_button | 1 |
-| set_variable | 2 |
+| set_variable | 10 |
 | subtitle | 5 |
-| table | 2 |
+| table | 6 |
 | template | 2 |
-| text | 19 |
-| title | 6 |
+| text | 23 |
+| title | 8 |
 </details>
 
 <details >
@@ -22,6 +23,7 @@
 | --- | --- |
 | go_to | 6 |
 | go_to_url | 1 |
+| set_local | 10 |
 </details>
 
 <details open>
@@ -92,7 +94,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 
 | type | subtype | total |
 | --- | --- | --- |
-| data_list |  | 12 |
+| data_list |  | 22 |
 | global |  | 1 |
 | template |  | 10 |
 </details>

@@ -4,13 +4,396 @@
   "status": "released",
   "rows": [
     {
-      "type": "title",
-      "value": "Riots List View",
+      "name": "visible_table",
+      "value": "riot_full",
       "_translations": {
         "value": {}
       },
-      "name": "title_2",
-      "_nested_name": "title_2"
+      "type": "set_variable",
+      "_nested_name": "visible_table"
+    },
+    {
+      "type": "title",
+      "value": "Riots Forecast - Made in February (Mar - May 2025)",
+      "_translations": {
+        "value": {}
+      },
+      "name": "title_3",
+      "_nested_name": "title_3"
+    },
+    {
+      "type": "display_group",
+      "rows": [
+        {
+          "type": "button",
+          "value": "Full View",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "text_align": "center",
+            "disabled": "@local.visible_table === \"riot_full\""
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "visible_table",
+                "riot_full"
+              ],
+              "_raw": "click | set_local: visible_table: riot_full",
+              "_cleaned": "click | set_local: visible_table: riot_full"
+            }
+          ],
+          "name": "button_1",
+          "_nested_name": "display_group_4.button_1",
+          "_dynamicFields": {
+            "parameter_list": {
+              "disabled": [
+                {
+                  "fullExpression": "@local.visible_table === \"riot_full\"",
+                  "matchedExpression": "@local.visible_table",
+                  "type": "local",
+                  "fieldName": "visible_table"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.visible_table": [
+              "parameter_list.disabled"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "value": "Subcounty View",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "text_align": "center",
+            "disabled": "@local.visible_table === \"riot_subcounty\""
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "visible_table",
+                "riot_subcounty"
+              ],
+              "_raw": "click | set_local: visible_table: riot_subcounty",
+              "_cleaned": "click | set_local: visible_table: riot_subcounty"
+            }
+          ],
+          "name": "button_2",
+          "_nested_name": "display_group_4.button_2",
+          "_dynamicFields": {
+            "parameter_list": {
+              "disabled": [
+                {
+                  "fullExpression": "@local.visible_table === \"riot_subcounty\"",
+                  "matchedExpression": "@local.visible_table",
+                  "type": "local",
+                  "fieldName": "visible_table"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.visible_table": [
+              "parameter_list.disabled"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "value": "County View",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "text_align": "center",
+            "disabled": "@local.visible_table === \"riot_county\""
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_local",
+              "args": [
+                "visible_table",
+                "riot_county"
+              ],
+              "_raw": "click | set_local: visible_table: riot_county",
+              "_cleaned": "click | set_local: visible_table: riot_county"
+            }
+          ],
+          "name": "button_3",
+          "_nested_name": "display_group_4.button_3",
+          "_dynamicFields": {
+            "parameter_list": {
+              "disabled": [
+                {
+                  "fullExpression": "@local.visible_table === \"riot_county\"",
+                  "matchedExpression": "@local.visible_table",
+                  "type": "local",
+                  "fieldName": "visible_table"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.visible_table": [
+              "parameter_list.disabled"
+            ]
+          }
+        }
+      ],
+      "name": "display_group_4",
+      "_nested_name": "display_group_4"
+    },
+    {
+      "name": "key_is_visible",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "key_is_visible"
+    },
+    {
+      "type": "button",
+      "value": "Show key",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "flexible"
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_local",
+          "args": [
+            "key_is_visible",
+            true
+          ],
+          "_raw": "click | set_local: key_is_visible: true",
+          "_cleaned": "click | set_local: key_is_visible: true"
+        }
+      ],
+      "condition": "!@local.key_is_visible",
+      "name": "button_7",
+      "_nested_name": "button_7",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "!@local.key_is_visible",
+            "matchedExpression": "!@local.key_is_visible",
+            "type": "local",
+            "fieldName": "key_is_visible"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.key_is_visible": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "value": "Hide key",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "style": "flexible"
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_local",
+          "args": [
+            "key_is_visible",
+            false
+          ],
+          "_raw": "click | set_local: key_is_visible: false",
+          "_cleaned": "click | set_local: key_is_visible: false"
+        }
+      ],
+      "condition": "@local.key_is_visible",
+      "name": "button_8",
+      "_nested_name": "button_8",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.key_is_visible",
+            "matchedExpression": "@local.key_is_visible",
+            "type": "local",
+            "fieldName": "key_is_visible"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.key_is_visible": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "parameter_list": {
+        "style": "column"
+      },
+      "condition": "@local.key_is_visible",
+      "rows": [
+        {
+          "type": "title",
+          "value": "Key",
+          "_translations": {
+            "value": {}
+          },
+          "name": "title_1",
+          "_nested_name": "display_group_9.title_1"
+        },
+        {
+          "name": "data_list_name_suffix",
+          "value": "_column_info",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "display_group_9.data_list_name_suffix"
+        },
+        {
+          "name": "column_info_data_list_name",
+          "value": "@local.visible_table@local.data_list_name_suffix",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "display_group_9.column_info_data_list_name",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.visible_table@local.data_list_name_suffix",
+                "matchedExpression": "@local.visible_table",
+                "type": "local",
+                "fieldName": "visible_table"
+              },
+              {
+                "fullExpression": "@local.visible_table@local.data_list_name_suffix",
+                "matchedExpression": "@local.data_list_name_suffix",
+                "type": "local",
+                "fieldName": "data_list_name_suffix"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.visible_table": [
+              "value"
+            ],
+            "@local.data_list_name_suffix": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "data_items",
+          "value": "@local.column_info_data_list_name",
+          "rows": [
+            {
+              "type": "display_group",
+              "rows": [
+                {
+                  "type": "text",
+                  "value": "@item.title:",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_1",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_1",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.title:",
+                        "matchedExpression": "@item.title",
+                        "type": "item",
+                        "fieldName": "title"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.title": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_2",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_2",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description",
+                        "matchedExpression": "@item.description",
+                        "type": "item",
+                        "fieldName": "description"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "name": "display_group_1",
+              "_nested_name": "display_group_9.data_items_4.display_group_1"
+            }
+          ],
+          "name": "data_items_4",
+          "_nested_name": "display_group_9.data_items_4",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.column_info_data_list_name",
+                "matchedExpression": "@local.column_info_data_list_name",
+                "type": "local",
+                "fieldName": "column_info_data_list_name"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.column_info_data_list_name": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "display_group_9",
+      "_nested_name": "display_group_9",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.key_is_visible",
+            "matchedExpression": "@local.key_is_visible",
+            "type": "local",
+            "fieldName": "key_is_visible"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.key_is_visible": [
+          "condition"
+        ]
+      }
     },
     {
       "type": "table",
@@ -19,15 +402,97 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "subcounty, preds_subcounty, preds_average_subcounty, change_current_subcounty, change_previous_subcounty, 2_month_consec_increase_subcounty, change_to_average_subcounty, risk_level_subcounty, county, preds_county, preds_average_county, change_current_county, change_previous_county, change_to_average_county, risk_level_county",
+        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County, Riot Probability County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
         "show_search": "true",
-        "sort_default": "preds_subcounty asc"
+        "sort_default": "Riot Probability Sub-County asc"
       },
+      "condition": "@local.visible_table === \"riot_full\"",
       "style_list": [
         "max-height: 90vh"
       ],
-      "name": "table_3",
-      "_nested_name": "table_3"
+      "name": "table_11",
+      "_nested_name": "table_11",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.visible_table === \"riot_full\"",
+            "matchedExpression": "@local.visible_table",
+            "type": "local",
+            "fieldName": "visible_table"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.visible_table": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "value": "subcounty_riots_alerts",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County",
+        "show_search": "true",
+        "sort_default": "Riot Probability Sub-County asc"
+      },
+      "condition": "@local.visible_table === \"riot_subcounty\"",
+      "style_list": [
+        "max-height: 90vh"
+      ],
+      "name": "table_12",
+      "_nested_name": "table_12",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.visible_table === \"riot_subcounty\"",
+            "matchedExpression": "@local.visible_table",
+            "type": "local",
+            "fieldName": "visible_table"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.visible_table": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "value": "county_riots_alerts",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "County, Riot Probability County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County": "true",
+        "show_search": "true",
+        "sort_default": "Riot Probability Sub-County asc"
+      },
+      "condition": "@local.visible_table === \"riot_county\"",
+      "style_list": [
+        "max-height: 90vh"
+      ],
+      "name": "table_13",
+      "_nested_name": "table_13",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.visible_table === \"riot_county\"",
+            "matchedExpression": "@local.visible_table",
+            "type": "local",
+            "fieldName": "visible_table"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.visible_table": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "templates/global/list_view_page.xlsx"

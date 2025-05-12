@@ -3,11 +3,15 @@
     "data": [
       {
         "type": "button",
-        "count": 6
+        "count": 16
+      },
+      {
+        "type": "data_items",
+        "count": 2
       },
       {
         "type": "display_group",
-        "count": 1
+        "count": 7
       },
       {
         "type": "map",
@@ -19,7 +23,7 @@
       },
       {
         "type": "set_variable",
-        "count": 2
+        "count": 10
       },
       {
         "type": "subtitle",
@@ -27,7 +31,7 @@
       },
       {
         "type": "table",
-        "count": 2
+        "count": 6
       },
       {
         "type": "template",
@@ -35,11 +39,11 @@
       },
       {
         "type": "text",
-        "count": 19
+        "count": 23
       },
       {
         "type": "title",
-        "count": 6
+        "count": 8
       }
     ]
   },
@@ -52,6 +56,10 @@
       {
         "type": "go_to_url",
         "count": 1
+      },
+      {
+        "type": "set_local",
+        "count": 10
       }
     ]
   },
@@ -218,7 +226,7 @@
       {
         "type": "data_list",
         "subtype": null,
-        "total": 12
+        "total": 22
       },
       {
         "type": "global",

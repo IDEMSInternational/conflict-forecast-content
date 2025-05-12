@@ -1,6 +1,71 @@
 {
   "asset_pack": {},
   "data_list": {
+    "county_fat_alerts": {
+      "flow_type": "data_list",
+      "flow_name": "county_fat_alerts",
+      "_xlsxPath": "templates/global/list_view_page.xlsx",
+      "_metadata": {
+        "Fatalities County": {
+          "type": "number"
+        },
+        "% Change Jan - Feb County": {
+          "type": "number"
+        },
+        "% Change Dec - Jan County": {
+          "type": "number"
+        },
+        "Past 2-year Average County": {
+          "type": "number"
+        },
+        "> 2-year Average County": {
+          "type": "boolean"
+        },
+        "Risk-Level County": {
+          "type": "number"
+        }
+      }
+    },
+    "county_riots_alerts": {
+      "flow_type": "data_list",
+      "flow_name": "county_riots_alerts",
+      "_xlsxPath": "templates/global/list_view_page.xlsx",
+      "_metadata": {
+        "Riot Probability County": {
+          "type": "number"
+        },
+        "% Change Jan - Feb County": {
+          "type": "number"
+        },
+        "% Change Dec - Jan County": {
+          "type": "number"
+        },
+        "Past 2-year Average County": {
+          "type": "number"
+        },
+        "> 2-year Average County": {
+          "type": "boolean"
+        },
+        "Risk-Level County": {
+          "type": "number"
+        }
+      }
+    },
+    "fat_county_column_info": {
+      "flow_type": "data_list",
+      "flow_name": "fat_county_column_info",
+      "_xlsxPath": "templates/global/list_view_page.xlsx"
+    },
+    "fat_full_column_info": {
+      "flow_type": "data_list",
+      "flow_name": "fat_full_column_info",
+      "_xlsxPath": "templates/global/list_view_page.xlsx"
+    },
+    "fat_subcounty_column_info": {
+      "flow_type": "data_list",
+      "flow_name": "fat_subcounty_column_info",
+      "_xlsxPath": "templates/global/list_view_page.xlsx"
+    },
     "fatalities_data": {
       "flow_type": "data_list",
       "flow_name": "fatalities_data",
@@ -26,48 +91,7 @@
     "fatalities_forecast_alerts_data": {
       "flow_type": "data_list",
       "flow_name": "fatalities_forecast_alerts_data",
-      "_xlsxPath": "datalists/fatalities_forecast_alerts_data.xlsx",
-      "_metadata": {
-        "preds_subcounty": {
-          "type": "number"
-        },
-        "preds_average_subcounty": {
-          "type": "number"
-        },
-        "change_current_subcounty": {
-          "type": "number"
-        },
-        "change_previous_subcounty": {
-          "type": "number"
-        },
-        "2_month_consec_increase_subcounty": {
-          "type": "boolean"
-        },
-        "change_to_average_subcounty": {
-          "type": "number"
-        },
-        "risk_level_subcounty": {
-          "type": "number"
-        },
-        "preds_county": {
-          "type": "number"
-        },
-        "preds_average_county": {
-          "type": "number"
-        },
-        "change_current_county": {
-          "type": "number"
-        },
-        "change_previous_county": {
-          "type": "number"
-        },
-        "change_to_average_county": {
-          "type": "number"
-        },
-        "risk_level_county": {
-          "type": "number"
-        }
-      }
+      "_xlsxPath": "datalists/fatalities_forecast_alerts_data.xlsx"
     },
     "fatalities_infra_layers": {
       "flow_type": "data_list",
@@ -240,6 +264,21 @@
         }
       }
     },
+    "riot_county_column_info": {
+      "flow_type": "data_list",
+      "flow_name": "riot_county_column_info",
+      "_xlsxPath": "templates/global/list_view_page.xlsx"
+    },
+    "riot_full_column_info": {
+      "flow_type": "data_list",
+      "flow_name": "riot_full_column_info",
+      "_xlsxPath": "templates/global/list_view_page.xlsx"
+    },
+    "riot_subcounty_column_info": {
+      "flow_type": "data_list",
+      "flow_name": "riot_subcounty_column_info",
+      "_xlsxPath": "templates/global/list_view_page.xlsx"
+    },
     "riots_data": {
       "flow_type": "data_list",
       "flow_name": "riots_data",
@@ -267,43 +306,43 @@
       "flow_name": "riots_forecast_alerts_data",
       "_xlsxPath": "datalists/riots_forecast_alerts_data.xlsx",
       "_metadata": {
-        "preds_subcounty": {
+        "Riot Probability Sub-County": {
           "type": "number"
         },
-        "preds_average_subcounty": {
-          "type": "number"
-        },
-        "change_current_subcounty": {
-          "type": "number"
-        },
-        "change_previous_subcounty": {
-          "type": "number"
-        },
-        "2_month_consec_increase_subcounty": {
+        "Predictions Increasing Sub-County": {
           "type": "boolean"
         },
-        "change_to_average_subcounty": {
+        "% Change Jan - Feb Sub-County": {
           "type": "number"
         },
-        "risk_level_subcounty": {
+        "% Change Dec - Jan Sub-County": {
           "type": "number"
         },
-        "preds_county": {
+        "Past 2-year Average Sub-County": {
           "type": "number"
         },
-        "preds_average_county": {
+        "> 2-year Average Sub-County": {
+          "type": "boolean"
+        },
+        "Risk-Level Sub-County": {
           "type": "number"
         },
-        "change_current_county": {
+        "Riot Probability County": {
           "type": "number"
         },
-        "change_previous_county": {
+        "% Change Jan - Feb County": {
           "type": "number"
         },
-        "change_to_average_county": {
+        "% Change Dec - Jan County": {
           "type": "number"
         },
-        "risk_level_county": {
+        "Past 2-year Average County": {
+          "type": "number"
+        },
+        "> 2-year Average County": {
+          "type": "boolean"
+        },
+        "Risk-Level County": {
           "type": "number"
         }
       }
@@ -340,6 +379,62 @@
         },
         "visible_default": {
           "type": "boolean"
+        }
+      }
+    },
+    "subcounty_fat_alerts": {
+      "flow_type": "data_list",
+      "flow_name": "subcounty_fat_alerts",
+      "_xlsxPath": "templates/global/list_view_page.xlsx",
+      "_metadata": {
+        "Fatalities Sub-County": {
+          "type": "number"
+        },
+        "Predictions Increasing Sub-County": {
+          "type": "boolean"
+        },
+        "% Change Jan - Feb Sub-County": {
+          "type": "number"
+        },
+        "% Change Dec - Jan Sub-County": {
+          "type": "number"
+        },
+        "Past 2-year Average Sub-County": {
+          "type": "number"
+        },
+        "> 2-year Average Sub-County": {
+          "type": "boolean"
+        },
+        "Risk-Level Sub-County": {
+          "type": "number"
+        }
+      }
+    },
+    "subcounty_riots_alerts": {
+      "flow_type": "data_list",
+      "flow_name": "subcounty_riots_alerts",
+      "_xlsxPath": "templates/global/list_view_page.xlsx",
+      "_metadata": {
+        "Riot Probability Sub-County": {
+          "type": "number"
+        },
+        "Predictions Increasing Sub-County": {
+          "type": "boolean"
+        },
+        "% Change Jan - Feb Sub-County": {
+          "type": "number"
+        },
+        "% Change Dec - Jan Sub-County": {
+          "type": "number"
+        },
+        "Past 2-year Average Sub-County": {
+          "type": "number"
+        },
+        "> 2-year Average Sub-County": {
+          "type": "boolean"
+        },
+        "Risk-Level Sub-County": {
+          "type": "number"
         }
       }
     }
