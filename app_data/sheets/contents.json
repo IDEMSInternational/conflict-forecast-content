@@ -9,12 +9,6 @@
         "Fatalities County": {
           "type": "number"
         },
-        "% Change Jan - Feb County": {
-          "type": "number"
-        },
-        "% Change Dec - Jan County": {
-          "type": "number"
-        },
         "Past 2-year Average County": {
           "type": "number"
         },
@@ -32,12 +26,6 @@
       "_xlsxPath": "templates/global/list_view_page.xlsx",
       "_metadata": {
         "Riot Probability County": {
-          "type": "number"
-        },
-        "% Change Jan - Feb County": {
-          "type": "number"
-        },
-        "% Change Dec - Jan County": {
           "type": "number"
         },
         "Past 2-year Average County": {
@@ -91,7 +79,36 @@
     "fatalities_forecast_alerts_data": {
       "flow_type": "data_list",
       "flow_name": "fatalities_forecast_alerts_data",
-      "_xlsxPath": "datalists/fatalities_forecast_alerts_data.xlsx"
+      "_xlsxPath": "datalists/fatalities_forecast_alerts_data.xlsx",
+      "_metadata": {
+        "Fatalities Sub-County": {
+          "type": "number"
+        },
+        "Predictions Increasing Sub-County": {
+          "type": "boolean"
+        },
+        "Past 2-year Average Sub-County": {
+          "type": "number"
+        },
+        "> 2-year Average Sub-County": {
+          "type": "boolean"
+        },
+        "Risk-Level Sub-County": {
+          "type": "number"
+        },
+        "Fatalities County": {
+          "type": "number"
+        },
+        "Past 2-year Average County": {
+          "type": "number"
+        },
+        "> 2-year Average County": {
+          "type": "boolean"
+        },
+        "Risk-Level County": {
+          "type": "number"
+        }
+      }
     },
     "fatalities_infra_layers": {
       "flow_type": "data_list",
@@ -312,12 +329,6 @@
         "Predictions Increasing Sub-County": {
           "type": "boolean"
         },
-        "% Change Jan - Feb Sub-County": {
-          "type": "number"
-        },
-        "% Change Dec - Jan Sub-County": {
-          "type": "number"
-        },
         "Past 2-year Average Sub-County": {
           "type": "number"
         },
@@ -328,12 +339,6 @@
           "type": "number"
         },
         "Riot Probability County": {
-          "type": "number"
-        },
-        "% Change Jan - Feb County": {
-          "type": "number"
-        },
-        "% Change Dec - Jan County": {
           "type": "number"
         },
         "Past 2-year Average County": {
@@ -393,12 +398,6 @@
         "Predictions Increasing Sub-County": {
           "type": "boolean"
         },
-        "% Change Jan - Feb Sub-County": {
-          "type": "number"
-        },
-        "% Change Dec - Jan Sub-County": {
-          "type": "number"
-        },
         "Past 2-year Average Sub-County": {
           "type": "number"
         },
@@ -420,12 +419,6 @@
         },
         "Predictions Increasing Sub-County": {
           "type": "boolean"
-        },
-        "% Change Jan - Feb Sub-County": {
-          "type": "number"
-        },
-        "% Change Dec - Jan Sub-County": {
-          "type": "number"
         },
         "Past 2-year Average Sub-County": {
           "type": "number"

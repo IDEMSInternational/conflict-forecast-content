@@ -12,7 +12,7 @@
 | subtitle | 5 |
 | table | 6 |
 | template | 2 |
-| text | 23 |
+| text | 38 |
 | title | 8 |
 </details>
 
