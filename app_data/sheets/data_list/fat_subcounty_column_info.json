@@ -6,42 +6,54 @@
     {
       "id": "id_1",
       "title": "Sub-County:",
-      "description": "Sub-County (can be filtered via search bar)"
+      "description_1": "Sub-County (can be filtered via search bar)"
     },
     {
       "id": "id_2",
-      "title": "Risk Levels\n\nRisk level 1:\nRisk level 2:\nRisk level 3:\nRisk level 4:\nRisk level 5:\nRisk level 6:\nRisk level 7:\nRisk level 8:",
-      "description": "Predicted risk-level (ranges from 1 to 8, based on \"bins\" for number of fatalities) for the 3 month period being forecast.\n\n‘0-0.03’\n‘0.04-0.09’\n‘0.1-0.19’\n‘0.2-0.29’\n‘0.3-0.49’\n‘0.5-0.69’\n‘0.7-0.89’\n‘0.9-1’"
+      "title": "Risk Levels",
+      "description_1": "Predicted risk-level (ranges from 1 to 8, based on \"bins\" for number of fatalities) for the 3 month period being forecast."
     },
     {
       "id": "id_3",
-      "title": "Fatalities:",
-      "description": "Predicted number of fatalities (rounded to whole numbers) for the 3 month period being forecast."
+      "title": "Risk Level\n\n    Riot Risk",
+      "description_1": "RL 1\n\n    0",
+      "description_2": "RL 2\n\n    1",
+      "description_3": "RL 3\n\n    2-5",
+      "description_4": "RL 4\n\n    6-10",
+      "description_5": "RL 5\n\n    11-25",
+      "description_6": "RL 6\n\n    26-50",
+      "description_7": "RL 7\n\n    51-100",
+      "description_8": "RL 8\n\n    >100"
     },
     {
       "id": "id_4",
-      "title": "Predictions Increasing:",
-      "description": "True if predictions have increased for two consecutive months (note: some % change values be slightly positive, but show as 0 due to rounding)."
+      "title": "Fatalities:",
+      "description_1": "Predicted number of fatalities (rounded to whole numbers) for the 3 month period being forecast."
     },
     {
       "id": "id_5",
-      "title": "% change [Jan] to [Feb]:",
-      "description": "Percentage change of the predictions from the previous month to the current month."
+      "title": "Predictions Increasing:",
+      "description_1": "True if predictions have increased for two consecutive months (note: some % change values be slightly positive, but show as 0 due to rounding)."
     },
     {
       "id": "id_6",
-      "title": "% change [Dec] to [Jan]:",
-      "description": "Percentage change of the predictions from 2 months ago to the previous month."
+      "title": "% change [Jan] to [Feb]:",
+      "description_1": "Percentage change of the predictions from the previous month to the current month."
     },
     {
       "id": "id_7",
-      "title": "Past 2-year Average:",
-      "description": "Average value predicted during the previous 2 years."
+      "title": "% change [Dec] to [Jan]:",
+      "description_1": "Percentage change of the predictions from 2 months ago to the previous month."
     },
     {
       "id": "id_8",
+      "title": "Past 2-year Average:",
+      "description_1": "Average value predicted during the previous 2 years."
+    },
+    {
+      "id": "id_9",
       "title": "> 2-year Average:",
-      "description": "True if the current month's prediction is higher than the average for the previous 2 years. False otherwise."
+      "description_1": "True if the current month's prediction is higher than the average for the previous 2 years. False otherwise."
     }
   ],
   "_xlsxPath": "templates/global/list_view_page.xlsx"

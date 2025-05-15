@@ -331,7 +331,7 @@
                 },
                 {
                   "type": "text",
-                  "value": "@item.description",
+                  "value": "@item.description_1",
                   "_translations": {
                     "value": {}
                   },
@@ -340,15 +340,183 @@
                   "_dynamicFields": {
                     "value": [
                       {
-                        "fullExpression": "@item.description",
-                        "matchedExpression": "@item.description",
+                        "fullExpression": "@item.description_1",
+                        "matchedExpression": "@item.description_1",
                         "type": "item",
-                        "fieldName": "description"
+                        "fieldName": "description_1"
                       }
                     ]
                   },
                   "_dynamicDependencies": {
-                    "@item.description": [
+                    "@item.description_1": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description_2",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_3",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_3",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description_2",
+                        "matchedExpression": "@item.description_2",
+                        "type": "item",
+                        "fieldName": "description_2"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description_2": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description_3",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_4",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_4",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description_3",
+                        "matchedExpression": "@item.description_3",
+                        "type": "item",
+                        "fieldName": "description_3"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description_3": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description_4",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_5",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_5",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description_4",
+                        "matchedExpression": "@item.description_4",
+                        "type": "item",
+                        "fieldName": "description_4"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description_4": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description_5",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_6",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_6",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description_5",
+                        "matchedExpression": "@item.description_5",
+                        "type": "item",
+                        "fieldName": "description_5"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description_5": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description_6",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_7",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_7",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description_6",
+                        "matchedExpression": "@item.description_6",
+                        "type": "item",
+                        "fieldName": "description_6"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description_6": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description_7",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_8",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_8",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description_7",
+                        "matchedExpression": "@item.description_7",
+                        "type": "item",
+                        "fieldName": "description_7"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description_7": [
+                      "value"
+                    ]
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": "@item.description_8",
+                  "_translations": {
+                    "value": {}
+                  },
+                  "name": "text_9",
+                  "_nested_name": "display_group_9.data_items_4.display_group_1.text_9",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@item.description_8",
+                        "matchedExpression": "@item.description_8",
+                        "type": "item",
+                        "fieldName": "description_8"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@item.description_8": [
                       "value"
                     ]
                   }
@@ -435,7 +603,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County",
+        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County",
         "show_search": "true",
         "sort_default": "Riot Probability Sub-County asc"
       },
@@ -468,7 +636,7 @@
         "value": {}
       },
       "parameter_list": {
-        "County, Riot Probability County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County": "true",
+        "display_columns": "County, Riot Probability County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
         "show_search": "true",
         "sort_default": "Riot Probability Sub-County asc"
       },
