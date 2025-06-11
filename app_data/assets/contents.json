@@ -36,12 +36,12 @@
   },
   "map_data/fatalities/airports.json": {
     "filePath": "global/map_data/fatalities/airports.json",
-    "md5Checksum": "be96f6032f38d81be2180a64fd317050",
-    "size_kb": 34.3
+    "md5Checksum": "b549b0cdf97658f4b63d43aa8ca4c4c4",
+    "size_kb": 33.3
   },
   "map_data/fatalities/krcs_branches.json": {
     "filePath": "global/map_data/fatalities/krcs_branches.json",
-    "md5Checksum": "68a4463469d58c8a95b329c6ba256804",
+    "md5Checksum": "689348215092510b7461eb34483ed4d1",
     "size_kb": 9.8
   },
   "map_data/fatalities/preds_fatalities.json": {
@@ -51,8 +51,8 @@
   },
   "map_data/fatalities/roads.json": {
     "filePath": "global/map_data/fatalities/roads.json",
-    "md5Checksum": "e7ed516a48e300ca680040997549cffe",
-    "size_kb": 1638.2
+    "md5Checksum": "a84b8eadccec1f4d0611415932a666d1",
+    "size_kb": 1641.8
   },
   "map_data/global/food_insecurity.json": {
     "filePath": "global/map_data/global/food_insecurity.json",
@@ -76,13 +76,13 @@
   },
   "map_data/riots/airports.json": {
     "filePath": "global/map_data/riots/airports.json",
-    "md5Checksum": "f3f3d39e87c8541b425d7c1db8ed4447",
-    "size_kb": 43.7
+    "md5Checksum": "80974d19398cd2431ffd93b293920fe1",
+    "size_kb": 34.6
   },
   "map_data/riots/krcs_branches.json": {
     "filePath": "global/map_data/riots/krcs_branches.json",
-    "md5Checksum": "12578a9463057327f8c96225deb0a3b5",
-    "size_kb": 12.7
+    "md5Checksum": "fd12b5a56fa4853490b8151dbbfbe344",
+    "size_kb": 10.1
   },
   "map_data/riots/preds_riots.json": {
     "filePath": "global/map_data/riots/preds_riots.json",
@@ -91,8 +91,8 @@
   },
   "map_data/riots/roads.json": {
     "filePath": "global/map_data/riots/roads.json",
-    "md5Checksum": "8911e2cab5029ed183f98856e8c625d0",
-    "size_kb": 1785.4
+    "md5Checksum": "4276d13b6932ccf39cf978e5e292351a",
+    "size_kb": 1659.7
   },
   "plotly_exports/population_2019.html": {
     "filePath": "global/plotly_exports/population_2019.html",
