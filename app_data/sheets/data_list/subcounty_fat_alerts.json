@@ -8,3190 +8,3480 @@
       "Sub-County": "Kapseret",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Uasin Gishu"
     },
     {
       "id": "id_2",
       "Sub-County": "Taveta",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Taita Taveta"
     },
     {
       "id": "id_3",
       "Sub-County": "Bumula",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_4",
       "Sub-County": "Gichugu",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "100.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "100.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Kirinyaga"
     },
     {
       "id": "id_5",
       "Sub-County": "Marakwet West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Elgeyo-Marakwet"
     },
     {
       "id": "id_6",
       "Sub-County": "Mathira",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyeri"
     },
     {
       "id": "id_7",
       "Sub-County": "Kitui South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_8",
       "Sub-County": "Keiyo North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Elgeyo-Marakwet"
     },
     {
       "id": "id_9",
       "Sub-County": "North Imenti",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_10",
       "Sub-County": "Bahati",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.5,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Nakuru"
     },
     {
       "id": "id_11",
       "Sub-County": "Awendo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_12",
       "Sub-County": "Lamu East",
       "Fatalities Sub-County": 2,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "-100.00%",
-      "% Change Dec - Jan Sub-County": "200.00%",
+      "% Change Jan - Feb Sub-County": "-100.0%",
+      "% Change Dec - Jan Sub-County": "200.0%",
       "Past 2-year Average Sub-County": 2.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 3
+      "Risk-Level Sub-County": 3,
+      "County": "Lamu"
     },
     {
       "id": "id_13",
       "Sub-County": "Tinderet",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nandi"
     },
     {
       "id": "id_14",
       "Sub-County": "Lugari",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_15",
       "Sub-County": "Bura",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.4,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Tana River"
     },
     {
       "id": "id_16",
       "Sub-County": "Eldama Ravine",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Baringo"
     },
     {
       "id": "id_17",
       "Sub-County": "Teso South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Busia"
     },
     {
       "id": "id_18",
       "Sub-County": "Kilifi North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kilifi"
     },
     {
       "id": "id_19",
       "Sub-County": "Nyaribari Masaba",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_20",
       "Sub-County": "Nyaribari Chache",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.6,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_21",
       "Sub-County": "Kitui Central",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_22",
       "Sub-County": "Matungu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_23",
       "Sub-County": "Cherangany",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Trans Nzoia"
     },
     {
       "id": "id_24",
       "Sub-County": "Kigumo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Murang'a"
     },
     {
       "id": "id_25",
       "Sub-County": "Baringo Central",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Baringo"
     },
     {
       "id": "id_26",
       "Sub-County": "Msambweni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kwale"
     },
     {
       "id": "id_27",
       "Sub-County": "Homa Bay",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_28",
       "Sub-County": "Turkana East",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1.4,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Turkana"
     },
     {
       "id": "id_29",
       "Sub-County": "Mumias West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_30",
       "Sub-County": "Narok North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Narok"
     },
     {
       "id": "id_31",
       "Sub-County": "Dadaab",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "-100.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "-100.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.9,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Garissa"
     },
     {
       "id": "id_32",
       "Sub-County": "Kilifi South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kilifi"
     },
     {
       "id": "id_33",
       "Sub-County": "Jomvu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mombasa"
     },
     {
       "id": "id_34",
       "Sub-County": "Chesumei",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nandi"
     },
     {
       "id": "id_35",
       "Sub-County": "Kamukunji",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_36",
       "Sub-County": "Rongai",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_37",
       "Sub-County": "Mwingi West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_38",
       "Sub-County": "Endebess",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Trans Nzoia"
     },
     {
       "id": "id_39",
       "Sub-County": "Kipkelion West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kericho"
     },
     {
       "id": "id_40",
       "Sub-County": "Mandera East",
       "Fatalities Sub-County": 2,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.9,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 3
+      "Risk-Level Sub-County": 3,
+      "County": "Mandera"
     },
     {
       "id": "id_41",
       "Sub-County": "Makueni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Makueni"
     },
     {
       "id": "id_42",
       "Sub-County": "Kinango",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kwale"
     },
     {
       "id": "id_43",
       "Sub-County": "Webuye West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_44",
       "Sub-County": "South Mugirango",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_45",
       "Sub-County": "Laikipia North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Laikipia"
     },
     {
       "id": "id_46",
       "Sub-County": "Matungulu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Machakos"
     },
     {
       "id": "id_47",
       "Sub-County": "Kasarani",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.6,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Nairobi"
     },
     {
       "id": "id_48",
       "Sub-County": "Kibwezi West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Makueni"
     },
     {
       "id": "id_49",
       "Sub-County": "Marakwet East",
       "Fatalities Sub-County": 2,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 2.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 3
+      "Risk-Level Sub-County": 3,
+      "County": "Elgeyo-Marakwet"
     },
     {
       "id": "id_50",
       "Sub-County": "Mandera South",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Mandera"
     },
     {
       "id": "id_51",
       "Sub-County": "Turkana Central",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "100.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "100.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.6,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Turkana"
     },
     {
       "id": "id_52",
       "Sub-County": "Mbooni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Makueni"
     },
     {
       "id": "id_53",
       "Sub-County": "Lamu West",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 3.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Lamu"
     },
     {
       "id": "id_54",
       "Sub-County": "Manyatta",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Embu"
     },
     {
       "id": "id_55",
       "Sub-County": "Pokot South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "West Pokot"
     },
     {
       "id": "id_56",
       "Sub-County": "Moyale",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Marsabit"
     },
     {
       "id": "id_57",
       "Sub-County": "Kisauni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mombasa"
     },
     {
       "id": "id_58",
       "Sub-County": "Malindi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kilifi"
     },
     {
       "id": "id_59",
       "Sub-County": "Changamwe",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mombasa"
     },
     {
       "id": "id_60",
       "Sub-County": "Isiolo North",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1.8,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Isiolo"
     },
     {
       "id": "id_61",
       "Sub-County": "Uriri",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_62",
       "Sub-County": "Embakasi South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_63",
       "Sub-County": "Tigania West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_64",
       "Sub-County": "Kuresoi South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_65",
       "Sub-County": "Fafi",
       "Fatalities Sub-County": 2,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 2.8,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 3
+      "Risk-Level Sub-County": 3,
+      "County": "Garissa"
     },
     {
       "id": "id_66",
       "Sub-County": "Malava",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_67",
       "Sub-County": "Bobasi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_68",
       "Sub-County": "Kwanza",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Trans Nzoia"
     },
     {
       "id": "id_69",
       "Sub-County": "Kitutu Chache South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_70",
       "Sub-County": "Kipipiri",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyandarua"
     },
     {
       "id": "id_71",
       "Sub-County": "Ruaraka",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_72",
       "Sub-County": "West Mugirango",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyamira"
     },
     {
       "id": "id_73",
       "Sub-County": "Aldai",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nandi"
     },
     {
       "id": "id_74",
       "Sub-County": "Likuyani",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_75",
       "Sub-County": "Suna West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_76",
       "Sub-County": "Laikipia East",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Laikipia"
     },
     {
       "id": "id_77",
       "Sub-County": "Muhoroni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisumu"
     },
     {
       "id": "id_78",
       "Sub-County": "Khwisero",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_79",
       "Sub-County": "Starehe",
       "Fatalities Sub-County": 2,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 1.4,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 3
+      "Risk-Level Sub-County": 3,
+      "County": "Nairobi"
     },
     {
       "id": "id_80",
       "Sub-County": "Kibra",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 0.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_81",
       "Sub-County": "Gatanga",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Murang'a"
     },
     {
       "id": "id_82",
       "Sub-County": "Kaloleni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kilifi"
     },
     {
       "id": "id_83",
       "Sub-County": "Kisumu West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisumu"
     },
     {
       "id": "id_84",
       "Sub-County": "Ndaragwa",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyandarua"
     },
     {
       "id": "id_85",
       "Sub-County": "Lari",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_86",
       "Sub-County": "Mvita",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mombasa"
     },
     {
       "id": "id_87",
       "Sub-County": "Baringo South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 0.9,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Baringo"
     },
     {
       "id": "id_88",
       "Sub-County": "Eldas",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Wajir"
     },
     {
       "id": "id_89",
       "Sub-County": "Mwatate",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Taita Taveta"
     },
     {
       "id": "id_90",
       "Sub-County": "Buuri",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_91",
       "Sub-County": "Kitui East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_92",
       "Sub-County": "Kaiti",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Makueni"
     },
     {
       "id": "id_93",
       "Sub-County": "South Imenti",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_94",
       "Sub-County": "Ugenya",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Siaya"
     },
     {
       "id": "id_95",
       "Sub-County": "Nandi Hills",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nandi"
     },
     {
       "id": "id_96",
       "Sub-County": "Magarini",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kilifi"
     },
     {
       "id": "id_97",
       "Sub-County": "Kabondo Kasipul",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_98",
       "Sub-County": "North Horr",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "100.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "100.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.4,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Marsabit"
     },
     {
       "id": "id_99",
       "Sub-County": "Othaya",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyeri"
     },
     {
       "id": "id_100",
       "Sub-County": "Matuga",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kwale"
     },
     {
       "id": "id_101",
       "Sub-County": "Buret",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kericho"
     },
     {
       "id": "id_102",
       "Sub-County": "Kiambu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_103",
       "Sub-County": "Siakago",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Embu"
     },
     {
       "id": "id_104",
       "Sub-County": "Wundanyi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Taita Taveta"
     },
     {
       "id": "id_105",
       "Sub-County": "Laisamis",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.7,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Marsabit"
     },
     {
       "id": "id_106",
       "Sub-County": "Kinangop",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyandarua"
     },
     {
       "id": "id_107",
       "Sub-County": "Laikipia West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Laikipia"
     },
     {
       "id": "id_108",
       "Sub-County": "Butere",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_109",
       "Sub-County": "Makadara",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "-100.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "-100.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_110",
       "Sub-County": "Njoro",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_111",
       "Sub-County": "Kiambaa",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_112",
       "Sub-County": "Wajir South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Wajir"
     },
     {
       "id": "id_113",
       "Sub-County": "Ndia",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kirinyaga"
     },
     {
       "id": "id_114",
       "Sub-County": "Mandera West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mandera"
     },
     {
       "id": "id_115",
       "Sub-County": "Githunguri",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_116",
       "Sub-County": "Mumias East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_117",
       "Sub-County": "Tharaka",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Tharaka-Nithi"
     },
     {
       "id": "id_118",
       "Sub-County": "Kilgoris",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.5,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Narok"
     },
     {
       "id": "id_119",
       "Sub-County": "Ugunja",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Siaya"
     },
     {
       "id": "id_120",
       "Sub-County": "Mwea",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Kirinyaga"
     },
     {
       "id": "id_121",
       "Sub-County": "Isiolo South",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "100.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "100.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Isiolo"
     },
     {
       "id": "id_122",
       "Sub-County": "Kabuchai",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_123",
       "Sub-County": "Bonchari",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_124",
       "Sub-County": "Suna East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_125",
       "Sub-County": "Keiyo South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Elgeyo-Marakwet"
     },
     {
       "id": "id_126",
       "Sub-County": "Ndhiwa",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_127",
       "Sub-County": "Masinga",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Machakos"
     },
     {
       "id": "id_128",
       "Sub-County": "Limuru",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_129",
       "Sub-County": "Mukurweni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyeri"
     },
     {
       "id": "id_130",
       "Sub-County": "Kanduyi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_131",
       "Sub-County": "Langata",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_132",
       "Sub-County": "Samburu North",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 2.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Samburu"
     },
     {
       "id": "id_133",
       "Sub-County": "Gem",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Siaya"
     },
     {
       "id": "id_134",
       "Sub-County": "Cental Imenti",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_135",
       "Sub-County": "Bomet Central",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bomet"
     },
     {
       "id": "id_136",
       "Sub-County": "Lunga Lunga",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kwale"
     },
     {
       "id": "id_137",
       "Sub-County": "Tarbaj",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Wajir"
     },
     {
       "id": "id_138",
       "Sub-County": "Suba North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_139",
       "Sub-County": "Lagdera",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Garissa"
     },
     {
       "id": "id_140",
       "Sub-County": "Hamisi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Vihiga"
     },
     {
       "id": "id_141",
       "Sub-County": "Kathiani",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Machakos"
     },
     {
       "id": "id_142",
       "Sub-County": "Ainamoi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kericho"
     },
     {
       "id": "id_143",
       "Sub-County": "Kisumu Central",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Kisumu"
     },
     {
       "id": "id_144",
       "Sub-County": "Ruiru",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_145",
       "Sub-County": "Kajiado East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kajiado"
     },
     {
       "id": "id_146",
       "Sub-County": "Maara",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Tharaka-Nithi"
     },
     {
       "id": "id_147",
       "Sub-County": "Mathioya",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Murang'a"
     },
     {
       "id": "id_148",
       "Sub-County": "Belgut",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kericho"
     },
     {
       "id": "id_149",
       "Sub-County": "Alego Usonga",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Siaya"
     },
     {
       "id": "id_150",
       "Sub-County": "Kesses",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Uasin Gishu"
     },
     {
       "id": "id_151",
       "Sub-County": "Soy",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Uasin Gishu"
     },
     {
       "id": "id_152",
       "Sub-County": "Teso North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Busia"
     },
     {
       "id": "id_153",
       "Sub-County": "Turkana North",
       "Fatalities Sub-County": 4,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "400.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "400.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 1.1,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 3
+      "Risk-Level Sub-County": 3,
+      "County": "Turkana"
     },
     {
       "id": "id_154",
       "Sub-County": "Nyali",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mombasa"
     },
     {
       "id": "id_155",
       "Sub-County": "Borabu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyamira"
     },
     {
       "id": "id_156",
       "Sub-County": "Nyeri Town",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyeri"
     },
     {
       "id": "id_157",
       "Sub-County": "Dujis",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.8,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Garissa"
     },
     {
       "id": "id_158",
       "Sub-County": "Mosop",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nandi"
     },
     {
       "id": "id_159",
       "Sub-County": "Igembe South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_160",
       "Sub-County": "Nyakach",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisumu"
     },
     {
       "id": "id_161",
       "Sub-County": "Ganze",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kilifi"
     },
     {
       "id": "id_162",
       "Sub-County": "Kilimani",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_163",
       "Sub-County": "Kajiado West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kajiado"
     },
     {
       "id": "id_164",
       "Sub-County": "Kasipul",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_165",
       "Sub-County": "Kieni",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.3,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Nyeri"
     },
     {
       "id": "id_166",
       "Sub-County": "Vihiga",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Vihiga"
     },
     {
       "id": "id_167",
       "Sub-County": "Naivasha",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_168",
       "Sub-County": "Konoin",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bomet"
     },
     {
       "id": "id_169",
       "Sub-County": "Kuresoi North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_170",
       "Sub-County": "Budalangi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Busia"
     },
     {
       "id": "id_171",
       "Sub-County": "Banissa",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 0.4,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mandera"
     },
     {
       "id": "id_172",
       "Sub-County": "Yatta",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Machakos"
     },
     {
       "id": "id_173",
       "Sub-County": "Mt. Elgon",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_174",
       "Sub-County": "Bomachoge Chache",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_175",
       "Sub-County": "Kitutu Masaba",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyamira"
     },
     {
       "id": "id_176",
       "Sub-County": "Rongo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_177",
       "Sub-County": "Sabatia",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Vihiga"
     },
     {
       "id": "id_178",
       "Sub-County": "Nakuru Town West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_179",
       "Sub-County": "Nambale",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Busia"
     },
     {
       "id": "id_180",
       "Sub-County": "Narok East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Narok"
     },
     {
       "id": "id_181",
       "Sub-County": "Samburu West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "-100.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "-100.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Samburu"
     },
     {
       "id": "id_182",
       "Sub-County": "Maragwa",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Murang'a"
     },
     {
       "id": "id_183",
       "Sub-County": "Navakholo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_184",
       "Sub-County": "Likoni",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Mombasa"
     },
     {
       "id": "id_185",
       "Sub-County": "Mavoko",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.6,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Machakos"
     },
     {
       "id": "id_186",
       "Sub-County": "Kajiado North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kajiado"
     },
     {
       "id": "id_187",
       "Sub-County": "Ol Jorok",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyandarua"
     },
     {
       "id": "id_188",
       "Sub-County": "Igembe Central",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_189",
       "Sub-County": "Kangema",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Murang'a"
     },
     {
       "id": "id_190",
       "Sub-County": "Ikolomani",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_191",
       "Sub-County": "Galole",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Tana River"
     },
     {
       "id": "id_192",
       "Sub-County": "Matayos",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Busia"
     },
     {
       "id": "id_193",
       "Sub-County": "Mwingi East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_194",
       "Sub-County": "Mwala",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Machakos"
     },
     {
       "id": "id_195",
       "Sub-County": "Emgwen",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nandi"
     },
     {
       "id": "id_196",
       "Sub-County": "Kiharu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Murang'a"
     },
     {
       "id": "id_197",
       "Sub-County": "Luanda",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Vihiga"
     },
     {
       "id": "id_198",
       "Sub-County": "Loima",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Turkana"
     },
     {
       "id": "id_199",
       "Sub-County": "Turbo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Uasin Gishu"
     },
     {
       "id": "id_200",
       "Sub-County": "Embakasi West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_201",
       "Sub-County": "Rabai",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kilifi"
     },
     {
       "id": "id_202",
       "Sub-County": "Gatundu North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_203",
       "Sub-County": "Voi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Taita Taveta"
     },
     {
       "id": "id_204",
       "Sub-County": "Embakasi Central",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_205",
       "Sub-County": "Narok South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Narok"
     },
     {
       "id": "id_206",
       "Sub-County": "Kibwezi East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Makueni"
     },
     {
       "id": "id_207",
       "Sub-County": "Embakasi East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_208",
       "Sub-County": "Moiben",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Uasin Gishu"
     },
     {
       "id": "id_209",
       "Sub-County": "Webuye East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_210",
       "Sub-County": "Nyando",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisumu"
     },
     {
       "id": "id_211",
       "Sub-County": "Wajir North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Wajir"
     },
     {
       "id": "id_212",
       "Sub-County": "Turkana West",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Turkana"
     },
     {
       "id": "id_213",
       "Sub-County": "Narok West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Narok"
     },
     {
       "id": "id_214",
       "Sub-County": "Kuria East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_215",
       "Sub-County": "Nyatike",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_216",
       "Sub-County": "Kajiado Central",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kajiado"
     },
     {
       "id": "id_217",
       "Sub-County": "Rarieda",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Siaya"
     },
     {
       "id": "id_218",
       "Sub-County": "Mwingi North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_219",
       "Sub-County": "Ijara",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "-100.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "-100.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Garissa"
     },
     {
       "id": "id_220",
       "Sub-County": "Mandera North",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.9,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Mandera"
     },
     {
       "id": "id_221",
       "Sub-County": "Kitui West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_222",
       "Sub-County": "Bomet East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bomet"
     },
     {
       "id": "id_223",
       "Sub-County": "Kilome",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Makueni"
     },
     {
       "id": "id_224",
       "Sub-County": "Tongaren",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_225",
       "Sub-County": "Garsen",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Tana River"
     },
     {
       "id": "id_226",
       "Sub-County": "Kapenguria",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "West Pokot"
     },
     {
       "id": "id_227",
       "Sub-County": "Machakos Town",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Machakos"
     },
     {
       "id": "id_228",
       "Sub-County": "Balambala",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Garissa"
     },
     {
       "id": "id_229",
       "Sub-County": "Embakasi North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_230",
       "Sub-County": "Gatundu South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_231",
       "Sub-County": "Samburu East",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.6,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Samburu"
     },
     {
       "id": "id_232",
       "Sub-County": "Nakuru Town East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_233",
       "Sub-County": "Subukia",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_234",
       "Sub-County": "Sigor",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "West Pokot"
     },
     {
       "id": "id_235",
       "Sub-County": "Sigowet/Soin",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kericho"
     },
     {
       "id": "id_236",
       "Sub-County": "Karachuonyo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_237",
       "Sub-County": "Bondo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Siaya"
     },
     {
       "id": "id_238",
       "Sub-County": "Molo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_239",
       "Sub-County": "Juja",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_240",
       "Sub-County": "Mogotio",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Baringo"
     },
     {
       "id": "id_241",
       "Sub-County": "Kandara",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Murang'a"
     },
     {
       "id": "id_242",
       "Sub-County": "Wajir West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Wajir"
     },
     {
       "id": "id_243",
       "Sub-County": "Kuria West",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Migori"
     },
     {
       "id": "id_244",
       "Sub-County": "Kikuyu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_245",
       "Sub-County": "Turkana South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.8,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Turkana"
     },
     {
       "id": "id_246",
       "Sub-County": "Suba South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_247",
       "Sub-County": "Wajir East",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.4,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Wajir"
     },
     {
       "id": "id_248",
       "Sub-County": "Nithi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Tharaka-Nithi"
     },
     {
       "id": "id_249",
       "Sub-County": "Kitui Rural",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kitui"
     },
     {
       "id": "id_250",
       "Sub-County": "Lafey",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "-100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "-100.0%",
       "Past 2-year Average Sub-County": 1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Mandera"
     },
     {
       "id": "id_251",
       "Sub-County": "Roysambu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_252",
       "Sub-County": "Kitutu Chache North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_253",
       "Sub-County": "Saboti",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.3,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Trans Nzoia"
     },
     {
       "id": "id_254",
       "Sub-County": "Lurambi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_255",
       "Sub-County": "Kirinyaga Central",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kirinyaga"
     },
     {
       "id": "id_256",
       "Sub-County": "Gilgil",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nakuru"
     },
     {
       "id": "id_257",
       "Sub-County": "Kipkelion East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kericho"
     },
     {
       "id": "id_258",
       "Sub-County": "Kabete",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kiambu"
     },
     {
       "id": "id_259",
       "Sub-County": "Runyenjes",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Embu"
     },
     {
       "id": "id_260",
       "Sub-County": "Butula",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Busia"
     },
     {
       "id": "id_261",
       "Sub-County": "Kajiado South",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kajiado"
     },
     {
       "id": "id_262",
       "Sub-County": "Funyula",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Busia"
     },
     {
       "id": "id_263",
       "Sub-County": "Tiaty",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 0.8,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Baringo"
     },
     {
       "id": "id_264",
       "Sub-County": "Kacheliba",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.5,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "West Pokot"
     },
     {
       "id": "id_265",
       "Sub-County": "Kiminini",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Trans Nzoia"
     },
     {
       "id": "id_266",
       "Sub-County": "Seme",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisumu"
     },
     {
       "id": "id_267",
       "Sub-County": "Emurua Dikirr",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Narok"
     },
     {
       "id": "id_268",
       "Sub-County": "Kisumu East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisumu"
     },
     {
       "id": "id_269",
       "Sub-County": "Mathare",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "-100.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "-100.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 0.2,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_270",
       "Sub-County": "Ol Kalou",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyandarua"
     },
     {
       "id": "id_271",
       "Sub-County": "Emuhaya",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Vihiga"
     },
     {
       "id": "id_272",
       "Sub-County": "Igembe North",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Meru"
     },
     {
       "id": "id_273",
       "Sub-County": "Ainabkoi",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Uasin Gishu"
     },
     {
       "id": "id_274",
       "Sub-County": "Tigania East",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Meru"
     },
     {
       "id": "id_275",
       "Sub-County": "Shinyalu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kakamega"
     },
     {
       "id": "id_276",
       "Sub-County": "Tetu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyeri"
     },
     {
       "id": "id_277",
       "Sub-County": "Sotik",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bomet"
     },
     {
       "id": "id_278",
       "Sub-County": "Gachoka",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Embu"
     },
     {
       "id": "id_279",
       "Sub-County": "Thika Town",
       "Fatalities Sub-County": 1,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "100.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "100.0%",
       "Past 2-year Average Sub-County": 0.3,
       "> 2-year Average Sub-County": true,
-      "Risk-Level Sub-County": 2
+      "Risk-Level Sub-County": 2,
+      "County": "Kiambu"
     },
     {
       "id": "id_280",
       "Sub-County": "Baringo North",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Baringo"
     },
     {
       "id": "id_281",
       "Sub-County": "Saku",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Marsabit"
     },
     {
       "id": "id_282",
       "Sub-County": "Kangundo",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Machakos"
     },
     {
       "id": "id_283",
       "Sub-County": "Bomachoge Borabu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Kisii"
     },
     {
       "id": "id_284",
       "Sub-County": "Sirisia",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_285",
       "Sub-County": "North Mugirango",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nyamira"
     },
     {
       "id": "id_286",
       "Sub-County": "Chepalungu",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bomet"
     },
     {
       "id": "id_287",
       "Sub-County": "Dagoretti",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     },
     {
       "id": "id_288",
       "Sub-County": "Rangwe",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Homa Bay"
     },
     {
       "id": "id_289",
       "Sub-County": "Kimilili",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Bungoma"
     },
     {
       "id": "id_290",
       "Sub-County": "Westlands",
       "Fatalities Sub-County": 0,
       "Predictions Increasing Sub-County": false,
-      "% Change Jan - Feb Sub-County": "0.00%",
-      "% Change Dec - Jan Sub-County": "0.00%",
+      "% Change Jan - Feb Sub-County": "0.0%",
+      "% Change Dec - Jan Sub-County": "0.0%",
       "Past 2-year Average Sub-County": 0.1,
       "> 2-year Average Sub-County": false,
-      "Risk-Level Sub-County": 1
+      "Risk-Level Sub-County": 1,
+      "County": "Nairobi"
     }
   ],
   "_xlsxPath": "templates/global/list_view_page.xlsx",
