@@ -14,7 +14,7 @@
     },
     {
       "type": "title",
-      "value": "Riots Forecast - Made in February (Mar - May 2025)",
+      "value": "Riots Forecast - Made in May (Jun - Aug 2025)",
       "_translations": {
         "value": {}
       },
@@ -570,7 +570,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County, Riot Probability County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
+        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Apr - May Sub-County, % Change Mar - Apr Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County, Riot Probability County, % Change Apr - May County, % Change Mar - Apr County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
         "show_search": "true",
         "sort_default": "Riot Probability Sub-County asc"
       },
@@ -603,7 +603,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County",
+        "display_columns": "Sub-County, Riot Probability Sub-County, Predictions Increasing Sub-County, % Change Apr - May Sub-County, % Change Mar - Apr Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County",
         "show_search": "true",
         "sort_default": "Riot Probability Sub-County asc"
       },
@@ -636,7 +636,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "County, Riot Probability County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
+        "display_columns": "County, Riot Probability County, % Change Apr - May County, % Change Mar - Apr County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
         "show_search": "true",
         "sort_default": "Riot Probability Sub-County asc"
       },

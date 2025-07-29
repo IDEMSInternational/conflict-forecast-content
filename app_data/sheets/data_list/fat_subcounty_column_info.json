@@ -37,12 +37,12 @@
     },
     {
       "id": "id_6",
-      "title": "% change [Jan] to [Feb]:",
+      "title": "% change [Apr] to [May]:",
       "description_1": "Percentage change of the predictions from the previous month to the current month."
     },
     {
       "id": "id_7",
-      "title": "% change [Dec] to [Jan]:",
+      "title": "% change [Mar] to [Apr]:",
       "description_1": "Percentage change of the predictions from 2 months ago to the previous month."
     },
     {

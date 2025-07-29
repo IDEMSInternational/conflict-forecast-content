@@ -36,22 +36,22 @@
   },
   "map_data/fatalities/airports.json": {
     "filePath": "global/map_data/fatalities/airports.json",
-    "md5Checksum": "b549b0cdf97658f4b63d43aa8ca4c4c4",
+    "md5Checksum": "ac9f7064183adb3a73a04a2f67c36b82",
     "size_kb": 33.3
   },
   "map_data/fatalities/krcs_branches.json": {
     "filePath": "global/map_data/fatalities/krcs_branches.json",
-    "md5Checksum": "689348215092510b7461eb34483ed4d1",
+    "md5Checksum": "1ef5d07b0a2a29f53c73890ffa7f60aa",
     "size_kb": 9.8
   },
   "map_data/fatalities/preds_fatalities.json": {
     "filePath": "global/map_data/fatalities/preds_fatalities.json",
-    "md5Checksum": "b3453e31648482974bd840beb0c3ad01",
-    "size_kb": 1323.6
+    "md5Checksum": "9adad8d356b0f17e31fc85932f981287",
+    "size_kb": 1322.7
   },
   "map_data/fatalities/roads.json": {
     "filePath": "global/map_data/fatalities/roads.json",
-    "md5Checksum": "a84b8eadccec1f4d0611415932a666d1",
+    "md5Checksum": "cf830d4fef8db5fdf8fa9e98308f8bfe",
     "size_kb": 1641.8
   },
   "map_data/global/food_insecurity.json": {
@@ -76,23 +76,23 @@
   },
   "map_data/riots/airports.json": {
     "filePath": "global/map_data/riots/airports.json",
-    "md5Checksum": "80974d19398cd2431ffd93b293920fe1",
+    "md5Checksum": "6c9622766a1c49ba25f842f1b9611358",
     "size_kb": 34.6
   },
   "map_data/riots/krcs_branches.json": {
     "filePath": "global/map_data/riots/krcs_branches.json",
-    "md5Checksum": "fd12b5a56fa4853490b8151dbbfbe344",
+    "md5Checksum": "0ae2fcaeb8e68320afb2dbcb3ec10274",
     "size_kb": 10.1
   },
   "map_data/riots/preds_riots.json": {
     "filePath": "global/map_data/riots/preds_riots.json",
-    "md5Checksum": "5672b0f0e002969601c1524fab4c8dd6",
-    "size_kb": 1326.3
+    "md5Checksum": "5ce7c911a4676869e3b71e4338a30949",
+    "size_kb": 1325.1
   },
   "map_data/riots/roads.json": {
     "filePath": "global/map_data/riots/roads.json",
-    "md5Checksum": "4276d13b6932ccf39cf978e5e292351a",
-    "size_kb": 1659.7
+    "md5Checksum": "81fcdfb2f17e5e9d5211f445bd190d40",
+    "size_kb": 1659.6
   },
   "plotly_exports/population_2019.html": {
     "filePath": "global/plotly_exports/population_2019.html",

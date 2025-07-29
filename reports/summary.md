@@ -31,7 +31,7 @@
 
 | assets | KB | MB |
 | --- | --- | --- |
-| total | 36152 KB | 36.2 MB |
+| total | 36150 KB | 36.1 MB |
 | unused | 7482 KB | 7.5 MB |
 </details>
 
@@ -77,7 +77,7 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | icons/red_cross_grey.png | 0.2 | 2 |
 | map_data/fatalities/airports.json | 33.3 | 1 |
 | map_data/fatalities/krcs_branches.json | 9.8 | 1 |
-| map_data/fatalities/preds_fatalities.json | 1323.6 | 4 |
+| map_data/fatalities/preds_fatalities.json | 1322.7 | 4 |
 | map_data/fatalities/roads.json | 1641.8 | 1 |
 | map_data/global/food_insecurity.json | 10948.3 | 1 |
 | map_data/global/population_10k.json | 4426.1 | 2 |
@@ -85,8 +85,8 @@ Assets that are used within sheets and also can be found in the synced asset dat
 | map_data/ke.json | 10219.4 | 5 |
 | map_data/riots/airports.json | 34.6 | 1 |
 | map_data/riots/krcs_branches.json | 10.1 | 1 |
-| map_data/riots/preds_riots.json | 1326.3 | 4 |
-| map_data/riots/roads.json | 1659.7 | 1 |
+| map_data/riots/preds_riots.json | 1325.1 | 4 |
+| map_data/riots/roads.json | 1659.6 | 1 |
 </details>
 
 <details >

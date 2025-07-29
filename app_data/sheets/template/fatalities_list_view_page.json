@@ -14,7 +14,7 @@
     },
     {
       "type": "title",
-      "value": "Fatalities Forecast - Made in February (Mar - May 2025)",
+      "value": "Fatalities Forecast - Made in May (Jun - Aug 2025)",
       "_translations": {
         "value": {}
       },
@@ -594,7 +594,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "Sub-County, Fatalities Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County, Fatalities County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
+        "display_columns": "Sub-County, Fatalities Sub-County, Predictions Increasing Sub-County, % Change Apr - May Sub-County, % Change Mar - Apr Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County, Fatalities County, % Change Apr - May County, % Change Mar - Apr County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
         "show_search": "true",
         "sort_default": "Fatalities Sub-County asc"
       },
@@ -627,7 +627,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "Sub-County, Fatalities Sub-County, Predictions Increasing Sub-County, % Change Jan - Feb Sub-County, % Change Dec - Jan Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County, Risk-Level Sub-County, County",
+        "display_columns": "Sub-County, Fatalities Sub-County, Predictions Increasing Sub-County\t, % Change Apr - May Sub-County, % Change Mar - Apr Sub-County, Past 2-year Average Sub-County, > 2-year Average Sub-County\t, Risk-Level Sub-County, County",
         "show_search": "true",
         "sort_default": "Riot Probability Sub-County asc"
       },
@@ -660,7 +660,7 @@
         "value": {}
       },
       "parameter_list": {
-        "display_columns": "County, Fatalities County, % Change Jan - Feb County, % Change Dec - Jan County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
+        "display_columns": "County, Fatalities County, % Change Apr - May County, % Change Mar - Apr County, Past 2-year Average County, > 2-year Average County, Risk-Level County",
         "show_search": "true",
         "sort_default": "Fatalities Sub-County asc"
       },

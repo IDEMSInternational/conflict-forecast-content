@@ -9,7 +9,7 @@
       "source_asset": "map_data/riots/preds_riots.json",
       "type": "vector",
       "stroke": "none",
-      "property": "bin",
+      "property": "risk_level",
       "scale_max": 8,
       "scale_min": 1,
       "scale_increment": 1,
