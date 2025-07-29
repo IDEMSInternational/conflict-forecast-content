@@ -67,8 +67,8 @@
     "data": [
       {
         "assets": "total",
-        "KB": "36152 KB",
-        "MB": "36.2 MB"
+        "KB": "36150 KB",
+        "MB": "36.1 MB"
       },
       {
         "assets": "unused",
@@ -172,7 +172,7 @@
       {
         "path": "map_data/fatalities/preds_fatalities.json",
         "count": 4,
-        "size_kb": 1323.6
+        "size_kb": 1322.7
       },
       {
         "path": "map_data/fatalities/roads.json",
@@ -212,12 +212,12 @@
       {
         "path": "map_data/riots/preds_riots.json",
         "count": 4,
-        "size_kb": 1326.3
+        "size_kb": 1325.1
       },
       {
         "path": "map_data/riots/roads.json",
         "count": 1,
-        "size_kb": 1659.7
+        "size_kb": 1659.6
       }
     ]
   },
